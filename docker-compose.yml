@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: juris
+      POSTGRES_PASSWORD: juris_pwd
+      POSTGRES_DB: juris_db
+    ports:
+      - "5432:5432"
+  redis:
+    image: redis:6
+    ports:
+      - "6379:6379"

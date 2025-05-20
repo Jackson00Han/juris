@@ -1,0 +1,7 @@
+__pycache__
+.git
+*.pyc
+venv
+flask-env
+Dockerfile*
+docker-compose.yml

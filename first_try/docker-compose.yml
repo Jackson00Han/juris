@@ -1,0 +1,17 @@
+services:
+  web:
+    build: .
+    ports:
+      - "5001:5001"
+    # In development, mounting your source is handy—but it hides your baked-in cache.
+    # In production you may remove this volume so the pre-cached models aren’t overwritten:
+    volumes:
+      - .:/app
+    environment:
+      - PORT=5001     # Not used by Gunicorn directly, but may be read by app.py
+    command: >
+      gunicorn app:app
+      --bind 0.0.0.0:5001
+      --workers 2
+      --preload
+      --timeout 600
