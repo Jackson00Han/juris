@@ -11,18 +11,25 @@ from typing import List, Optional
 import torch
 from config import settings
 
+# If this build of torch doesn’t have get_default_device (i.e. pre-2.0), define it:
+if not hasattr(torch, "get_default_device"):
+    torch.get_default_device = lambda: torch.device("cpu")
+
 # Configure logging
 logging.basicConfig(level=settings.log_level)
 logger = logging.getLogger("juris_backend")
 
 # Load models once at startup
-logger.info(f"Loading embedding model: {settings.embed_model}")
-embed_model = SentenceTransformer(settings.embed_model)
-logger.info(f"Loading LLM model: {settings.llm_model}")
+logger.info(f"Loading embedding model: {settings.embed_model} (CPU only)")
+embed_model = SentenceTransformer(
+    settings.embed_model,
+    device="cpu"            # force CPU, avoids any torch.get_default_device calls
+)
+logger.info(f"Loading LLM model: {settings.llm_model} (CPU only)")
 gpt_model = pipeline(
     "text2text-generation",
     model=settings.llm_model,
-    device=settings.device
+    device=-1               # -1 means “all CPU”
 )
 
 # FastAPI app
@@ -35,8 +42,6 @@ app = FastAPI(
 @app.get("/")
 def root():
     return {"message": "Welcome to Juris RAG API"}
-
-
 
 class AnswerResponse(BaseModel):
     answer: str
