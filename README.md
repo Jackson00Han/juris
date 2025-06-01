@@ -16,7 +16,6 @@ A full-stack legal document analysis platform leveraging AI to assist with parsi
 - [Running with Docker Compose](#running-with-docker-compose)  
 - [Development Workflow](#development-workflow)  
 - [Branching Strategy](#branching-strategy)  
-- [Contributing](#contributing)  
 - [License](#license)
 
 ---
@@ -345,3 +344,126 @@ juris/
 ├── .github                  # GitHub Actions workflows
 │   └── ci.yml
 └── README.md                # This file
+```
+
+
+---
+
+## Prerequisites
+
+- Docker & Docker Compose (for full-stack local dev)
+
+- Git 2.x
+
+- Node.js & npm (for React frontend)
+
+- Python 3.10+
+
+- (Optional) Access to an OpenAI API key when switching to a cloud LLM for Compliance or Drafting modules.
+
+## Installation
+
+### Clone the Repository
+```bash
+git clone https://github.com/Jackson00Han/juris.git
+cd juris/backend
+```
+
+### Backend Setup (Optional if using Docker)
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+### Frontend Setup (Optional if using Docker)
+```bash
+cd ../frontend
+npm install
+```
+
+
+## Configuration
+
+- Copy any .env.example templates for backend or first_try:
+```
+cp backend/.env.example backend/.env
+```
+- Edit backend/.env to set environment variables (e.g. PORT, vector DB credentials, LLM API keys).
+
+## Sprints
+
+### Sprint 0: Audit & Requirements (1 week)
+Review RAG infrastructure, define modules, gather use cases.
+
+### Sprint 1: Framework Design (2 weeks)
+Define module contract (YAML), build Module Loader & Orchestration Engine skeleton.
+
+### Sprint 2: Core Module Implementation (3-4 weeks)
+Build Retrieval, Template, Compliance modules, plus unit tests.  
+Develop Agent Builder UI prototype in React.
+
+### Sprint 3: Integration & Demo (2 weeks)
+End-to-end flows, internal demos, gather feedback, refine UX.
+
+### Sprint 4: Docs & CI (1–2 weeks)
+Finalize README, Developer Guide, automated tests, and prepare for internal launch.
+
+## Running with Docker Compose
+
+When all components are ready, bring up the full stack (backend, frontend, plus optional vector DB):
+```
+docker-compose up --build
+```
+  - Backend -> http://localhost:8000
+  - Frontend -> http://localhost:3000
+
+(If a Docker service hasn't been built for Retrieval/Embedding DB yet, you can skip the vector DB service or comment it out.)
+
+## Development Workflow
+
+### Backend (FastAPI)
+```
+cd backend  
+source .venv/bin/activate  
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000  
+```
+#### The API exposes:
+
+- GET / → health check + brief welcome message  
+- GET /api/modules → list available modules + versions  
+- POST /api/flow/run → accepts agent_config.json, returns flow output JSON  
+
+---
+
+### Frontend (React)
+```
+cd frontend  
+npm start  
+```
+Access UI at http://localhost:3000, including the “Agent Builder” page.
+
+
+
+## Branching Strategy
+
+- main: Protected. Holds only stable releases. Merges by PR.
+
+- dev: Integration branch for active development.
+
+- Feature branches:
+
+  - Naming: feature/<short-description>
+
+  - Base off dev, open PRs into dev for review.
+
+  - Once dev is stable, merge into main.
+
+
+## License
+
+Copyright © 2025 Shanzhong Han
+
+This project is provided for personal learning and research purposes only.  
+Unauthorized copying, modification, distribution, or commercial use is strictly prohibited.  
+For permission to use this project, please contact the author.
