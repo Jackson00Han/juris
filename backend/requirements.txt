@@ -1,11 +1,12 @@
-# backend/requirements.txt
-fastapi
-uvicorn[standard]
-pymupdf
-python-docx
-sentence-transformers
-transformers
-torch
-numpy<2.0
-pydantic-settings
-python-multipart 
+
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+sentence-transformers==2.2.2
+transformers==4.51.3
+torch==2.2.2
+nltk==3.9.1
+faiss-cpu==1.11.0
+PyMuPDF==1.25.5
+pydantic==1.10.10
+
+huggingface_hub==0.13.3

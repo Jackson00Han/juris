@@ -9,6 +9,8 @@ from transformers import pipeline
 import torch
 from config import settings
 
+from sentence_transformers import SentenceTransformer
+
 from embedding_faiss import (
     chunk_text_with_overlap,
     embed_texts,
@@ -25,7 +27,7 @@ logger = logging.getLogger("juris_backend")
 
 logger.info(f"Loading embedding model: {settings.embed_model} (CPU only)")
 # We still need a model instance here for encoding queries in /ask
-embed_model = sentence_transformers.SentenceTransformer(
+embed_model = SentenceTransformer(
     settings.embed_model, device="cpu"
 )
 logger.info(f"Loading LLM model: {settings.llm_model} (CPU only)")

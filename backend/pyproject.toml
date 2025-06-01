@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = "Juris RAG API Backend"
+authors = ["Jackson Han <128627217+Jackson00Han@users.noreply.github.com>"]
+
+
+package-mode = false
+
+[tool.poetry.dependencies]
+python-multipart = "^0.0.6"
+
+python = ">=3.10"
+fastapi = "0.95.2"
+uvicorn = { version = "0.22.0", extras = ["standard"] }
+sentence-transformers = "2.2.2"
+
+transformers = "4.26.1"
+torch = "2.2.2"
+nltk = "3.9.1"
+faiss-cpu = "1.11.0"
+pymupdf = "1.25.5"
+pydantic = "1.10.10"
+
+
+numpy = "<2.0.0"
+
+# sentence-transformers 2.2.2 仍然需要 cached_download，所以 huggingface-hub 必须 <0.13
+huggingface-hub = "0.12.1"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

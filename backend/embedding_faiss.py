@@ -20,7 +20,7 @@ _model = SentenceTransformer(EMBED_MODEL_NAME, device="cpu")
 def chunk_text_with_overlap(
     full_text: str,
     max_chars: int = 500,
-    overlap_chars: int = 50
+    overlap_chars: int = 100
 ) -> list[str]:
     """
     Split full_text into chunks of at most max_chars characters, ensuring:
