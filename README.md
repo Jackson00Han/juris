@@ -97,6 +97,7 @@ Each “agent” is just a sequence of modules—e.g.:
 - **Pure Retrieval**  
 - **Template → Logic(Compliance)**  
 - **Retrieval → Template → Logic(Compliance)**
+
 By the end of MVP 1, you should be able to:
 
 1. Upload a PDF (or fill in data fields).  
