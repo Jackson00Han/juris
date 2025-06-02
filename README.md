@@ -43,21 +43,20 @@ juris/
 │   ├── core                 # Flow runner, module loader, utility functions
 │   ├── modules              # All modular Agent code & metadata
 │   │   ├── retrieval        # retrieval module folder
-│   │   │   ├── v1.0.0
-│   │   │   │   ├── module.yaml
-│   │   │   │   └── retrieval.py
-│   │   │   └── v1.1.0
+│   │   │   └── v1_0_0
+│   │   │       ├── module.yaml
+│   │   │       └── retrieval.py
 │   │   ├── template         # template/drafting module folder
-│   │   │   ├── v0.1.0
-│   │   │   │   ├── module.yaml
-│   │   │   │   ├── template.py
-│   │   │   │   └── templates/  # Jinja2 or similar templates
-│   │   │   └── v0.1.1
+│   │   │   └── v1_0_0
+│   │   │       ├── module.yaml
+│   │   │       ├── template.py
+│   │   │       └── templates/  # Jinja2 or similar templates
+│   │   │   
 │   │   └── logic       # compliance module folder
-│   │       ├── v0.1.0
-│   │       │   ├── module.yaml
-│   │       │   └── logic.py
-│   │       └── v0.2.0
+│   │       └── v0.1.0
+│   │           ├── module.yaml
+│   │           └── logic.py
+│   │       
 │   ├── config.py            # Settings loader (env, secrets)
 │   ├── requirements.txt     # Python dependencies
 │   └── Dockerfile           # For containerizing backend
@@ -97,9 +96,7 @@ Juris’s next milestone (MVP 1) is to layer a **Modular Agent Engine** on top o
 Each “agent” is just a sequence of modules—e.g.:
 - **Pure Retrieval**  
 - **Template → Logic(Compliance)**  
-- **Retrieval → Template → Logic(Compliance)**  
-
-
+- **Retrieval → Template → Logic(Compliance)**_0_0
 By the end of MVP 1, you should be able to:
 
 1. Upload a PDF (or fill in data fields).  
