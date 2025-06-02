@@ -19,6 +19,9 @@ from embedding_faiss import (
     search_faiss,
 )
 
+from modules.retrieval.v1_0_0.retrieval import run as retrieval_run
+
+
 if not hasattr(torch, "get_default_device"):
     torch.get_default_device = lambda: torch.device("cpu")
 
@@ -79,36 +82,10 @@ async def upload_document(
 
 
 @app.post("/ask", response_model=AnswerResponse)
-async def ask(
-    doc_id: str = Form(...),
-    question: str = Form(...),
-    top_k: int = Form(3)
-):
-    try:
-        index, texts = load_faiss_index(doc_id)
-    except FileNotFoundError:
-        raise HTTPException(status_code=404, detail="Index not found for the given doc_id.")
-    except Exception as e:
-        logger.error(f"Error loading index: {e}")
-        raise HTTPException(status_code=500, detail="Failed to load index.")
-
-    try:
-        contexts = search_faiss(index, texts, question, top_k)
-        context = "\n\n".join(contexts)
-    except Exception as e:
-        logger.error(f"Error in FAISS search: {e}")
-        raise HTTPException(status_code=500, detail="Search failed.")
-
-    try:
-        prompt = f"Context:\n{context}\n\nQuestion:\n{question}\nAnswer:"
-        output = gpt_model(prompt, max_length=settings.max_length)
-        raw = output[0].get("generated_text", "")
-        answer = raw.split("Answer:")[-1].strip()
-    except Exception as e:
-        logger.error(f"Error in LLM generation: {e}")
-        raise HTTPException(status_code=500, detail="LLM generation failed.")
-
-    return AnswerResponse(answer=answer, context=context)
+async def ask(doc_id: str = Form(...), question: str = Form(...), top_k: int = Form(3)):
+    inputs = {"doc_id": doc_id, "question": question, "top_k": top_k}
+    outputs = retrieval_run(inputs)
+    return outputs
 
 
 if __name__ == "__main__":

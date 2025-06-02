@@ -45,23 +45,23 @@ juris/
 │   │   ├── retrieval        # retrieval module folder
 │   │   │   ├── v1.0.0
 │   │   │   │   ├── module.yaml
-│   │   │   │   └── implementation.py
+│   │   │   │   └── retrieval.py
 │   │   │   └── v1.1.0
 │   │   ├── template         # template/drafting module folder
 │   │   │   ├── v0.1.0
 │   │   │   │   ├── module.yaml
-│   │   │   │   ├── implementation.py
+│   │   │   │   ├── template.py
 │   │   │   │   └── templates/  # Jinja2 or similar templates
 │   │   │   └── v0.1.1
-│   │   └── compliance       # compliance module folder
+│   │   └── logic       # compliance module folder
 │   │       ├── v0.1.0
 │   │       │   ├── module.yaml
-│   │       │   └── implementation.py
+│   │       │   └── logic.py
 │   │       └── v0.2.0
 │   ├── config.py            # Settings loader (env, secrets)
 │   ├── requirements.txt     # Python dependencies
 │   └── Dockerfile           # For containerizing backend
-├── frontend                 # React application (Agent Builder, Search UI)
+├── frontend (To Do)                # React application (Agent Builder, Search UI)
 │   ├── src
 │   │   ├── components       # Reusable UI components
 │   │   ├── pages            # Home, AgentBuilder.jsx, etc.
@@ -69,7 +69,7 @@ juris/
 │   │   └── App.jsx
 │   ├── public
 │   └── package.json
-├── tests                    # Pytest files for backend modules & flow runner
+├── tests (To Do)                   # Pytest files for backend modules & flow runner
 │   ├── test_retrieval.py
 │   ├── test_template.py
 │   ├── test_compliance.py
@@ -95,9 +95,10 @@ Juris’s next milestone (MVP 1) is to layer a **Modular Agent Engine** on top o
 4. **Collaborated on** by multiple team members or external experts (legal community).
 
 Each “agent” is just a sequence of modules—e.g.:
+- **Pure Retrieval**  
+- **Template → Logic(Compliance)**  
+- **Retrieval → Template → Logic(Compliance)**  
 
-- **Retrieval → Template → Compliance**  
-- **DataInput → Logic → Drafting**  
 
 By the end of MVP 1, you should be able to:
 
