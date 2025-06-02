@@ -1,25 +1,76 @@
+# modules//v1.0.0/module.yaml
+
 name: logic
 version: 1.0.0
 
 inputs:
   - name: rules
     type: array
+    items:
+      type: object
+      properties:
+        rule_id:
+          type: string
+          description: >
+            Unique identifier for this rule instance.
+        type:
+          type: string
+          enum: ["clause_presence", "numeric_range", "regex_check"]
+          description: >
+            "clause_presence": check if a keyword appears
+            "numeric_range": check if a numeric field falls within a range
+            "regex_check": apply a regex pattern to the text
+        parameters:
+          type: object
+          description: >
+            If type == "clause_presence":
+              { "keyword": "string" }
+            If type == "numeric_range":
+              { "field_name": "string", "min": number (optional), "max": number (optional) }
+            If type == "regex_check":
+              { "pattern": "string" }
     description: >
-      Array of rule objects. Each rule has:
-        - rule_id (string)
-        - type (string: "clause_presence" | "numeric_range" | "regex_check")
-        - parameters (object with rule-specific params)
+      Array of rules to check. Each rule has a unique rule_id,
+      a type, and associated parameters. In the future, we may replace this
+      structured “rules” array with a free-form AI query.
+
   - name: draft_text
     type: string
-    description: The full document text (usually from template module)
+    description: >
+      Full document text to be evaluated. Typically, this is provided by the
+      Template Module (e.g., a generated contract draft).
 
 outputs:
   - name: results
     type: array
-    description: >
-      Array of rule-evaluation outcomes. Each outcome has:
-        - rule_id (string)
-        - passed (boolean)
-        - details (object or string explaining the result)
+    items:
+      type: object
+      properties:
+        rule_id:
+          type: string
+          description: Echoed from input.
+        type:
+          type: string
+          description: Echoed from input; indicates rule type.
+        passed:
+          type: boolean
+          description: True if this rule passed, false otherwise.
+        details:
+          type: object
+          description: >
+            If type == "clause_presence":
+              { "found": boolean, "locations": [ { "page": number, "offset": number } ] }
+            If type == "numeric_range":
+              { "field_name": "string", "extracted_value": number (if found), "within_range": boolean }
+            If type == "regex_check":
+              { "matches": [ { "match_text": "string", "start_offset": number } ] }
+        message:
+          type: string
+          description: >
+            Human-readable summary, e.g., “Force Majeure found on page 3” or
+            “Penalty 750000 exceeds max 500000”.
 
-config: {}   # Optional: can store e.g. severity levels or output formatting
+  - name: overall_passed
+    type: boolean
+    description: >
+      True if all rules in the results array passed; otherwise false.

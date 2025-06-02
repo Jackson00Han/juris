@@ -1,23 +1,33 @@
+# modules/retrieval/v1.0.0/module.yaml
+
 name: retrieval
 version: 1.0.0
 
 inputs:
   - name: doc_id
     type: string
-    description: Unique FAISS index ID to query
+    description: >
+      Unique identifier for the uploaded document’s FAISS index.
+      Must match an existing folder under faiss_indexes/.
   - name: question
     type: string
-    description: Natural-language question to ask
+    description: >
+      User’s natural-language query string describing what they want to ask
+      about the document.
   - name: top_k
     type: integer
-    description: Number of chunks to retrieve (default = 3)
+    description: >
+      (Optional) Number of top contexts to retrieve from FAISS; default = 3.
+      Integer ≥ 1.
 
 outputs:
   - name: answer
     type: string
-    description: LLM-generated response based on retrieved contexts
+    description: >
+      LLM-generated answer based on retrieved contexts. Extracted from the
+      “generated_text” field after “Answer:”.
   - name: context
     type: string
-    description: Retrieved text chunks concatenated by two newlines
-
-config: {}   # No additional configuration for V1
+    description: >
+      Concatenated top_k text chunks (joined by “\n\n”). Useful for displaying
+      or debugging the retrieved document snippets.

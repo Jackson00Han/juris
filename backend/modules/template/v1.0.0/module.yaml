@@ -1,17 +1,25 @@
+# modules/template/v1.0.0/module.yaml
+
 name: template
 version: 1.0.0
 
 inputs:
   - name: template_id
     type: string
-    description: Identifier of the document template (e.g. "nda_v1")
+    description: >
+      Identifier for which document template to use (e.g., "nda_v1",
+      "contract_draft_01").
   - name: data
     type: object
-    description: Key/value map of fields to populate the template
+    description: >
+      Arbitrary JSON object whose keys correspond to placeholder names inside
+      the chosen template. Values can be strings, numbers, booleans, or nested
+      objects, depending on the template’s design.
 
 outputs:
   - name: generated_text
     type: string
-    description: The fully rendered document with placeholders filled
-
-config: {}   # Optional: later you can add template folder paths or rendering options
+    description: >
+      Fully rendered document text with placeholders filled. For example, a
+      contract draft where every placeholder (e.g., {{party_name}}) has been
+      replaced by data["party_name"].
