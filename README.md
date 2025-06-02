@@ -4,11 +4,11 @@ A full-stack legal document analysis platform leveraging AI to assist with parsi
 
 ## Table of Contents
 
-- [Features](#features)  
+- [Features](#features)
+- [Repository Structure](#repository-structure)   
 - [Modular Agent MVP 1 Workflow & Architecture](#modular-agent-mvp-1-workflow--architecture)  
   - [Overview](#overview)  
   - [High-Level Phases](#high-level-phases)  
-- [Repository Structure](#repository-structure)  
 - [Prerequisites](#prerequisites)  
 - [Installation](#installation)  
 - [Configuration](#configuration)  
@@ -32,6 +32,54 @@ A full-stack legal document analysis platform leveraging AI to assist with parsi
 - **API Server**: FastAPI backend exposing endpoints for ingestion, retrieval, and flow execution.  
 - **Frontend UI**: React-based interface for uploading documents, assembling Agents, and viewing results.  
 - **Dockerized**: One-command setup with Docker and Docker Compose for local development or self-hosting.
+
+---
+## Repository Structure
+
+```plaintext
+juris/
+├── backend                  # FastAPI server, module code, and flow logic
+│   ├── app                  # Core application (main.py, routers, service layer)
+│   ├── core                 # Flow runner, module loader, utility functions
+│   ├── modules              # All modular Agent code & metadata
+│   │   ├── retrieval        # retrieval module folder
+│   │   │   ├── v1.0.0
+│   │   │   │   ├── module.yaml
+│   │   │   │   └── implementation.py
+│   │   │   └── v1.1.0
+│   │   ├── template         # template/drafting module folder
+│   │   │   ├── v0.1.0
+│   │   │   │   ├── module.yaml
+│   │   │   │   ├── implementation.py
+│   │   │   │   └── templates/  # Jinja2 or similar templates
+│   │   │   └── v0.1.1
+│   │   └── compliance       # compliance module folder
+│   │       ├── v0.1.0
+│   │       │   ├── module.yaml
+│   │       │   └── implementation.py
+│   │       └── v0.2.0
+│   ├── config.py            # Settings loader (env, secrets)
+│   ├── requirements.txt     # Python dependencies
+│   └── Dockerfile           # For containerizing backend
+├── frontend                 # React application (Agent Builder, Search UI)
+│   ├── src
+│   │   ├── components       # Reusable UI components
+│   │   ├── pages            # Home, AgentBuilder.jsx, etc.
+│   │   ├── services         # API client (fetch modules, run flow)
+│   │   └── App.jsx
+│   ├── public
+│   └── package.json
+├── tests                    # Pytest files for backend modules & flow runner
+│   ├── test_retrieval.py
+│   ├── test_template.py
+│   ├── test_compliance.py
+│   └── test_flow_runner.py
+├── docker-compose.yml       # Orchestrates backend, frontend, and optional vector DB
+├── .github                  # GitHub Actions workflows
+│   └── ci.yml
+└── README.md                # This file
+```
+
 
 ---
 
@@ -300,54 +348,7 @@ By the end of MVP 1, you should be able to:
 
 ---
 
-## Repository Structure
 
-```plaintext
-juris/
-├── backend                  # FastAPI server, module code, and flow logic
-│   ├── app                  # Core application (main.py, routers, service layer)
-│   ├── core                 # Flow runner, module loader, utility functions
-│   ├── modules              # All modular Agent code & metadata
-│   │   ├── retrieval        # retrieval module folder
-│   │   │   ├── v1.0.0
-│   │   │   │   ├── module.yaml
-│   │   │   │   └── implementation.py
-│   │   │   └── v1.1.0
-│   │   ├── template         # template/drafting module folder
-│   │   │   ├── v0.1.0
-│   │   │   │   ├── module.yaml
-│   │   │   │   ├── implementation.py
-│   │   │   │   └── templates/  # Jinja2 or similar templates
-│   │   │   └── v0.1.1
-│   │   └── compliance       # compliance module folder
-│   │       ├── v0.1.0
-│   │       │   ├── module.yaml
-│   │       │   └── implementation.py
-│   │       └── v0.2.0
-│   ├── config.py            # Settings loader (env, secrets)
-│   ├── requirements.txt     # Python dependencies
-│   └── Dockerfile           # For containerizing backend
-├── frontend                 # React application (Agent Builder, Search UI)
-│   ├── src
-│   │   ├── components       # Reusable UI components
-│   │   ├── pages            # Home, AgentBuilder.jsx, etc.
-│   │   ├── services         # API client (fetch modules, run flow)
-│   │   └── App.jsx
-│   ├── public
-│   └── package.json
-├── tests                    # Pytest files for backend modules & flow runner
-│   ├── test_retrieval.py
-│   ├── test_template.py
-│   ├── test_compliance.py
-│   └── test_flow_runner.py
-├── docker-compose.yml       # Orchestrates backend, frontend, and optional vector DB
-├── .github                  # GitHub Actions workflows
-│   └── ci.yml
-└── README.md                # This file
-```
-
-
----
 
 ## Prerequisites
 
