@@ -1,0 +1,23 @@
+name: retrieval
+version: 1.0.0
+
+inputs:
+  - name: doc_id
+    type: string
+    description: Unique FAISS index ID to query
+  - name: question
+    type: string
+    description: Natural-language question to ask
+  - name: top_k
+    type: integer
+    description: Number of chunks to retrieve (default = 3)
+
+outputs:
+  - name: answer
+    type: string
+    description: LLM-generated response based on retrieved contexts
+  - name: context
+    type: string
+    description: Retrieved text chunks concatenated by two newlines
+
+config: {}   # No additional configuration for V1

@@ -1,0 +1,25 @@
+name: logic
+version: 1.0.0
+
+inputs:
+  - name: rules
+    type: array
+    description: >
+      Array of rule objects. Each rule has:
+        - rule_id (string)
+        - type (string: "clause_presence" | "numeric_range" | "regex_check")
+        - parameters (object with rule-specific params)
+  - name: draft_text
+    type: string
+    description: The full document text (usually from template module)
+
+outputs:
+  - name: results
+    type: array
+    description: >
+      Array of rule-evaluation outcomes. Each outcome has:
+        - rule_id (string)
+        - passed (boolean)
+        - details (object or string explaining the result)
+
+config: {}   # Optional: can store e.g. severity levels or output formatting
