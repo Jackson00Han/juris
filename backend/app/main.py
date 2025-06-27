@@ -19,7 +19,7 @@ from embedding_faiss import (
 )
 # Import the appropriate versioned run() functions from modules/
 from modules.retrieval.v1_0_0.retrieval import run as retrieval_run
-from modules.template.v1_0_0.template import run as template_run
+#from modules.template.v1_0_0.template import run as template_run
 from modules.logic.v1_0_0.logic import run as logic_run
 
 # Ensure torch.get_default_device exists (for older torch builds)
@@ -81,9 +81,10 @@ async def run_agent(
     question: str | None = None,
     top_k: int = 3,
 
+
     # Fields for template rendering (required for Draft mode; can be empty in QA mode)
-    template_id: str | None = None,
-    template_data: dict | None = None,
+    ## template_id: str | None = None,
+    ## template_data: dict | None = None,
 
     # Fields for compliance (Logic) module (same as above)
     rules: list[dict] | None = None
@@ -109,6 +110,10 @@ async def run_agent(
 
     # ——— ② Draft Mode (Contract Drafting): optionally retrieve → template rendering → compliance ———
     if task_type == "draft_contract":
+
+        raise HTTPException(status_code=400, detail="Drafting via template is currently disabled.")
+
+        """
         # 1) If doc_id and question are provided, treat as “retrieve reference clauses”; otherwise skip retrieval
         if doc_id and question:
             inputs = {"doc_id": doc_id, "question": question, "top_k": top_k}
@@ -130,6 +135,7 @@ async def run_agent(
             result["overall_passed"] = logic_outputs["overall_passed"]
 
         return result
+        """
 
     # ——— ③ Unsupported task_type → Error ———
     raise HTTPException(status_code=400, detail=f"Unsupported task_type: {task_type}")
