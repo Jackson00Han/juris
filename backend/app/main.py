@@ -20,7 +20,7 @@ from embedding_faiss import (
 # Import the appropriate versioned run() functions from modules/
 from modules.retrieval.v1_0_0.retrieval import run as retrieval_run
 #from modules.template.v1_0_0.template import run as template_run
-from modules.logic.v1_0_0.logic import run as logic_run
+##from modules.logic.v1_0_0.logic import run as logic_run
 
 # Ensure torch.get_default_device exists (for older torch builds)
 if not hasattr(torch, "get_default_device"):
