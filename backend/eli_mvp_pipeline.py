@@ -44,7 +44,7 @@ import sys
 SITEMAP_URL = "https://www.retsinformation.dk/eli/sitemap.xml"
 NAMESPACE   = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 THROTTLE    = 0.05  # seconds between HTTP calls
-MAX_DOCS    = None  # limit for test run (set an int for testing)
+MAX_DOCS    = 10  # limit for test run (set an int for testing)
 CONFIRM_THRESHOLD = 5000  # prompt for confirmation if total docs exceed this
 
 # ─── Logger ────────────────────────────────────────────────────────────────────
