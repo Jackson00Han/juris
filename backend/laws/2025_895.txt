@@ -1,0 +1,23 @@
+Title: Bekendtgørelse om kommuners og regioners indberetning af oplysninger om lægesamtaler i forbindelse med stofmisbrugsbehandling, lægelig stofmisbrugsbehandling, frit valg i forbindelse med lægelig stofmisbrugsbehandling og om patienter i integreret behandling af en psykisk lidelse og en samtidig rusmiddelproblematik til Sundhedsdatastyrelsen
+Year: 2025
+Number: 895
+Status: Valid
+Ministry: Indenrigs- og Sundhedsministeriet
+DatePublished: 2025-06-27
+Signatures: P.M.V. \n Lene Brøndum Jensen, Tammie Carlslund Hansen
+Concerns: 
+
+---------------- TEXT BELOW ----------------
+
+Bekendtgørelse om kommuners og regioners indberetning af oplysninger om lægesamtaler i forbindelse med stofmisbrugsbehandling, lægelig stofmisbrugsbehandling, frit valg i forbindelse med lægelig stofmisbrugsbehandling og om patienter i integreret behandling af en psykisk lidelse og en samtidig rusmiddelproblematik til Sundhedsdatastyrelsen
+I medfør af § 195, stk. 3, i sundhedsloven, jf. lovbekendtgørelse nr. 275 af 12. marts 2025, fastsættes:
+Oplysninger om lægesamtaler i henhold til sundhedslovens § 142, stk. 1, om lægelig stofmisbrugsbehandling i henhold til sundhedslovens § 142, stk. 3, om frit valg i henhold til sundhedslovens § 142, stk. 7, og om patienter i integreret behandling af en psykisk lidelse og en samtidig rusmiddelproblematik i henhold til sundhedslovens § 82 c, stk. 1, skal indberettes til Sundhedsdatastyrelsen (Register over Stofmisbrugere i Behandling (SIB)) via Stofmisbrugsdatabasen og til Landspatientregistret (LPR) efter reglerne i denne bekendtgørelse.
+Indberetningen skal for kommunerne indeholde de oplysninger, der fremgår af det til enhver tid gældende »Fællesindhold – Stofmisbrugsdatabasen«, og for regionerne indeholde de oplysninger, som fremgår af gældende »Indberetningsvejledning til LPR«, som begge er tilgængelige via Sundhedsdatastyrelsens hjemmeside.
+Indberetningen om lægesamtaler i henhold til sundhedslovens § 142, stk. 1, skal ske løbende og senest 1 måned efter, at lægesamtalen har fundet sted.
+Indberetningen om lægelig stofmisbrugsbehandling i henhold til sundhedslovens § 142, stk. 3, skal ske løbende og senest 1 måned efter, at behandlingen er påbegyndt.
+Indberetningen om frit valg i henhold til sundhedslovens § 142, stk. 7, skal ske løbende og senest 1 måned efter, at frit valg er benyttet.
+Indberetningen skal for kommunerne ske elektronisk i overensstemmelse med det til enhver tid gældende vejledningsmateriale om »Stofmisbrugsdatabasen«, og for regionerne ske i overensstemmelse med »Indberetningsvejledning til LPR«, som begge er tilgængelige via Sundhedsdatastyrelsens hjemmeside.
+Kommunalbestyrelsen og regionsrådet er ansvarlige for, at indberetning af oplysninger sker i overensstemmelse med reglerne i denne bekendtgørelse.
+Kommunalbestyrelsen og regionsrådet kan dog overlade indberetningen af oplysninger til de institutioner, hvorpå lægelig stofmisbrugsbehandling i henhold til sundhedslovens § 142, stk. 3, og § 82 c, stk. 1, finder sted.
+Bekendtgørelsen træder i kraft den 1. juli 2025.
+Bekendtgørelse nr. 1789 af 16. december 2015 om kommunernes indberetning til Sundhedsdatastyrelsen om lægesamtaler i forbindelse med stofmisbrugsbehandling, lægelig stofmisbrugsbehandling og frit valg i forbindelse med lægelig stofmisbrugsbehandling ophæves.
