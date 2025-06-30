@@ -10,32 +10,51 @@
     "Troels Lund Poulsen",
     "Jon Bach Holm "
   ],
-  "concerns": [],
+  "concerns": [
+    "Lov om godkendelse og syn af køretøjer",
+    "Lov om forsvarssamarbejde mellem Danmark og Amerikas Forenede Stater m.v.",
+    "Bekendtgørelse af lov om anvendelsen af visse af Den Europæiske Unions retsakter om økonomiske forbindelser til tredjelande m.v.",
+    "Bekendtgørelse af lov om radiofrekvenser",
+    "Bekendtgørelse af lov om etablering og fælles udnyttelse af master til radiokommunikationsformål og udnyttelse af infrastruktur til opsætning af trådløse adgangspunkter med lille rækkevidde m.v.",
+    "Bekendtgørelse af lov om arbejdsmiljø",
+    "Bekendtgørelse af lov om radioudstyr og elektromagnetiske forhold",
+    "Bekendtgørelse af lov om godkendelse og syn af køretøjer",
+    "Bekendtgørelse af udlændingeloven",
+    "Bekendtgørelse af færdselsloven",
+    "Lov om godkendelse og syn af køretøjer",
+    "Lov om forsvarssamarbejde mellem Danmark og Amerikas Forenede Stater m.v."
+  ],
   "structured_text": [
     {
-      "paragraph": "§ 1.",
-      "sections": [
+      "chapter": "",
+      "title": "",
+      "paragraphs": [
         {
-          "section": "",
-          "text": "§§ 1-14, §§ 16-23 og § 25 i lov nr. 698 af 20. juni 2025 om forsvarssamarbejde mellem Danmark og Amerikas Forenede Stater m.v. sættes i kraft."
-        }
-      ]
-    },
-    {
-      "paragraph": "§ 2.",
-      "sections": [
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "§§ 1-14, §§ 16-23 og § 25 i lov nr. 698 af 20. juni 2025 om forsvarssamarbejde mellem Danmark og Amerikas Forenede Stater m.v. sættes i kraft."
+            }
+          ]
+        },
         {
-          "section": "",
-          "text": "§ 34, stk. 2, i lov nr. 774 af 20. juni 2025 om godkendelse og syn af køretøjer sættes i kraft."
-        }
-      ]
-    },
-    {
-      "paragraph": "§ 3.",
-      "sections": [
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "§ 34, stk. 2, i lov nr. 774 af 20. juni 2025 om godkendelse og syn af køretøjer sættes i kraft."
+            }
+          ]
+        },
         {
-          "section": "",
-          "text": "Bekendtgørelsen træder i kraft den 1. juli 2025."
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 1. juli 2025."
+            }
+          ]
         }
       ]
     }
