@@ -12,15 +12,21 @@ import numpy as np
 from sentence_transformers import SentenceTransformer, CrossEncoder
 from transformers import pipeline, AutoModelForSeq2SeqLM, AutoTokenizer
 
-# ─── CONFIG (IMPROVED) ───────────────────────────────────────────────────────────
-EMBED_MODEL_NAME      = "all-MiniLM-L6-v2"                # unchanged embedding model
+# ─── CONFIG ────────────────────────────────────────────────────────────────────
+EMBED_MODEL_NAME      = "all-MiniLM-L6-v2"
 INDEX_PATH            = "laws_mini.faiss"
 META_PATH             = "laws_mini_meta.json"
-GEN_MODEL             = "google/flan-t5-base"            # local generation model
-CROSS_ENCODER_MODEL   = "cross-encoder/ms-marco-MiniLM-L-6-v2"  # added cross-encoder for reranking
-INITIAL_TOP_K         = 10    # Improved: increased initial retrieval from 5 to 10
-RERANK_TOP_K          = 5     # Improved: select top 5 after cross-encoder rerank
-CHUNK_SIZE            = 800   # must match ingest chunk size
+GEN_MODEL             = "google/flan-t5-large"            # updated model
+CROSS_ENCODER_MODEL   = "cross-encoder/ms-marco-MiniLM-L-12-v2"
+INITIAL_TOP_K         = 20
+RERANK_TOP_K          = 3     # reduced to 3 for brevity and context fit
+CHUNK_SIZE            = 800
+
+# Keywords for lightweight filtering
+KEYWORD_MAPPING = {
+    'refuse': 'afvise',
+    'afvise': 'afvise',
+}
 
 # ─── HELPERS ────────────────────────────────────────────────────────────────────
 
@@ -30,21 +36,16 @@ def load_index_and_meta(index_path: str, meta_path: str):
         meta = json.load(f)
     return idx, meta
 
-# Load full JSON laws into memory for retrieving chunk text
-# This supports better prompting by including actual legislative language
 
 def load_law_docs(json_dir: str) -> dict:
     docs = {}
     for fname in os.listdir(json_dir):
         if not fname.endswith('.json') or fname == os.path.basename(META_PATH):
             continue
-        path = os.path.join(json_dir, fname)
-        data = json.load(open(path, encoding='utf8'))
+        data = json.load(open(os.path.join(json_dir, fname), encoding='utf8'))
         docs[data['id']] = data
     return docs
 
-# Extract actual text chunk from law JSON based on metadata
-# Used to build enriched context for generation
 
 def load_text(hit: dict) -> str:
     law = LAW_DOCS.get(hit['law_id'], {})
@@ -58,7 +59,7 @@ def load_text(hit: dict) -> str:
                         return full[start:start + CHUNK_SIZE]
     return ''
 
-# Retrieve initial candidates via FAISS (IMPROVED TOP_K)
+# Retrieve initial candidates via FAISS
 
 def retrieve_chunks(question: str,
                     idx: faiss.IndexFlatL2,
@@ -75,7 +76,17 @@ def retrieve_chunks(question: str,
         hits.append(info)
     return hits
 
-# Re-rank candidates with cross-encoder (NEW)
+# Lightweight keyword filtering
+
+def keyword_filter(question: str, hits: list) -> list:
+    query = question.lower()
+    terms = [KEYWORD_MAPPING[k] for k in KEYWORD_MAPPING if k in query]
+    if not terms:
+        return hits
+    filtered = [h for h in hits if any(term in load_text(h).lower() for term in terms)]
+    return filtered if len(filtered) >= RERANK_TOP_K else hits
+
+# Re-rank with cross-encoder
 
 def rerank_chunks(question: str,
                   hits: list,
@@ -84,27 +95,45 @@ def rerank_chunks(question: str,
     texts = [load_text(h) for h in hits]
     pairs = [[question, t] for t in texts]
     scores = cross_encoder.predict(pairs)
-    # combine and sort by score descending
     scored = list(zip(hits, scores))
     scored.sort(key=lambda x: x[1], reverse=True)
-    reranked = [h for h, s in scored[:top_k]]
-    return reranked
+    return [h for h, s in scored[:top_k]]
 
-# Generate answer using local model with better prompting (includes chapter)
+# Dynamic trimming to fit model max tokens
 
-def generate_answer(question: str, retrieved: list, generator) -> str:
-    # Improved: include chapter, paragraph and actual text in context
+def trim_for_max_tokens(question: str, retrieved: list, tokenizer: AutoTokenizer, max_len: int) -> list:
+    # measure prompt overhead tokens
+    q_tokens = tokenizer.tokenize(question)
+    overhead = len(tokenizer.tokenize("You are a Danish legal assistant.")) + 10
+    # build list of (hit, token_length)
+    hit_texts = [load_text(h) for h in retrieved]
+    hit_tokens = [len(tokenizer.tokenize(text)) for text in hit_texts]
+    selected = []
+    total = len(q_tokens) + overhead
+    for h, tkn_count in zip(retrieved, hit_tokens):
+        if total + tkn_count <= max_len:
+            selected.append(h)
+            total += tkn_count
+        else:
+            break
+    return selected
+
+# Generate answer with dynamic context trimming
+
+def generate_answer(question: str, retrieved: list, generator, tokenizer: AutoTokenizer) -> str:
+    max_len = tokenizer.model_max_length
+    trimmed = trim_for_max_tokens(question, retrieved, tokenizer, max_len)
     context = "\n\n".join(
-        f"[Law {h['law_id']} Chapter {h.get('chapter','')} {h['paragraph']} {h['section']}] {load_text(h)}"
-        for h in retrieved
+        f"[Law {h['law_id']} {h['paragraph']} {h['section']}] {load_text(h)}"
+        for h in trimmed
     )
     prompt = (
-        "You are a Danish legal assistant. "
-        "Answer the user question based solely on the following legislative excerpts. "
-        "If the answer is not contained within them, say you don't know.\n\n"
-        f"Context:\n{context}\n\n"
-        f"Question: {question}\n"
-        "Answer:"
+    "You are a Danish legal assistant. "
+    "Based on the provided excerpts, answer in a complete sentence and cite the section. "
+    "If unsure, say you don’t know.\n\n"
+    f"Context:\n{context}\n\n"
+    f"Question: {question}\n"
+    "Answer:"
     )
     output = generator(prompt, max_length=512, do_sample=False)
     return output[0]['generated_text'].strip()
@@ -113,51 +142,41 @@ def generate_answer(question: str, retrieved: list, generator) -> str:
 
 def main():
     global LAW_DOCS
-    # load laws JSON for chunk text
     JSON_DIR = os.getenv('LAWS_JSON_DIR', 'laws_json')
-    print(f"Loading law JSON files from {JSON_DIR}...")
     LAW_DOCS = load_law_docs(JSON_DIR)
 
-    parser = argparse.ArgumentParser(description="RAG: retrieve & answer (with rerank)")
-    parser.add_argument("--index", default=INDEX_PATH, help="FAISS index path")
-    parser.add_argument("--meta",  default=META_PATH,  help="metadata JSON path")
-    # Flags for improved retrieval configuration
-    parser.add_argument("--top-k", type=int, default=INITIAL_TOP_K,
-                        help="Number of chunks to retrieve initially (IMPROVED)")
-    parser.add_argument("--rerank-k", type=int, default=RERANK_TOP_K,
-                        help="Number of chunks after re-ranking (NEW)")
+    parser = argparse.ArgumentParser(description="RAG with dynamic trimming")
+    parser.add_argument("--index", default=INDEX_PATH)
+    parser.add_argument("--meta",  default=META_PATH)
+    parser.add_argument("--top-k", type=int, default=INITIAL_TOP_K)
+    parser.add_argument("--rerank-k", type=int, default=RERANK_TOP_K)
     args = parser.parse_args()
 
-    print("Loading index and metadata...")
     idx, meta = load_index_and_meta(args.index, args.meta)
-    print(f"Index has {idx.ntotal} vectors, dimension {idx.d}")
-
-    # Initialize models
     embedder = SentenceTransformer(EMBED_MODEL_NAME)
     cross_encoder = CrossEncoder(CROSS_ENCODER_MODEL)
-    print(f"Loading generator model: {GEN_MODEL}...")
     tokenizer = AutoTokenizer.from_pretrained(GEN_MODEL)
     model = AutoModelForSeq2SeqLM.from_pretrained(GEN_MODEL)
     generator = pipeline("text2text-generation", model=model, tokenizer=tokenizer)
 
     while True:
         try:
-            q = input("\nEnter your legal question (or 'quit'): ")
+            q = input("Enter your legal question (or 'quit'): ")
         except EOFError:
             break
         if q.lower() in ("quit", "exit"):
             break
 
-        # retrieve and rerank pipeline (IMPROVED)
-        initial_hits = retrieve_chunks(q, idx, meta, embedder, args.top_k)
-        hits = rerank_chunks(q, initial_hits, cross_encoder, args.rerank_k)
+        hits = retrieve_chunks(q, idx, meta, embedder, args.top_k)
+        hits = keyword_filter(q, hits)
+        hits = rerank_chunks(q, hits, cross_encoder, args.rerank_k)
 
-        print("\nTop retrieved chunks after rerank:")
+        print("Top hits:")
         for h in hits:
-            print(f"- Law {h['law_id']} {h['paragraph']} (offset {h['char_offset']}): dist={h['distance']:.4f}")
+            print(f"- {h['law_id']} {h['paragraph']} (dist={h['distance']:.4f})")
 
-        ans = generate_answer(q, hits, generator)
-        print(f"\nAnswer:\n{ans}\n")
+        ans = generate_answer(q, hits, generator, tokenizer)
+        print(f"Answer:\n{ans}\n")
 
 if __name__ == "__main__":
     main()
