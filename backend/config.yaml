@@ -2,7 +2,7 @@
 chunk_size: 800
 chunk_overlap: 200
 embed_model: "all-MiniLM-L6-v2"
-gen_model: "google/flan-t5-large"
+gen_model: "google/flan-t5-small"
 cross_encoder_model: "cross-encoder/ms-marco-MiniLM-L-12-v2"
 initial_top_k: 10
 rerank_top_k: 3
