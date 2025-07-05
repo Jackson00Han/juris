@@ -5,6 +5,10 @@ rag_agent.py
 A simple RAG agent for Danish law, using Smolagents.
 """
 
+import huggingface_hub
+if not hasattr(huggingface_hub, "cached_download"):
+    huggingface_hub.cached_download = huggingface_hub.hf_hub_download
+
 import os
 import glob
 import json
@@ -44,11 +48,11 @@ def load_chunk_text(hit: dict) -> str:
     return ""
 
 # ─── Models ────────────────────────────────────────────────────────────────────
-EMBEDDER     = SentenceTransformer(cfg["embed_model"])
-CROSS_ENCODER= CrossEncoder(cfg["cross_encoder_model"])
-TOKENIZER    = AutoTokenizer.from_pretrained(cfg["gen_model"])
-GEN_MODEL    = AutoModelForSeq2SeqLM.from_pretrained(cfg["gen_model"])
-GEN_PIPE     = pipeline(
+EMBEDDER      = SentenceTransformer(cfg["embed_model"])
+CROSS_ENCODER = CrossEncoder(cfg["cross_encoder_model"])
+TOKENIZER     = AutoTokenizer.from_pretrained(cfg["gen_model"])
+GEN_MODEL     = AutoModelForSeq2SeqLM.from_pretrained(cfg["gen_model"])
+GEN_PIPE      = pipeline(
     "text2text-generation",
     model=GEN_MODEL,
     tokenizer=TOKENIZER,
@@ -59,28 +63,44 @@ class RAGTool(Tool):
     name        = "rag_tool"
     description = "Retrieve and answer questions about Danish law using RAG."
     inputs = {
-        "query":     "The user's legal question",
-        "top_k":     "Optional[int]: how many chunks to retrieve initially",
-        "rerank_k":  "Optional[int]: how many to rerank & use"
+        "query": {
+            "type": "string",
+            "description": "The user's legal question",
+            "required": True,
+        },
+        "top_k": {
+            "type": "integer",
+            "description": "How many chunks to retrieve initially",
+            "required": False,
+            "nullable": True,
+        },
+        "rerank_k": {
+            "type": "integer",
+            "description": "How many of those chunks to rerank and use",
+            "required": False,
+            "nullable": True,
+        },
     }
+    output_type = "object"
 
-    def run(self, query: str, top_k: int = None, rerank_k: int = None):
+    def forward(self, query: str, top_k: int = None, rerank_k: int = None):
+        # Fallback to config defaults if None
         top_k    = top_k    or cfg["initial_top_k"]
         rerank_k = rerank_k or cfg["rerank_top_k"]
 
-        # 1) retrieve
-        vec   = np.array(EMBEDDER.encode([query]), dtype="float32")
+        # 1) Retrieve via FAISS + embedder
+        vec        = np.array(EMBEDDER.encode([query]), dtype="float32")
         dists, idxs = INDEX.search(vec, top_k)
-        hits  = [{**META[i], "distance": float(d)} for d, i in zip(dists[0], idxs[0])]
+        hits       = [{**META[i], "distance": float(d)} for d, i in zip(dists[0], idxs[0])]
 
-        # 2) rerank
-        texts = [load_chunk_text(h) for h in hits]
-        scores= CROSS_ENCODER.predict([[query, t] for t in texts])
+        # 2) Rerank via CrossEncoder
+        texts   = [load_chunk_text(h) for h in hits]
+        scores  = CROSS_ENCODER.predict([[query, t] for t in texts])
         top_hits = [
             h for h, _ in sorted(zip(hits, scores), key=lambda x: x[1], reverse=True)[:rerank_k]
         ]
 
-        # 3) generate answer
+        # 3) Generate answer with citations in prompt
         context = "\n\n".join(
             f"[Lov {h['law_id']} §{h['paragraph']} stk.{h['section']}] {load_chunk_text(h)}"
             for h in top_hits
@@ -89,21 +109,18 @@ class RAGTool(Tool):
             "You are a Danish legal assistant. Answer concisely using the excerpts below and cite.\n\n"
             f"Context:\n{context}\n\nQuestion: {query}\nAnswer:"
         )
-        out = GEN_PIPE(prompt, max_length=512, do_sample=False)[0]["generated_text"].strip()
+        out = GEN_PIPE(prompt, max_length=512, do_sample=False, num_beams=4)[0]["generated_text"].strip()
         return {"answer": out, "citations": top_hits}
 
-
+# ─── Instantiate agent & test query ────────────────────────────────────────────
 model = InferenceClientModel()
+rag_agent = CodeAgent(tools=[RAGTool()], model=model)
 
-rag_agent = CodeAgent(
-    tools=[RAGTool()],
-    model=model
-)
-
-response = rag_agent.run(
-    query="Hvornår træder bekendtgørelsen i kraft?",
-    top_k=5,
-    rerank_k=3
-)
-
-print("Answer:", response)
+if __name__ == "__main__":
+    resp = rag_agent.run(
+        query="Hvornår træder bekendtgørelsen i kraft?",
+        top_k=5,
+        rerank_k=3
+    )
+    print("Answer:", resp["answer"])
+    print("Citations:", resp["citations"])

@@ -1,0 +1,18 @@
+# requirements.in
+
+requests
+lxml
+PyYAML
+numpy<2.0
+faiss-cpu
+sentence-transformers
+transformers
+fastapi
+pydantic
+uvicorn[standard]
+
+# smolagents 从 GitHub
+smolagents @ git+https://github.com/huggingface/smolagents.git@main#egg=smolagents
+
+# 修正后的 huggingface-hub
+huggingface-hub>=0.31.2,<1.0
