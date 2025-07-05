@@ -1,0 +1,322 @@
+{
+  "id": "2025_990",
+  "title": "Bekendtgørelse om krav til offentligt tilgængelig infrastruktur for alternative drivmidler m.v.",
+  "year": "2025",
+  "number": "990",
+  "status": "Valid",
+  "ministry": "Transportministeriet",
+  "date_published": "2025-07-04",
+  "signatures": [
+    "Jacob Karkov Buch",
+    "Jeppe Jul Elnegaard"
+  ],
+  "concerns": [
+    "Bekendtgørelse af lov om infrastruktur for alternative drivmidler til transport"
+  ],
+  "structured_text": [
+    {
+      "chapter": "",
+      "title": "",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen finder anvendelse på følgende: Tankstationer, der viser drivmiddelpriser. Offentligt tilgængelige ladepunkter til elektriske køretøjer. Køretøjsmanualer, der knytter sig til køretøjer, der er bragt i omsætning til og med den 12. april 2024."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen supplerer Europa-Parlamentets og Rådets forordning (EU) 2023/1804 af 13. september 2023 om etablering af infrastruktur for alternative drivmidler og om ophævelse af direktiv 2014/94/EU med senere ændringer, dertilhørende delegerede retsakter og gennemførelsesforordninger, samt Kommissionens gennemførelsesforordning (EU) 2018/732 af 17. maj 2018 om en fælles metode til sammenligning af enhedspriserne for alternative brændstoffer i overensstemmelse med Europa-Parlamentets og Rådets direktiv 2014/94/EU med senere ændringer."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "I denne bekendtgørelse forstås ved: AFI-forordningen: Europa-Parlamentets og Rådets forordning (EU) 2023/1804 af 13. september 2023 om etablering af infrastruktur for alternative drivmidler og om ophævelse af direktiv 2014/94/EU, EU-Tidende 2023, nr. L 234, side 1, med senere ændringer. Gennemførelsesforordning om specifikationer og procedurer vedrørende tilgængelighed af og adgang til data: Kommissionens gennemførelsesforordning (EU) 2025/655 af 2. april 2025 om regler for anvendelsen af Europa-Parlamentets og Rådets forordning (EU) 2023/1804 for så vidt angår specifikationer og procedurer vedrørende tilgængelighed af og adgang til data om infrastruktur for alternative drivmidler. Delegeret retsakt om fælles tekniske krav til en fælles applikationsprogrammeringsgrænseflade: Kommissionens delegerede forordning (EU) 2025/645 af 1. april 2025 om supplerende regler til Europa-Parlamentets og Rådets forordning (EU) 2023/1804 for så vidt angår fælles tekniske krav til en fælles applikationsprogrammeringsgrænseflade. Listepris: Dagsprisen på et fossilt brændstof eller alternativt drivmiddel efter kl. 11.00, som opgøres inklusive skatter og afgifter, men eksklusive eventuelle rabatter. Prissammenligningsskilt: Skilt, der viser gennemsnitspriser i kroner pr. 100 km på udvalgte drivmidler for udvalgte bilsegmenter."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "På en tankstation, med fem eller flere tankstandere, hvor drivmiddelpriser angives, skal ejeren eller operatøren af tankstationen, i overensstemmelse med deres indbyrdes aftaler, opsætte et prissammenligningsskilt, der skal opdateres hvert kalenderkvartal."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Det opdaterede prissammenligningsskilt kan hentes digitalt på Færdselsstyrelsens hjemmeside 5 hverdage efter fristen for dataindberetning, jf. § 7, stk. 1. Skiltet skal som minimum udstilles i A4-størrelse."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Senest 10 hverdage efter Færdselsstyrelsens offentliggørelse af det opdaterede prissammenligningsskilt skal prissammenligningsskiltet være opsat."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Stk. 1-3 gælder ikke LNG-tankstationer."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "På en tankstation, med tre eller fire tankstandere, hvor drivmiddelpriser angives, skal ejeren eller operatøren af tankstationen, i overensstemmelse med deres indbyrdes aftaler, opsætte et permanent prissammenligningsskilt til orientering."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Det permanente prissammenligningsskilt skal hentes digitalt på Færdselsstyrelsens hjemmeside. Skiltet skal være et klistermærke i A6-størrelse og skal trykkes på et vejrbestandigt materiale."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Beskadiges QR-koden på det permanente prissammenligningsskilt, eller fremstår det permanente prissammenligningsskilt på anden måde ikke læsbart, skal der opsættes et nyt skilt senest 1 måned efter, at dette konstateres."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Opdaterer Færdselsstyrelsen QR-koden på det permanente prissammenligningsskilt, skal det opdaterede skilt være opsat senest 1 måned efter offentliggørelsen af skiltet på Færdselsstyrelsens hjemmeside."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Stk. 1-4 gælder ikke LNG-tankstationer."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Følgende tankstationer, hvor drivmiddelpriser vises, er ikke omfattet af krav om opsætning af prissammenligningsskilte, jf. §§ 4 og 5: Tankstationer, som findes på færre end 25 adresser i Danmark under samme markedsføringsnavn. Tankstationer, som udelukkende anvendes af lastbiler og busser."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ejere eller operatører af tankstationer og offentligt tilgængelige ladepunkter er for hvert kalenderkvartal forpligtet til at videregive data om priser på brændstoffer og alternative drivmidler. Data skal videregives til Færdselsstyrelsen senest den 5. hverdag i den efterfølgende kalendermåned, jf. dog § 8."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Priser, jf. stk. 1, skal videregives som gennemsnitspriser. Gennemsnitspriserne skal beregnes som simple gennemsnit på baggrund af gældende listepriser i det foregående kalenderkvartal."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "For benzin og diesel, henholdsvis E10 og B7, videregives priserne i kr./liter."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Findes der ikke en listepris for brint og gas, men en uniform fastpris, beregnes gennemsnitsprisen på baggrund af den uniforme pris over det seneste kalenderkvartal. Prisen opgøres i kr./kg."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Operatører af offentligt tilgængelige ladepunkter med en effekt på 11-50 kW eller 150-350 kW skal opgøre prisen i kr./kWh."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "For ejere eller operatører af tankstationer og offentligt tilgængelige ladepunkter, der under samme markedsføringsnavn sælger brændstoffer eller alternative drivmidler, skal data om priser videregives samlet."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Data efter stk. 1 skal videregives via en IT-løsning gennem Færdselsstyrelsens hjemmeside. Videregivelsen skal være i et dataformat godkendt af Færdselsstyrelsen."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Ejere eller operatører af tankstationer og offentligt tilgængelige ladepunkter skal efter anmodning fra Færdselsstyrelsen og i forbindelse med tilsyn indsende dokumentation for, at kravet om videregivelse af data efter stk. 1 er opfyldt."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Følgende er ikke omfattet af kravet om videregivelse af data efter § 7, stk. 1: Offentligt tilgængelige ladepunkter, som tilbyder opladning, der ikke kræver betaling, eller som udelukkende kan anvendes af lastbiler eller busser. En tankstation, hvis tankstationen under samme markedsføringsnavn findes på færre end 25 adresser i Danmark. Dette gælder dog ikke brint- og gastankstationer. En tankstation, som udelukkende anvendes af lastbiler eller busser."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Færdselsstyrelsen fører tilsyn med overholdelse af § 4, stk. 1, stk. 2, 2. pkt., og stk. 3, § 5, stk. 1, stk. 2, 2. pkt., og stk. 3 og 4, og § 7, stk. 1-6, i denne bekendtgørelse."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ejere eller operatører af tankstationer og operatører af offentligt tilgængelige ladepunkter er forpligtet til at give Færdselsstyrelsen alle nødvendige oplysninger til brug for tilsynet efter stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Færdselsstyrelsen fører desuden tilsyn med overholdelse af artikel 5, stk. 1, 1.-4. pkt., stk. 2, stk. 3, 1. og 2. pkt., stk. 4, 1. og 3.-5. pkt., stk. 5, 7, 8, 10 og 11, artikel 6, stk. 3, artikel 7, stk. 1-3, stk. 4, 2. og 3. pkt., artikel 19, stk. 1, stk. 2, 2. og 3. pkt., og stk. 3, og artikel 20, stk. 2 og 3, i AFI-forordningen med senere ændringer, og artikel 1, stk. 1 og 2, i delegeret retsakt om fælles tekniske krav til en fælles applikationsprogrammeringsgrænseflade."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Til brug for Færdselsstyrelsens tilsyn forpligtes følgende til at give alle nødvendige oplysninger: Operatører af offentligt tilgængelige ladepunkter til brug for tilsynet med overholdelsen af AFI-forordningens artikel 5, stk. 1, 1.-4. pkt., stk. 2, stk. 3, 1. og 2. pkt., stk. 4, 1. og 3.-5. pkt., stk. 7, 8 og 10. Udbydere af mobilitetstjenester til brug for tilsynet med overholdelsen af AFI-forordningens artikel 5, stk. 5. Ejere af offentligt tilgængelige ladepunkter til brug for tilsynet med overholdelsen af AFI-forordningens artikel 5, stk. 11. Operatører af offentligt tilgængelige brinttankstationer, eller ejeren af sådanne tankstationer, hvis operatøren ikke er ejer, til brug for tilsynet med overholdelsen af AFI-forordningens artikel 6, stk. 3. Operatører af offentligt tilgængelige brinttankstandere til brug for tilsynet med overholdelsen af AFI-forordningens artikel 7, stk. 1, 1.-5. pkt., og stk. 2. Ejere af offentligt tilgængelige brintstankstandere til brug for tilsynet med overholdelsen af AFI-forordningens artikel 7, stk. 1, 6. pkt. Operatører af offentligt tilgængelige brinttankstationer til brug for tilsynet med overholdelsen af AFI-forordningens artikel 7, stk. 3. Udbydere af mobilitetstjenester til offentligt tilgængelige brinttankstationer til brug for tilsynet med overholdelsen af AFI-forordningens artikel 7, stk. 4, 2. og 3. pkt. Fabrikanter, operatører af offentligt tilgængelige ladepunkter eller tankstandere eller distributører til brug for tilsynet med overholdelsen af AFI-forordningens artikel 19, stk. 1, og stk. 2, 2. og 3. pkt. Operatører af offentligt tilgængelige ladepunkter eller tankstandere, eller ejeren af sådanne standere, hvis operatøren ikke er ejer, til brug for tilsynet med overholdelsen af AFI-forordningens artikel 20, stk. 2 og 3, og delegeret retsakt om fælles tekniske krav til en fælles applikationsprogrammeringsgrænseflade artikel 1, stk. 1 og 2."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Oplysninger efter stk. 2 skal videregives til Færdselsstyrelsen i et dataformat godkendt af Færdselsstyrelsen."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Data videregivet i medfør af § 7, stk. 1, kan bruges ved Færdselsstyrelsens tilsyn efter § 9, stk. 1, og § 10, stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 11.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Færdselsstyrelsen fører desuden tilsyn med overholdelse af artikel 1 og 2 samt artikel 3, stk. 1 og 2, i gennemførelsesforordning om specifikationer og procedurer vedrørende tilgængelighed af og adgang til data."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Til brug for Færdselsstyrelsens tilsyn efter stk. 1 forpligtes operatører af offentligt tilgængelige ladepunkter eller tankstandere til alternative drivmidler, eller ejeren af sådanne ladepunkter eller tankstandere, hvis operatøren ikke er ejer, til at give alle nødvendige oplysninger."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Oplysninger efter stk. 2 skal gives til Færdselsstyrelsen i et dataformat godkendt af Færdselsstyrelsen."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Data videregivet i medfør af § 7, stk. 1, kan bruges ved Færdselsstyrelsens tilsyn efter stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 12.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Færdselsstyrelsens afgørelser efter denne bekendtgørelse kan påklages til transportministeren."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Klagefristen er 4 uger fra den dag, afgørelsen er meddelt."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 13.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Konstaterer Færdselsstyrelsen et af følgende forhold, kan styrelsen give ejere og operatører af drivmiddelinfrastruktur, udbydere af mobilitetstjenester, fabrikanter og distributører påbud om lovliggørelse: Opsætning af et prissammenligningsskilt er ikke i overensstemmelse med §§ 4 og 5. Indberetning af prisdata er ikke i overensstemmelse med § 7. Betalingsløsning er ikke i overensstemmelse med AFI-forordningens artikel 5, stk. 1. Betalingsinstrument eller betalingstjeneste er ikke i overensstemmelse med AFI-forordningens artikel 5, stk. 2. Priser er ikke i overensstemmelse med AFI-forordningens artikel 5, stk. 3, om at være rimelige, let og klart sammenlignelige, gennemsigtige og ikkediskriminerende. Visning og tilgængeliggørelse af prisinformation er ikke i overensstemmelse med AFI-forordningens artikel 5, stk. 4. Ladepunkter er ikke digitalt forbundne og giver ikke mulighed for intelligent opladning i overensstemmelse med AFI-forordningens artikel 5, stk. 7 og 8. Ladekabler er ikke faste i overensstemmelse med AFI-forordningens artikel 5, stk. 10. Brinttankstationen er ikke konstrueret i overensstemmelse med AFI-forordningens artikel 6, stk. 3. Betalingsløsninger og prisvisninger på brintinfrastruktur er ikke i overensstemmelse med AFI-forordningens artikel 7, stk. 1-4. Mærkning af brændstoftyper og opladningsinfrastruktur er ikke i overensstemmelse med AFI-forordningens artikel 19, stk. 1, og stk. 2, 2. og 3. pkt. Statiske og dynamiske datatyper, der skal stilles til rådighed, og oplysninger om applikationsprogrammeringsgrænseflade, der skal indsendes, er ikke i overensstemmelse med AFI-forordningens artikel 20, stk. 2 og 3. Oprettelse af applikationsprogrammeringsgrænseflade er ikke i overensstemmelse med delegeret retsakt om fælles tekniske krav til en fælles applikationsprogrammeringsgrænseflade artikel 1, stk. 1. Tekniske krav for protokolløsning udviklet af andre markedsaktører eller tredjepartsudbydere er ikke i overensstemmelse med delegeret retsakt om fælles tekniske krav til en fælles applikationsprogrammeringsgrænseflade artikel 1, stk. 2. Datatyper er ikke tilgængelige i overensstemmelse med gennemførelsesforordning om specifikationer og procedurer vedrørende tilgængelighed af og adgang til data artikel 1. Datahyppighed for opdatering af statisk og dynamisk data ved ændringer er ikke i overensstemmelse med gennemførelsesforordning om specifikationer og procedurer vedrørende tilgængelighed af og adgang til data artikel 2. Data, der stilles til rådighed efter AFI-forordningens artikel 20, stk. 2, er ikke i overensstemmelse med de datakvalitetskrav, der følger af gennemførelsesforordning om specifikationer og procedurer vedrørende tilgængelighed af og adgang til data artikel 3, stk. 1. Mekanismer til datakvalitetskontrol, der etableres af ejere eller operatører af alternativ drivmiddelinfrastruktur i overensstemmelse med deres indbyrdes aftaler, er ikke i overensstemmelse med gennemførelsesforordning om specifikationer og procedurer vedrørende tilgængelighed af og adgang til data artikel 3, stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Har en ejer eller operatør af drivmiddelinfrastruktur, en udbyder af mobilitetstjenester, en fabrikant eller en distributør ikke videregivet oplysninger i overensstemmelse med § 9, stk. 2, § 10, stk. 2, eller § 11, stk. 2, kan Færdselsstyrelsen give påbud om, at oplysningerne skal videregives."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 14.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Med bøde straffes den, der efter § 18, stk. 1, i lov om infrastruktur for alternative drivmidler til transport overtræder AFI-forordningens artikel 5, stk. 1, 1.-4. pkt., stk. 2, stk. 3, 1. og 2. pkt., stk. 4, 1. eller 3.-5. pkt., stk. 5, 7, 8, 10 og 11, artikel 6, stk. 3, artikel 7, stk. 1, 1.-6. pkt., stk. 2 og 3, stk. 4, 2. og 3. pkt., artikel 19, stk. 1, og stk. 2, 2. og 3. pkt., eller artikel 20, stk. 2 og 3, overtræder gennemførelsesforordning om specifikationer og procedurer vedrørende tilgængelighed af og adgang til data artikel 1 og 2 eller artikel 3, stk. 1 og 2, overtræder delegeret retsakt om fælles tekniske krav til en fælles applikationsprogrammeringsgrænseflade artikel 1, stk. 1 og 2, eller undlader at efterkomme påbud efter § 13."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 15.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 8. juli 2025."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Bekendtgørelse nr. 841 af 25. juni 2025 om krav til offentligt tilgængelig infrastruktur for alternative drivmidler m.v. ophæves."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "For motorkøretøjsmanualer, der knytter sig til køretøjer, der er bragt i omsætning første gang før den 1. juli 2022, finder § 16 i bekendtgørelse nr. 1037 af 28. maj 2021 om krav til offentligt tilgængelig infrastruktur for fossile brændstoffer og alternative drivmidler m.v. fortsat anvendelse."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "For alle manualer, der knytter sig til motorkøretøjer og knallerter, der er bragt i omsætning første gang i perioden den 1. juli 2022 til og med den 12. april 2024, finder § 5 a i bekendtgørelse nr. 1050 af 17. oktober 2019 om detailforskrifter for køretøjers indretning og udstyr, som ændret ved bekendtgørelse nr. 1092 af 28. juni 2022, fortsat anvendelse. 1. pkt. finder ikke anvendelse på manualer, der knytter sig til motorkøretøjer og knallerter, der udelukkende er elektrisk genopladelige."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "For alle manualer, der knytter sig til elektrisk genopladelige motorkøretøjer og knallerter, der er bragt i omsætning første gang i perioden den 1. oktober 2022 til og med den 12. april 2024, finder § 5 b i bekendtgørelse nr. 1050 af 17. oktober 2019 om detailforskrifter for køretøjers indretning og udstyr, som ændret ved bekendtgørelse nr. 1092 af 28. juni 2022, fortsat anvendelse."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Operatører af offentligt tilgængelige ladepunkter, som defineret i § 2, nr. 3, i bekendtgørelse nr. 688 af 7. juni 2023 om krav til offentligt tilgængelig infrastruktur for brændstoffer og alternative drivmidler m.v., med en effekt på eller over 50 kW, der er etableret til og med den 12. april 2024, skal, ved ladestationerne, vise ad hoc-prisen pr. kWh før en opladningssession påbegyndes."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "For offentligt tilgængelige ladepunkter med en effekt på eller over 50 kW, som defineret i § 2, nr. 9, i lov nr. 412 af 4. april 2022 om infrastruktur for alternative drivmidler til transport, der er beliggende på et offentligt areal, eller som har modtaget offentligt tilskud, der er etableret til og med den 12. april 2024, skal operatører af ladepunkterne senest den 1. januar 2027 acceptere elektroniske betalinger via terminaler og anordninger, der anvendes til betalingstjenester, herunder via enheder med en funktion, der som minimum er i stand til at læse betalingskort. For offentligt tilgængelige ladepunkter, der omfattes af AFI-forordningens artikel 5, stk. 1, 4. pkt., finder 1. pkt. ikke anvendelse."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "For offentligt tilgængelige ladepunkter med en effekt på under 50 kW, som defineret i § 2, nr. 9, i lov nr. 412 af 4. april 2022 om infrastruktur for alternative drivmidler til transport, der er beliggende på et offentligt areal, eller som har modtaget offentligt tilskud, der er etableret til og med den 12. april 2024, skal operatører af ladepunkterne senest den 1. januar 2027 acceptere elektroniske betalinger via enheder, der anvender en internetforbindelse og giver mulighed for at sikre betalingstransaktioner, såsom dem, der genererer en Quick Response-kode. 1. pkt. finder ikke anvendelse, hvis operatøren eller denne i en udbyder af opladningstjenesters navn og på dennes vegne leverer opladningstjenester til udbydernes kunder."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 16.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Færdselsstyrelsen fører tilsyn med overholdelse af § 15, stk. 3-8."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ejere eller operatører af tankstationer og operatører af offentligt tilgængelige ladepunkter er forpligtet til at give Færdselsstyrelsen alle nødvendige oplysninger til brug for tilsynet efter stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 17.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Konstaterer Færdselsstyrelsen et af følgende forhold, kan styrelsen give ejere og operatører af drivmiddelinfrastruktur, udbydere af mobilitetstjenester, fabrikanter og distributører påbud om lovliggørelse: Symboler, der angiver, hvilke brændstoftyper køretøjet kan anvende, er ikke i overensstemmelse med § 15, stk. 3. Symboler, der angiver, hvilke brændstoftyper motorkøretøjet kan anvende, er ikke i overensstemmelse med § 15, stk. 4. Symboler, der angiver, hvilke stiktyper motorkøretøjet kan anvende, er ikke i overensstemmelse med § 15, stk. 5. Visning af ad hoc-pris pr. kWh før opladningssessionens påbegyndelse er ikke i overensstemmelse med § 15, stk. 6. Betalingsløsninger er ikke i overensstemmelse med § 15, stk. 7 eller 8."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Har en ejer eller operatør af drivmiddelinfrastruktur, en udbyder af mobilitetstjenester, en fabrikant eller en distributør ikke videregivet oplysninger i overensstemmelse med § 16, stk. 2, kan Færdselsstyrelsen give påbud om, at oplysningerne skal videregives til styrelsen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 18.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Med bøde straffes den, der undlader at efterkomme påbud efter § 17."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

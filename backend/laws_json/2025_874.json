@@ -1,0 +1,565 @@
+{
+  "id": "2025_874",
+  "title": "Bekendtgørelse om beregning af dagpengesatsen",
+  "year": "2025",
+  "number": "874",
+  "status": "Valid",
+  "ministry": "Beskæftigelsesministeriet",
+  "date_published": "2025-06-27",
+  "signatures": [
+    "Jens Erik Zebis",
+    "Kirsten Brix Pedersen"
+  ],
+  "concerns": [
+    "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v."
+  ],
+  "structured_text": [
+    {
+      "chapter": "Kapitel 1",
+      "title": "Begreber m.m.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Denne bekendtgørelse fastsætter de krav, som et medlem skal opfylde for at få beregnet en dagpengesats, jf. lovens kapitel 9."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Administrationen af denne bekendtgørelse sker på grundlag af relevante oplysninger i indkomstregisteret og andre offentlige registre, jf. lovens § 90 b. Oplysningerne i de offentlige registre skal lægges til grund ved administrationen, hvis indberetningen af oplysningerne til registrene er sket i overensstemmelse med den lovgivning, som regulerer de relevante registre. Hvis det ikke er muligt at indhente relevante oplysninger i offentlige registre, eller der mangler oplysninger i registeret, eller oplysningerne er fejlbehæftede, eller oplysningerne ikke er indberettet i overensstemmelse med den lovgivning, som regulerer de relevante registre eller lignende, kan der dog lægges andre oplysninger til grund for opgørelsen af beregningsgrundlaget."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Beregningsgrundlaget er den indtægt, som danner grundlag for beregningen. Der henvises til §§ 3-6."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Beregningsperioden er den periode, der danner grundlag for beregning af en sats. Der henvises til § 7."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Beregningstidspunktet er det tidspunkt, hvor a-kassen skal beregne et medlems sats, jf. § 20."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Indberetningstidspunktet er det tidspunkt, hvor arbejdsgiveren indberetter oplysninger til indkomstregisteret efter § 4 i lov om et indkomstregister."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Indberetningsperioden er den periode, som indberetningen efter § 4 i lov om et indkomstregister vedrører."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Ved årsopgørelse forstås den skattemæssige opgørelse af indkomst og fradrag i et indkomstår."
+            },
+            {
+              "section": "Stk. 9.",
+              "text": "Ved indkomstår forstås det kalenderår, der går forud for årsopgørelsen. Selvstændige kan dog anvende et andet indkomstår end kalenderåret. I disse tilfælde forstås der ved indkomstår det år, som den skattemæssige opgørelse af indkomst og fradrag vedrører."
+            },
+            {
+              "section": "Stk. 10.",
+              "text": "Dagpengesatsen er baseret på månedsvis udbetalinger, jf. lovens § 46, stk. 1."
+            },
+            {
+              "section": "Stk. 11.",
+              "text": "Ved måneder forstås i denne bekendtgørelse kalendermåneder."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem, der har ret til dagpenge, kan få dagpenge med en sats, der beregnes på grundlag af indtægt i beregningsperioden, jf. kapitel 2 og 3."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Et medlem kan have ret til dagpenge med en fast sats, jf. kapitel 4."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Kan et medlem få udbetalt dagpenge med mere end én sats i dagpengeperioden efter §§ 11, 13 og 17, udbetales dagpengene med den sats eller de satser, medlemmet har på udbetalingstidspunktet. Uanset 1. pkt. kan dagpengene kun udbetales med en sats, der har virkning for den måned, dagpengene udbetales for."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 2",
+      "title": "Beregningsgrundlag",
+      "paragraphs": [
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Beregning sker på baggrund af medlemmets hidtidige indtægt efter fradrag for arbejdsmarkedsbidrag. I beregningsgrundlaget indgår følgende: A-indkomst, der er indberettet i henhold til § 3 i lov om et indkomstregister. B-indkomst, hvoraf der skal betales arbejdsmarkedsbidrag, og som ikke indgår i en virksomheds overskud eller underskud. En virksomheds skattemæssige overskud før renter og andre finansielle poster med fradrag for evt. overførsel af beløb til medarbejdende ægtefælle, herunder A-indkomst udbetalt til ejeren af et selskab, hvor ejeren har afgørende indflydelse efter bekendtgørelse om selvstændig virksomhed i dagpengesystemet, samt den selvstændiges ejerandel af overskud i et selskab, hvor personen har afgørende indflydelse."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "For et medlem, der er omfattet af en beregningsperiode på 5 år efter § 7, stk. 3, sker beregning alene på baggrund af beregningsgrundlaget i stk. 1, nr. 3."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Indtægt, som tidligere har dannet grundlag for en beregning, kan ikke indgå i en ny beregning efter stk. 1. Dette gælder dog ikke indtægt, der har dannet grundlag for en beregning efter § 20, stk. 3 og 4, og indtægt, der skal danne grundlag for en beregning efter § 21 ved overgang fra deltids- og fuldtidsforsikring eller omvendt."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Beregningsgrundlaget efter stk. 1, tillægges værdien af følgende: Eget bidrag til Arbejdsmarkedets Tillægspension af lønmodtageraktivitet. Værdien af eget bidrag til en arbejdsmarkedspensionsordning med bortseelsesret efter pensionsbeskatningslovens § 19 og § 56, stk. 3 og 5. Beløb som et pensionsselskab eller pensionsinstitut løbende har indbetalt til et medlems gruppelivsforsikring."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Beregningsgrundlaget efter stk. 1, fratrækkes arbejdsmarkedsbidraget efter lov om  arbejdsmarkedsbidrag med værdien af den procentsats, der gælder på beregningstidspunktet."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Indtægt, der er opnået ved lønarbejde, kan kun medregnes til beregningsgrundlaget i stk. 1, hvis indtægten er udbetalt i et sædvanligt beskæftigelsesforhold, der er i overensstemmelse med gældende overenskomster, eller i øvrigt er udført på almindelige løn- og arbejdsvilkår, jf. bekendtgørelse om indkomst- og beskæftigelseskravet for ret til dagpenge. Indtægt fra beskæftigelse, hvor der ydes offentligt tilskud til lønnen efter lov om en aktiv beskæftigelsesindsats, og som jobcenteret skal indberette til a-kassen, og efter lov om seniorjob, kan ikke medregnes ved opgørelsen af beregningsgrundlaget."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Indtægt, som følger af udbetaling af tabt arbejdsfortjeneste efter § 87 i barnets lov eller plejevederlag efter § 24 i ældreloven, kan ikke indgå i opgørelsen af beregningsgrundlaget efter stk. 1."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Ved ændring af arbejdsmarkedsbidragets størrelse og ved ændring af dagpengenes højeste beløb, jf. lovens § 47, reguleres det enkelte medlems hidtidige beregningsgrundlag med samme procentsats."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Oplysninger om indtægt, der kan medregnes til beregningsgrundlaget i § 3, indhentes følgende steder: A-indkomst og B-indkomst indberettet til indkomstregisteret, indhentes fra indkomstregisteret. Indtægten medregnes til den måned, hvori indtægten er indberettet til indkomstregisteret. Det er uden betydning, hvis beregningsgrundlaget er optjent for en anden periode end indberetningsmåneden. B-indkomst, der ikke er indberetningspligtig til indkomstregisteret, indhentes fra medlemmets afsluttede årsopgørelse i beregningsperioden, medmindre B-indkomsten er medregnet i den måned arbejdet er udført, som oplyst på tro og love af medlemmet, og som dokumenteres via kontrakt eller lignende fra medlemmet. Overskud fra selvstændig virksomhed indhentes fra medlemmets afsluttede årsopgørelser i beregningsperioden, samt den selvstændiges ejerandel af overskud i et selskab, hvor personen har afgørende indflydelse, indhentes fra selskabets afsluttede årsopgørelser i beregningsperioden, jf. stk. 2. A-indkomst udbetalt til en ejer af et selskab, hvor pågældende har afgørende indflydelse, indhentes fra medlemmets afsluttede årsopgørelser i beregningsperioden, jf. stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Indtægt efter stk. 1, nr. 3 og 4, medregnes til beregningsgrundlaget med 1/12 pr. måned i indkomståret. Dækker en virksomheds regnskab ikke 12 måneder, skal indkomsten dog omregnes til måneder ved at overskuddet divideres med det antal måneder, regnskabet dækker. Måneder, hvori der har været drevet selvstændig virksomhed, indgår i opgørelsen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Kun indtægt i en medlemsperiode kan indgå i opgørelsen efter § 3. Indtægt i en indberetningsperiode, som ligger delvist inden for en medlemsperiode, kan medregnes i forhold til antallet af kalenderdage i indberetningsperioden."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "For medlemmer, der har opnået ret til dagpenge, jf. lovens § 54, og som optages i en a-kasse på grundlag heraf, kan indtægt fra arbejde, der ligger efter uddannelsens afslutning og inden optagelsestidspunktet i a-kassen, dog indgå i beregningsgrundlaget."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem, der har været undtaget skattepligt under ansættelse i en international organisation eller på en udenlandsk diplomatisk eller konsulær repræsentation, skal uanset § 3 tage indtjeningen med ved en beregning. Det gælder også for beskæftigelse i udlandet og for beskæftigelse i Danmark for en udenlandsk arbejdsgiver, hvor der ikke sker indberetning af indkomst og løntimer i henhold til lov om et indkomstregister."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Beregningsperioden opgøres som de 12 måneder med den højeste indtægt inden for de seneste 24 måneder forud for beregningstidspunktet, jf. dog stk. 3 og 4."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Hvis der ikke inden for de seneste 24 måneder forud for ledighedens indtræden foreligger indtægt i 12 måneder, jf. stk. 1, beregnes dagpengenes størrelse på baggrund af indtægten i alle måneder med indtægt inden for perioden på 24 måneder, jf. dog § 20, stk. 5. Hvis der ikke inden for de seneste 24 måneder foreligger indtægt, jf. stk. 1, beregnes dagpengene på baggrund af indtægten i en periode på 36 måneder forud for beregningstidspunktet, jf. dog stk. 3 og 4. Ved beregningen efter 1. og 2. pkt. beregnes dagpengesatsen med en individuel divisor i forhold til antal måneder med indtægt."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Beregningsperioden, jf. stk. 1 og 2, opgøres dog som et gennemsnit af de 2 år med den højeste indtægt inden for de seneste 5 afsluttede indkomstår forud for ledighedens indtræden for et medlem, der har drevet selvstændig virksomhed, og som har optjent ret til dagpenge inden for en optjeningsperiode på 5 år efter § 22 i bekendtgørelse om indkomst- og beskæftigelseskravet for ret til dagpenge."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Beregningsperioden efter stk. 1-3, kan forlænges efter reglerne i bekendtgørelse om indkomst- og beskæftigelseskravet for ret til dagpenge, hvis der forekommer følgende forhold i en måned, og forlængelsen giver ret til en højere ydelse: Perioder, hvor medlemmet modtager sygedagpenge efter lov om sygedagpenge. Perioder, hvor medlemmet modtager dagpenge efter lov om ret til orlov og dagpenge ved barsel. Perioder med støtte efter barnets lov til pasning af handicappet eller alvorligt sygt barn eller af nærtstående, der ønsker at dø i eget hjem, jf. ældreloven."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Hvis der ikke skal foretages indberetning af indtægt, jf. § 6 og § 24, opgøres perioden, jf. stk. 1, fra den seneste udbetaling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 3",
+      "title": "Fremgangsmåden ved beregning",
+      "paragraphs": [
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved beregning af en sats skal beregningsgrundlaget, som opgjort efter §§ 3-6, lægges til grund."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Dagpenge kan højst udgøre et beløb, der svarer til 90 pct. af medlemmets beregningsgrundlag, og kan ikke overstige dagpengenes højeste beløb efter lovens §§ 47 eller 70."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den månedsvise indtægt udgør 1/12 af den indtægt, der indgår i beregningsperioden efter § 7."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "I tilfælde, hvor der skal beregnes på indkomst, som ikke er indberettet til indkomstregistret, jf. § 7, stk. 5, udgør den månedlige indtægt 1/12 af indtægten for beregningsperioden. § 7, stk. 1-4, finder tilsvarende anvendelse."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Den beregnede månedssats afrundes efter almindelige afrundingsregler til nærmeste hele kronebeløb. En beregnet timesats angives altid med 2 decimaler."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved beregning af arbejdsfortjenesten for et medlem, der gør tjeneste på et skib registreret i Dansk Internationalt Skibsregister (DIS), skal der ske regulering af den månedlige DIS-hyre. Regulering sker på grundlag af den månedlige indtjening og den tilsikrede skattefrihed eksklusiv kompensationstillæg, medlemmets bidrag til Arbejdsmarkedets Tillægspension som lønmodtager og medlemmets bidrag til pensionsordninger, der er omfattet af afsnit I i lov om beskatningen af pensionsordninger m.v. Regulering finder sted hvert år pr. 1. januar."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved tjeneste under 30 dages varighed sker der en forholdsmæssig regulering af hyren."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Efter omregning i henhold til stk. 1, tillægges den beregnede indtægt medlemmets bidrag til Arbejdsmarkedets Tillægspension som lønmodtager og medlemmets bidrag til pensionsordninger, der er omfattet af afsnit I i lov om beskatningen af pensionsordninger m.v."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Skalatrin og omregningsfaktorer fastsættes på grundlag af statsskat og sundhedsbidrag, jf. personskattelovens § 5, landsgennemsnittet af kommune- og kirkeskat, personfradraget, jf. personskattelovens § 10, og sømandsskattefradraget, jf. § 3 i lov om beskatning af søfolk."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Skalatrin og omregningsfaktorer, jf. stk. 4, offentliggøres i forbindelse med den årlige regulering af dagpengenes højeste beløb, jf. lovens § 47, stk. 1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 4",
+      "title": "Faste dagpengesatser",
+      "paragraphs": [
+        {
+          "paragraph": "§ 11.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem, der har opnået ret til dagpenge efter lovens § 54, og som har forsørgelsespligt over for et barn, jf. lov om aktiv socialpolitik, skal have dagpenge med et fast beløb, der udgør 82 pct. af højeste dagpenge efter lovens §§ 47 eller 70."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Et medlem, der har opnået ret til dagpenge efter lovens § 54, og som ikke har forsørgelsespligt over for et barn, jf. lov om aktiv socialpolitik, skal have dagpenge i de første 481 timer for fuldtidsforsikret og 390 timer for deltidsforsikret med et fast beløb, der udgør 71,5 pct. af højeste dagpenge efter lovens §§ 47 og 70. Efter udbetaling af timerne i 1. pkt. udbetales dagpenge til et medlem, der er under 30 år, med et fast beløb, der udgør 49,17 pct. af højeste dagpenge efter §§ 47 og 70. Efter udbetaling af timerne i 1. pkt. udbetales dagpenge til et medlem, der er 30 år eller derover, med et fast beløb, der udgør 62,11 pct. af højeste dagpenge efter lovens §§ 47 og 70."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Udbetaling af dagpenge som forsørger efter stk. 1, er betinget af, at barnet opholder sig her i Riget, bortset fra Færøerne og Grønland. Det gælder dog ikke for EØS-borgere, herunder danske borgere og schweiziske og britiske borgere, hvis barnet opholder sig i et andet EØS-land, Schweiz eller Storbritannien."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Opgørelsen af antallet af timer efter stk. 2 sker efter reglerne om forbrug af dagpengeperioden i bekendtgørelse om dagpengeperioden."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "A-kassen skal opgøre forbruget af de 481 timer for fuldtidsforsikret og 390 timer for deltidsforsikret efter stk. 2, når et medlem melder sig ledigt efter at have modtaget sygedagpenge. Viser opgørelsen, at medlemmet samlet har fået udbetalt dagpenge og sygedagpenge i mere end 481 timer for et fuldtidsforsikret medlem eller 390 timer for et deltidsforsikret medlem ved genoptagelsen af dagpengeudbetalingen, nedsættes dagpengesatsen efter reglerne i stk. 2, 2. og 3. pkt."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 12.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem, der har opnået ret til dagpenge efter lovens § 53, stk. 14, nr. 1, kan få dagpenge med et fast beløb, der udgør 82 pct. af højeste dagpenge efter lovens §§ 47 eller 70, hvis medlemmet har forsørgelsespligt over for et barn, jf. lov om aktiv socialpolitik, og 71,5 pct. af højeste dagpenge efter lovens §§ 47 og 70, hvis medlemmet ikke har forsørgelsespligt. Hvis medlemmet har ret til en højere dagpengesats efter lovens § 48, kan der udbetales dagpenge med denne sats."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved skift af status som forsørger, jf. stk. 1, sker skiftet af ydelsessats fra den 1. i den efterfølgende måned."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Udbetaling af dagpenge som forsørger efter stk. 1, er betinget af, at barnet opholder sig her i Riget, bortset fra Færøerne og Grønland. Det gælder dog ikke for EØS-borgere, herunder danske borgere og schweiziske og britiske borgere, hvis barn opholder sig i et andet EØS-land, Schweiz eller Storbritannien."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 13.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem under 25 år har ret til dagpenge beregnet efter § 48, jf. §§ 47 og 70 i loven, jf. dog stk. 2-4."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Et medlem, som ikke har gennemført en uddannelse af den i § 54 i loven nævnte art, og som har modtaget dagpenge i 962 timer som fuldtidsforsikret og 780 timer som deltidsforsikret, får dagpenge, der svarer til 50 pct. af højeste dagpenge, jf. lovens §§ 47 og 70, indtil medlemmets ret til dagpenge efter lovens § 55, stk. 1, er udløbet. Det gælder dog ikke et fuldtidsforsikret medlem, der som lønmodtager inden for 3 år har fået indberettet mindst 3.848 løntimer i henhold til lov om et indkomstregister, eller et deltidsforsikret medlem, der som lønmodtager inden for 3 år har fået indberettet mindst 2.565 løntimer i henhold til lov om et indkomstregister. Ved opgørelsen af løntimekravet i 2. pkt. medregnes timer som følge af omregning, jf. lovens § 53, stk. 12, af det skattemæssige overskud før renter og andre finansielle poster af selvstændig virksomhed og A-indkomst udbetalt til ejeren af et selskab, hvor ejeren har afgørende indflydelse, jf. lovens § 57 a. Skift af satsen efter 1. og 2. pkt. sker fra den 1. i den efterfølgende måned."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Et medlem, som har modtaget dagpenge i 962 timer som fuldtidsforsikret og 780 timer som deltidsforsikret og som deltager i tilbud efter kapitel 14 i lov om en aktiv beskæftigelsesindsats, får dagpenge, der svarer til 50 pct. af højeste dagpenge, jf. lovens §§ 47 og 70, hvis medlemmet ikke har gennemført en uddannelse af den i § 54 i loven nævnte art. Det gælder, selv om medlemmet har haft beskæftigelse som nævnt i stk. 2. Skift af satsen efter 1. pkt. sker fra den 1. i den efterfølgende måned efter påbegyndelse samt ophør af tilbud i 1. pkt., jf. dog stk. 6."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Et medlem, som har modtaget dagpenge i 962 timer som fuldtidsforsikret og 780 timer som deltidsforsikret, og som deltager i tilbud efter kapitel 14 i lov om en aktiv beskæftigelsesindsats, modtager, hvis medlemmet har gennemført en uddannelse af den i § 54 i loven nævnte art, dagpenge med et fast beløb, der udgør 82 pct. af højeste dagpenge, jf. lovens §§ 47 og 70, jf. dog stk. 6, hvis medlemmet har forsørgelsespligt over for et barn, jf. lov om aktiv socialpolitik, og 71,5 pct. af højeste dagpenge efter lovens §§ 47 og 70, hvis medlemmet ikke har forsørgelsespligt. Udbetaling af dagpenge som forsørger efter 1. pkt., er betinget af, at barnet opholder sig her i Riget, bortset fra Færøerne og Grønland. Det gælder dog ikke for EØS-borgere, herunder danske borgere, schweiziske og britiske borgere, hvis barn opholder sig i et andet EØS-land, Schweiz eller Storbritannien."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Efter udbetaling af dagpenge med en sats efter stk. 4 i 481 timer til et fuldtidsforsikret medlem og 390 timer til et deltidsforsikret medlem til et medlem, som ikke har forsørgelsespligt, udbetales dagpengene med et beløb, der udgør 49,17 pct. af højeste dagpenge efter §§ 47 og 70. Ved opgørelsen af timetallet i 1. pkt., finder lovens § 55, stk. 4, nr. 1-4 og 6-8, anvendelse."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Opgørelse af forbrug af ydelsesperioder i stk. 2-4, sker efter bekendtgørelse om dagpengeperioden."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Ved deltagelse i tilbud efter kapitel 14 i lov om en aktiv beskæftigelsesindsats, som har en sammenhængende varighed på under 4 uger, modtager medlemmet dog dagpenge efter stk. 1."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Et medlem, der får dagpenge efter stk. 2-4, og som fylder 25 år, får beregnet dagpenge efter § 48, jf. §§ 47 og 70 i loven, fra den 1. i måneden efter det fyldte 25. år."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 14.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Medlemmet skal over for a-kassen på tro og love angive, om pågældende er forsørger eller ej, jf. §§ 11, 12 og 13, stk. 4. A-kassen kontrollerer via data fra CPR, om pågældende er registreret i slægtskabsregistret med barn. Oplysning om forsørgerpligt for og oplysninger om ophold af et barn i et andet EØS-land, Schweiz eller Storbritannien skal yderligere dokumenteres ved hjælp af blanket SED U005 og U006, som er udarbejdet af Den Administrative Kommission for Koordinering af Social Sikringsordninger til brug for udveksling af familieoplysninger mellem EØS-lande, Schweiz og Storbritannien."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 15.",
+          "sections": [
+            {
+              "section": "",
+              "text": "For et medlem under 25 år, der deltager i højskole- og daghøjskole forløb, jf. § 52 e i loven, inden medlemmet har forbrugt 962 timers dagpenge som fuldtidsforsikret eller 780 timers dagpenge som deltidsforsikret, jf. § 55, stk. 1, i loven, sker skift af sats ved påbegyndelsen eller afslutningen af forløbet fra den 1. i den efterfølgende måned. Et medlem, der fylder 25 år, får beregnet dagpenge efter lovens § 48, jf. §§ 47 og 70, fra den 1. i måneden efter det fyldte 25. år."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 16.",
+          "sections": [
+            {
+              "section": "",
+              "text": "For et medlem, som bliver omfattet af et uddannelsesløft og skal modtage dagpenge efter lovens § 48 a, sker skift af dagpengesats ved påbegyndelsen eller afslutningen af uddannelsesløftet med virkning fra den 1. i den efterfølgende måned."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 17.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem, der indplaceres eller genindplaceres i en dagpengeperiode, har ret til et beskæftigelsestillæg, hvis pågældende opfylder betingelserne i stk. 2, jf. dog stk. 3. Beskæftigelsestillægget betyder, at medlemmet kan få udbetalt dagpenge med op til 118,86 pct. af dagpengenes højeste beløb, jf. lovens §§ 47 og 70, dog højst 90 pct. af medlemmets hidtidige indtægt efter § 3."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Udbetalingen af dagpenge med beskæftigelsestillæg efter stk. 1 er betinget af, at medlemmet opfylder alle følgende betingelser: Medlemmet har været uafbrudt medlem af en a-kasse i mindst 4 år. Medlemmet har haft arbejde svarende til fuldtidsbeskæftigelse i mindst 2 år inden for de sidste 3 år forud for indplaceringen eller genindplaceringen i en dagpengeperiode. Er medlemmet indplaceret på baggrund af et indkomstkrav i lovens § 53, stk. 2, skal medlemmet opfylde et indkomstkrav på 547.008 kr. (2025-niveau) for et fuldtidsforsikret medlem og 364.680 kr. (2025-niveau) for et deltidsforsikret medlem. Der kan pr. måned højst medregnes 22.792 kr. (2025-niveau) for et fuldtidsforsikret medlem og 15.195 kr. (2025-niveau) for et deltidsforsikret medlem. Er medlemmet genindplaceret på baggrund af et beskæftigelseskrav i lovens § 53, stk. 8, skal medlemmet opfylde et beskæftigelseskrav på 3.848 løntimer som fuldtidsforsikret medlem eller 3.120 løntimer for et deltidsforsikret medlem. Medlemmet har fået beregnet en dagpengesats, der overstiger 100 pct. af dagpengenes højeste beløb, jf. lovens §§ 47 og 70."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Et medlem, der har ret til dagpenge under sygdom efter lovens § 62, stk. 3, hvor medlemmet har første sygedag på første ledighedsdag og ikke er indplaceret, har ret til beskæftigelsestillæg efter stk. 1, hvis pågældende opfylder betingelserne i stk. 2."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Ved opgørelsen af indkomst- eller beskæftigelseskravet i stk. 2, nr. 2, kan perioder, hvor et medlem har gennemført en uddannelse efter lovens § 54, jf. lovens § 53, stk. 3, nr. 4, og § 53, stk. 9, nr. 4, ikke medregnes."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Et fuldtidsforsikret medlem kan få udbetalt dagpenge med beskæftigelsestillægget efter stk. 1 eller 3, i op til 481 timer og et deltidsforsikret medlem kan få udbetalt dagpenge med beskæftigelsestillægget efter stk. 1 eller 3, i op til 390 timer. Efter udløbet af perioden i 1. pkt. finder § 19 anvendelse."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Opgørelsen af timetallet efter stk. 5 sker efter reglerne om forbrug af ydelsesperioden i bekendtgørelse om dagpengeperioden. Ved opgørelsen medregnes timer efter § 8, stk. 1, nr. 5, 2. pkt. i bekendtgørelse om dagpengeperioden. I opgørelsen medregnes dog ikke følgende perioder: Perioder, hvor et medlem har fået udbetalt dagpenge fra et andet EØS-land. Perioder, hvor et medlem har fået udbetalt feriedagpenge efter lovens § 75 h. Perioder, hvor medlemmet under ledighed modtager sygedagpenge efter lov om sygedagpenge."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Retten til dagpenge med beskæftigelsestillæg efter stk. 1 kan overføres til en ny dagpengeperiode inden for 3 år fra indplaceringstidspunktet. Tilsvarende kan retten til dagpenge med beskæftigelsestillæg efter stk. 3 overføres inden for 3 år fra udbetaling af beskæftigelsestillæg efter stk. 3. Det er en betingelse, at timerne med beskæftigelsestillæg efter stk. 1 ikke er blevet udbetalt i den indeværende dagpengeperiode, eller timerne med beskæftigelsestillæg efter stk. 3 ikke er blevet udbetalt med antallet af timer efter stk. 5. Ved indplaceringen i en ny dagpengeperiode foretages en ny beregning efter stk. 1. Opfylder medlemmet ved den nye indplacering betingelserne for et nyt beskæftigelsestillæg efter stk. 2 kan eventuelle resterende timer med beskæftigelsestillæg ikke overføres."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Perioden på 3 år i stk. 7 opgøres i hele måneder og kan forlænges på grundlag af følgende perioder: Sammenhængende perioder ud over 4 uger, hvor medlemmet har fået udbetalt sygedagpenge efter lov om sygedagpenge. Perioder, hvor medlemmet modtager dagpenge efter lov om ret til orlov og dagpenge ved barsel. Perioder med støtte efter barnets lov til pasning af handicappet eller alvorligt sygt barn eller af nærtstående, der ønsker at dø i eget hjem, jf. ældreloven."
+            },
+            {
+              "section": "Stk. 9.",
+              "text": "Ved opgørelsen efter stk. 8 finder principperne i § 9 i bekendtgørelse om dagpengeperioden anvendelse."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 18.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem, der opfylder betingelserne i § 17, stk. 2, men hvor medlemmets beregnede dagpengesats ikke overstiger 100 pct. af dagpengenes højeste beløb, jf. lovens §§ 47 og 70, anses ikke for at have fået tildelt et beskæftigelsestillæg."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 19.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem, der har fået udbetalt dagpenge med beskæftigelsestillæg i 481 timer for et fuldtidsforsikret medlem og 390 timer for et deltidsforsikret medlem, jf. § 17, stk. 5, får udbetalt dagpenge med 100 pct. af dagpengenes højeste beløb, jf. lovens §§ 47 og 70."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 5",
+      "title": "Tidspunktet for beregning",
+      "paragraphs": [
+        {
+          "paragraph": "§ 20.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Der skal ske beregning, jf. dog stk. 2, når et medlem anmoder om dagpenge, medlemmet opfylder betingelserne for at få dagpenge, og der er en beregningsperiode efter § 7."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Der beregnes en dagpengesats, når medlemmet bliver indplaceret i en ny dagpengeperiode, jf. lovens § 53, stk. 2 og 5, jf. dog § 21 og lovens § 49, stk. 5 og 6. Dette gælder uanset medlemmet tidligere har fået dagpenge med en højere beregnet sats."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Et medlem, der har opnået dagpenge efter § 11, kan få beregnet en sats, når der er forløbet 6 måneder efter, at retten til dagpenge er indtrådt, og medlemmet efter uddannelsens afslutning har fået indberettet indtægt, jf. stk. 5, hvis medlemmet derved kan få ret til en højere dagpengesats. Udbetaling af dagpenge med den beregnede sats sker med virkning fra den 1. i måneden herefter."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Et medlem, der har opnået dagpengeret efter § 12, skal have beregnet en sats, når der er forløbet 6 måneder efter, at retten til dagpenge er indtrådt, og medlemmet efter at retten til dagpenge er indtrådt, har fået indberettet indtægt, jf. stk. 5, hvis medlemmet derved kan få ret til en højere dagpengesats. Udbetaling af dagpenge med den beregnede sats sker med virkning fra den 1. i måneden herefter."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Hvis der ved beregningen efter stk. 3 og 4, inden for de seneste 24 måneder forud for beregningstidspunktet ikke foreligger 12 måneder med indkomst, beregnes dagpengenes størrelse i disse tilfælde på baggrund af indberettet indtægt i mindst 3 måneder inden for perioden på 24 måneder, jf. § 7, stk. 2, 1. pkt., jf. stk. 2, 3. pkt. § 7, stk. 4, finder tilsvarende anvendelse."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Et medlem, som har fået foretaget en beregning efter stk. 3 og 4, har som forsørger, jf. §§ 11 og 12, uanset den individuelle beregning, altid ret til at modtage dagpenge med satsen som forsørger."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "I tilfælde, hvor indkomst, der kan danne grundlag for en beregning efter stk. 3 og 4, ligger inden for 6 måneders perioderne i de nævnte bestemmelser, sker udbetaling af dagpenge med den beregnede sats med virkning fra den 1. i måneden herefter."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 21.",
+          "sections": [
+            {
+              "section": "",
+              "text": "For et medlem, der tidligere har fået dagpenge med en beregnet sats, skal der, uanset § 20, stk. 2, ske beregning, hvis medlemmet overgår fra deltids- til fuldtidsforsikring eller omvendt, jf. bekendtgørelse om medlemskab af en a-kasse. Ved beregning af dagpengenes størrelse, kan der uanset § 3, stk. 3, medtages indtægter, som tidligere har dannet grundlag for en beregning af dagpenge."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Skift af ydelsessats efter stk. 1, sker fra den 1. i den efterfølgende måned."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 6",
+      "title": "Beregning for et medlem, der har arbejdet i udlandet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 22.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem, som ikke har været forsikret i en dansk a-kasse inden for de sidste 5 år før ankomsten til Danmark, og som opfylder betingelserne for ret til dagpenge, jf. bekendtgørelse om arbejdsløshedsforsikring ved arbejde m.v. inden for EØS, Færøerne og i det øvrige udland, skal have beregnet en sats på grundlag af det seneste arbejde i Danmark, der opfylder betingelserne i §§ 3-7."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Et medlem, som har været forsikret i en dansk a-kasse inden for de sidste 5 år før ankomsten til Danmark, og som herefter har været arbejdsløshedsforsikret i et andet EØS-land, Schweiz eller Storbritannien, skal have beregnet en sats på grundlag af arbejdet i Danmark, jf. §§ 3-7, jf. dog stk. 3, hvis medlemmet umiddelbart genindtræder i retten til dagpenge efter arbejde i et andet EØS-land, Schweiz eller Storbritannien, jf. bekendtgørelse om arbejdsløshedsforsikring ved arbejde m.v. inden for EØS, Færøerne og i det øvrige udland."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Beregningen efter stk. 2, sker helt eller delvist på grundlag af dansk indtægt suppleret med indtægt fra et andet EØS-land, Schweiz eller Storbritannien, jf. stk. 5."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "For en ledig grænsearbejder med bopæl i Danmark skal der ske beregning på grundlag af indtjeningen i beskæftigelseslandet forud for, at medlemmet blev ledigt, jf. stk. 5."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Ved opgørelsen af indtægt fra et andet EØS-land, Schweiz eller Storbritannien efter stk. 3 og 4, anvendes reglerne om indeksering af indkomst fra et andet EØS-land i bekendtgørelse om indkomst- og beskæftigelseskravet for ret til dagpenge."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Ved beregning efter denne bestemmelse skal a-kassen omregne indtægten fra et andet EØS-land, Schweiz eller Storbritannien til danske kroner med den gældende valutakurs for den sidste dag i det beskæftigelsesforhold, som indgår i opgørelsen. Ved omregningen anvendes den valutakurs, der er fastsat af Den Europæiske Centralbank."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 23.",
+          "sections": [
+            {
+              "section": "",
+              "text": "For et medlem, der har ret til at overføre forsikrings- og arbejdsperioder fra Færøerne, og som har ret til dagpenge, sker beregning på grundlag af det seneste arbejde, der opfylder betingelserne i §§ 3-7."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Betingelserne i stk. 1 kan opfyldes ved arbejde i Danmark, ved arbejde både i Danmark og på Færøerne eller ved arbejde kun på Færøerne. Det kan dog ikke opfyldes ved arbejde i Danmark, der ligger forud for opholdet på Færøerne, jf. dog stk. 3 og § 24."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Et medlem, der forud for arbejde på Færøerne enten har været medlem af en dansk a-kasse eller under arbejdet på Færøerne har bevaret medlemskab af en dansk kasse, kan vælge at være omfattet af § 24."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 24.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Et medlem kan vælge, at der skal ske beregning på grundlag af indtægt fra arbejde i udlandet, hvis medlemmet er ledig efter arbejde i Grønland eller i udlandet bortset fra EØS-landene, Schweiz eller Storbritannien, og medlemmet har bevaret medlemskab af en dansk a-kasse under arbejdet i udlandet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Hvis et medlem vælger, at indtægten optjent i udlandet skal bruges ved beregning af en sats, skal indtægten omregnes til danske kroner med den gældende valutakurs for den sidste dag i det beskæftigelsesforhold, som indgår i opgørelsen. Ved omregningen anvendes den omregningskurs, der er fastsat af Nationalbanken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 7",
+      "title": "Ikrafttrædelsesbestemmelser m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 25.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 1. juli 2025."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Bekendtgørelse nr. 1157 af 12. november 2024 om beregning af dagpengesatsen ophæves."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "§§ 17-19 finder anvendelse for medlemmer, der bliver indplaceret i en dagpengeperiode den 1. maj 2023 eller senere."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

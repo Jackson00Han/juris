@@ -1,0 +1,211 @@
+{
+  "id": "2025_620",
+  "title": "Bekendtgørelse om udpegning af kompetente myndigheder og digital kommunikation omfattet af NIS 2-loven",
+  "year": "2025",
+  "number": "620",
+  "status": "Valid",
+  "ministry": "Ministeriet for Samfundssikkerhed og Beredskab",
+  "date_published": "2025-06-02",
+  "signatures": [
+    "Torsten Schack Pedersen",
+    "Mette Kreiborg"
+  ],
+  "concerns": [
+    "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)"
+  ],
+  "structured_text": [
+    {
+      "chapter": "Kapitel 1",
+      "title": "Udpegning af kompetente myndigheder inden for den offentlige forvaltning",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Styrelsen for Samfundssikkerhed er kompetent myndighed for følgende: Kommunerne. Offentlige forvaltningsenheder under den centrale forvaltning, jf. NIS 2-lovens bilag 1, pkt. 10, jf. dog § 2, nr. 2, og § 7, nr. 4."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Sundhedsdatastyrelsen er kompetent myndighed for følgende: Regionerne, jf. NIS 2-lovens bilag 1, pkt. 10. Ministeriet for Samfundssikkerhed og Beredskab og Styrelsen for Samfundssikkerhed, jf. NIS 2-lovens § 20, stk. 2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 2",
+      "title": "Udpegning af kompetente myndigheder inden for øvrige sektorer, delsektorer og enheder",
+      "paragraphs": [
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvis en enhed ikke er omfattet af tilsynet inden for den offentlige forvaltning, jf. §§ 1 og 2, anses myndighederne nævnt i §§ 4-13 som kompetente myndigheder for de anførte sektorer, delsektorer og enheder."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Sundhedsdatastyrelsen er kompetent myndighed for følgende enheder: Enheder, der opererer inden for sektoren for sundhed, jf. NIS 2-lovens bilag 1, pkt. 5. Enheder, der opererer inden for delsektoren for fremstilling af medicinsk udstyr og medicinsk udstyr til in vitro-diagnostik, jf. NIS 2-lovens bilag 2, pkt. 5, litra a."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energistyrelsen er kompetent myndighed for enheder, der opererer inden for sektoren for affaldshåndtering, jf. NIS 2-lovens bilag 2, pkt. 2, for så vidt angår affaldsforbrændingsanlæggene, jf. § 2 i lov nr. 258 af 6. marts 2025 om styrket beredskab i energisektoren."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen er kompetent myndighed for følgende enheder: DNS-tjenesteudbydere (bortset fra operatører af rodnavneservere), topdomænenavneadministratorer, udbydere af cloudcomputingtjenester, udbydere af datacentertjenester, udbydere af indholdsleveringsnetværk samt tillidstjenesteudbydere, jf. NIS 2-lovens bilag 1, pkt. 8. Udbydere af administrerede tjenester og udbydere af administrerede sikkerhedstjenester jf. NIS 2-lovens bilag 1, pkt. 9. Udbydere af onlinemarkedspladser, udbydere af onlinesøgemaskiner samt udbydere af platforme for sociale netværkstjenester, jf. NIS 2-lovens bilag 2, pkt. 6. Topdomænenavneadministratorer og enheder, der leverer domænenavnsregistreringstjenester, jf. NIS 2-lovens § 11."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Trafikstyrelsen er kompetent myndighed for følgende enheder: Enheder, der opererer inden for delsektorerne for luft, jernbane og vejtransport, jf. NIS 2-lovens bilag 1, pkt. 2, litra a, b og d. Enheder, der udgør driftsorganer i havne, herunder deres havnefaciliteter, inden for delsektoren for vand, samt enheder, der opererer anlæg og udstyr i havne, jf. NIS 2-lovens bilag 1, nr. 2, litra c. Enheder, der opererer inden for sektoren for post- og kurertjenester, jf. NIS 2-lovens bilag 2, pkt. 1. Banedanmark og Vejdirektoratet, som opererer inden for sektoren offentlig forvaltning under den centrale forvaltning, jf. NIS 2-lovens bilag 1, pkt. 10."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Søfartsstyrelsen er kompetent myndighed for enheder, der udgør rederier, som udfører passager- og godstransport ad indre vandveje, i højsøfarvand eller kystnært farvand, jf. NIS 2-lovens bilag 1, pkt. 2, litra c."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Uddannelses- og Forskningsstyrelsen er kompetent myndighed for følgende enheder: Enheder, der opererer inden for sektoren for rummet, jf. NIS 2-lovens bilag 1, pkt. 11, jf. dog § 10. Enheder, der opererer inden for sektoren for forskning, jf. NIS 2-lovens bilag 2, pkt. 7."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Klimadatastyrelsen er kompetent myndighed for styrelser og institutioner under Klima-, Energi- og Forsyningsministeriet, der opererer inden for sektoren rummet, jf. NIS 2-lovens bilag 1, pkt. 11."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 11.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Miljøstyrelsen er kompetent myndighed for følgende enheder: Enheder, der opererer inden for sektoren for drikkevand, jf. NIS 2-lovens bilag 1, pkt. 6. Enheder, der opererer inden for sektoren for spildevand, jf. NIS 2-lovens bilag 1, pkt. 7. Enheder, der opererer inden for sektoren for affaldshåndtering, jf. NIS 2-lovens bilag 2, pkt. 2, bortset for enheder, der udgør affaldsforbrændingsanlæg jf. § 2 i lov nr. 258 af 6. marts 2025 om styrket beredskab i energisektoren."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 12.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Styrelsen for Samfundssikkerhed er kompetent myndighed for følgende enheder: Enheder, der udgør operatører af skibstrafiktjenester, jf. NIS 2-lovens bilag 1, pkt. 2, litra c. Enheder, der udgør udbydere af internetudvekslingspunkter, jf. NIS 2-lovens bilag 1, pkt. 8. Enheder, der opererer inden for sektoren for fremstilling, produktion og distribution af kemikalier, jf. NIS 2-lovens bilag 2, pkt. 3. Enheder, der opererer inden for delsektoren for fremstilling af computere og elektroniske og optiske produkter, jf. NIS 2-lovens bilag 2, pkt. 5, litra b. Enheder, der opererer inden for delsektoren for fremstilling af elektrisk udstyr, jf. NIS 2-lovens bilag 2, pkt. 5, litra c. Enheder, der opererer inden for delsektoren for fremstilling af maskiner og udstyr intet andetsteds nævnt, jf. NIS 2-lovens bilag 2, pkt. 5, litra d. Enheder, der opererer inden for delsektoren for fremstilling af motorkøretøjer, påhængsvogne og sættevogne, og fremstilling af andre transportmidler, jf. NIS 2-lovens bilag 2, pkt. 5, litra e og f."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 13.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Fødevarestyrelsen er kompetent myndighed for enheder, der opererer inden for sektoren for engrosdistribution og industriel produktion og tilvirkning af fødevarer, jf. NIS 2-lovens bilag 2, pkt. 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 3",
+      "title": "Digital kommunikation",
+      "paragraphs": [
+        {
+          "paragraph": "§ 14.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Registrering efter NIS 2-lovens §§ 9 og 10 og underretning efter NIS 2-lovens §§ 12-14 skal ske digitalt gennem den af Styrelsen for Samfundssikkerhed anviste selvbetjeningsløsning, som er tilgængelig via Virk.dk, medmindre enheden er fritaget herfor, jf. § 16."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den digitale kommunikation efter stk. 1 skal være forsynet med den offentlige digitale signatur MitID."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 15.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den digitale kommunikation omfattet af § 14, anses for at være kommet frem på det tidspunkt, når den er tilgængelig for modtageren."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Skriftlig kommunikation omfattet af § 14, stk. 1, anses ikke for modtaget, hvis enheden har indsendt den skriftlige kommunikation på anden måde end beskrevet i § 14, stk. 1, jf. dog stk. 3."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Såfremt en enhed ikke kan tilgå den anviste selvbetjeningsløsning, herunder i tilfælde, hvor den anviste selvbetjeningsløsning er ude af drift, eller en enhed er ramt af en hændelse, jf. NIS 2-lovens § 3, nr. 12 der medfører, at den anviste selvbetjeningsløsning ikke kan tilgås, kan skriftlig kommunikation efter § 14 indgives gennem den af Styrelsen for Samfundssikkerhed angivne alternative kommunikationsløsning."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 16.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den kompetente myndighed kan efter anmodning fra en enhed fritage denne for digital kommunikation efter § 14, stk. 1, hvis enheden har hjemsted i udlandet og ikke kan få dansk digital signatur, eller hvis der foreligger andre væsentlige grunde, der forhindrer eller unødigt vanskeliggør digital kommunikation for den pågældende enhed. Ved fritagelse anviser den kompetente myndighed under inddragelse af Computer Security Incident Response Team (CSIRT) en anden kommunikationsform, som skal anvendes ved kommunikation om forhold omfattet af § 14. Fritagelsen er gældende i 2 år."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En fritagelse for digital kommunikation efter stk. 1 kan efter anmodning fra enheden forlænges i 2 år. En ansøgning om forlængelse af en fritagelse skal indgives til den kompetente myndighed gennem den af den kompetente myndighed anviste digitale løsning, senest 3 måneder før udløbet af den meddelte fritagelse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 4",
+      "title": "Ikrafttrædelse",
+      "paragraphs": [
+        {
+          "paragraph": "§ 17.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 1. juli 2025."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2098 @@
+{
+  "id": "2025_681",
+  "title": "Bekendtgørelse af lov om elektroniske kommunikationsnet og -tjenester",
+  "year": "2025",
+  "number": "681",
+  "status": "Valid",
+  "ministry": "Digitaliseringsministeriet",
+  "date_published": "2025-06-19",
+  "signatures": [
+    "Lars BønLøkke Lé",
+    "Thomas Ilum Damsgaard"
+  ],
+  "concerns": [],
+  "structured_text": [
+    {
+      "chapter": "Kapitel 1",
+      "title": "Lovens formål",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Lovens formål er at fremme et velfungerende og innovationspræget marked for elektroniske kommunikationsnet og -tjenester til gavn for slutbrugerne."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Myndighederne skal ved varetagelsen af opgaver i denne lov bl.a. iagttage følgende til gavn for slutbrugerne: Fremme konnektivitet og adgang til og ibrugtagning af net med meget høj kapacitet. Fremme konkurrencen inden for udbud af elektroniske kommunikationsnet og -tjenester, herunder reel infrastrukturbaseret konkurrence. Fremme forudsigelighed i reguleringen ved at sikre en ensartet tilsynspraksis i samarbejde med andre medlemsstaters   myndigheder, Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation (BEREC), Frekvenspolitikgruppen (RSPG) og Europa-Kommissionen. Sikre, at udbydere af elektroniske kommunikationsnet eller -tjenester behandles lige. Anvende EU-retten på en teknologineutral måde, medmindre dette strider mod øvrige mål efter denne lov. Fremme effektive investeringer og innovation i ny og forbedret infrastruktur. Tage behørigt hensyn til lokale forhold for infrastruktur, konkurrence og slutbrugerforhold i forskellige geografiske områder, herunder ejerforhold og grundlaget for administration af lokal infrastruktur. Kun indføre forhåndsregulerende forpligtelser, i det omfang det er nødvendigt for at sikre effektiv og holdbar konkurrence i slutbrugernes interesse, og lempe eller ophæve sådanne forpligtelser, så snart betingelserne herfor er opfyldt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 2",
+      "title": "Definitioner",
+      "paragraphs": [
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "I denne lov forstås ved: Udbyder: Den, som med et kommercielt formål stiller produkter, elektroniske kommunikationsnet eller -tjenester omfattet af denne lov til rådighed for andre. Erhvervsmæssig udbyder: En udbyder, som med et kommercielt formål udbyder produkter eller elektroniske kommunikationsnet eller -tjenester omfattet af denne lov som sin hovedydelse eller som en ikkeaccessorisk del af virksomheden. Slutbruger: Bruger af elektroniske kommunikationsnet eller -tjenester, som ikke på kommercielt grundlag stiller de pågældende elektroniske kommunikationsnet eller -tjenester til rådighed for andre. Elektronisk kommunikationsnet: Transmissionssystemer, uanset om de bygger på en permanent infrastruktur eller centraliseret administrationskapacitet, og, hvor det er relevant, koblings- og dirigeringsudstyr og andre ressourcer, herunder netelementer, der ikke er aktive, som gør det muligt at overføre signaler ved hjælp af trådforbindelse, radiobølger, lyslederteknik eller andre elektromagnetiske midler, herunder satellitnet, jordbaserede fastnet (kredsløbs- og pakkekoblede, herunder i internettet) og mobilnet, elkabelsystemer, i det omfang de anvendes til transmission af signaler, net, som anvendes til radio- og tv-spredning, og kabel-tv-net, uanset hvilken type information der overføres. Offentligt elektronisk kommunikationsnet: Et elektronisk kommunikationsnet, som udelukkende eller overvejende bruges til udbud af elektroniske kommunikationstjenester, der er tilgængelige for offentligheden, og som danner grundlag for overførsel af information mellem nettermineringspunkter. Net med meget høj kapacitet: Et elektronisk kommunikationsnet, der udelukkende består af optiske fiberelementer som minimum frem til fordelingspunktet på leveringsstedet, eller et elektronisk kommunikationsnet, som under normale spidsbelastningsvilkår kan give en tilsvarende netpræstation, for så vidt angår disponibel båndbredde til downlink og uplink, robusthed, fejlrelaterede parametre og latenstid og variation heri. Netpræstationen kan anses for tilsvarende, uanset om slutbrugerens oplevelse heraf varierer på grund af iboende forskellige egenskaber ved de medier, hvormed nettet i sidste ende etablerer forbindelse med nettermineringspunktet. Radiobaseret lokalnet: Et trådløst adgangssystem med lav effekt og lille rækkevidde (RLAN), der har en lav risiko for at skabe uacceptable forstyrrelser som defineret i lov om radiofrekvenser af andre sådanne systemer etableret i nærheden af andre brugere, og som på et ikkeeksklusivt grundlag anvender harmoniserede radiofrekvenser. Nettermineringspunkt: Et fysisk punkt, hvor en slutbruger får adgang til et offentligt elektronisk kommunikationsnet, og som for net, hvor der anvendes kobling eller routing, identificeres ved hjælp af en specifik netadresse, som kan være knyttet til slutbrugerens nummer eller navn. Elektronisk kommunikationstjeneste: Tjeneste, der helt eller delvis består i elektronisk overføring af kommunikation i form af lyd, billeder, tekst eller kombinationer heraf ved hjælp af radio- eller telekommunikationsteknik mellem nettermineringspunkter, herunder både tovejskommunikation og envejskommunikation. Offentlig elektronisk kommunikationstjeneste: Tjeneste som nævnt i nr. 9, der stilles til rådighed for en ikke på forhånd afgrænset kreds af slutbrugere eller udbydere af elektroniske kommunikationsnet eller -tjenester. Informations- og indholdstjeneste: Enhver form for elektronisk tilrådighedsstillelse af information eller indhold, som andre slutbrugere får adgang til via elektroniske kommunikationsnet eller -tjenester på grundlag af en individuel anmodning herom. Talekommunikationstjeneste: Offentligt tilgængelig elektronisk kommunikationstjeneste, hvorved slutbrugere får adgang til at etablere og modtage enten indenlandske eller internationale og indenlandske opkald direkte eller indirekte ved hjælp af et eller flere numre i en national eller international telefonnummerplan. Netadgang: Adgang til en udbyders elektroniske kommunikationsnet eller -tjenester og tilhørende faciliteter for en anden udbyder med henblik på udbud af elektroniske kommunikationsnet eller -tjenester. Samtrafik: En form for netadgang, der etableres mellem udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, og som består i fysisk og logisk sammenkobling af elektroniske kommunikationsnet, som bruges af den samme eller af en anden virksomhed med henblik på at give mulighed for at kommunikere eller få adgang til elektroniske kommunikationstjenester. Abonnentnummer: Ethvert nummer, som er omfattet af den samlede danske nummerplan, og som kan videretildeles til en slutbruger. Adgangsstyringssystem: Teknisk foranstaltning eller ordning, der gør adgang til en krypteret radio- eller tv-tjeneste i klar form betinget af abonnement eller en anden form for forudgående tilladelse. Programmeringsgrænseflader for applikationer (API): Softwaregrænsefladen mellem applikationer, som radio- og tv-selskaber eller tjenesteudbydere stiller til rådighed, og de faciliteter i set-top-bokse, som er beregnet til tilslutning til tv-apparater eller integrerede digitale tv-apparater, der kan modtage digitale interaktive radio- og tv-tjenester. Multipleksoperatør: Udbyder af elektroniske kommunikationsnet eller -tjenester eller ejer af elektroniske kommunikationsnet, som driver en jordbaseret digital tv-platform. Gatewaystation: Jordbaseret teknisk installation, der benyttes i forbindelse med kommunikation mellem en i forvejen afgrænset gruppe af slutbrugere, hvor en eller flere er tilsluttet et satellitbaseret net. Nummeruafhængig interpersonel kommunikationstjeneste: En tjeneste, som normalt ydes mod betaling, og som muliggør direkte interpersonel og interaktiv informationsudveksling via elektroniske kommunikationsnet mellem et afgrænset antal personer, hvor de personer, der indleder eller deltager i kommunikationen, bestemmer, hvem modtageren eller modtagerne skal være. Tjenesten omfatter ikke tjenester, der blot muliggør interpersonel og interaktiv kommunikation som en mindre støttefunktion, der er tæt knyttet til en anden tjeneste. Tjenesten etablerer ikke forbindelse til offentligt tildelte nummerressourcer, dvs. et eller flere numre i nationale eller internationale nummerplaner, og muliggør ikke kommunikation med et eller flere numre i nationale eller internationale nummerplaner. Alarmcentral: En fysisk lokalitet, hvor en alarmkommunikation modtages under ansvar af en offentlig myndighed. Den relevante alarmcentral: Den alarmcentral, som skal dække alarmkommunikationer fra et bestemt område eller af en bestemt type. Alarmkommunikation: Kommunikation, der etableres via en elektronisk kommunikationstjeneste mellem en slutbruger og alarmcentralen med det formål at anmode om og modtage hjælp fra beredskabstjenester. Beredskabstjeneste: En tjeneste, der yder omgående og hurtig bistand i situationer, hvor der i særlig grad er direkte risiko for liv eller lemmer, for individuel eller kollektiv sundhed eller sikkerhed, for privat eller offentlig ejendom eller for miljøet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 3",
+      "title": "Grundlæggende slutbrugerrettigheder",
+      "paragraphs": [
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler med henblik på at forpligte ejere af elektroniske kommunikationsnet og udbydere af elektroniske kommunikationsnet eller -tjenester til at sikre slutbrugere adgang til gratis alarmkommunikation til den offentlige alarmtjeneste og foretage opkald til nummeroplysningstjenester, teksttelefontjenesten og eventuelle andre samfundsvigtige elektroniske kommunikationstjenester."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler med henblik på at forpligte udbydere af elektroniske kommunikationsnet eller -tjenester og udbydere af nummeruafhængige interpersonelle kommunikationstjenester til at sikre en række grundlæggende slutbrugerrettigheder i forbindelse med aftaler om levering af elektroniske kommunikationsnet eller -tjenester, herunder om: Oplysningskrav. Almennyttige oplysninger. Aftalers varighed og opsigelse. Pakketilbud. Særlige funktioner og faciliteter. Tilgængelighedskrav og kompenserende tjenester for personer med handicap og oplysningskrav i forbindelse med disse tjenester. Tilgængelighedskrav i forbindelse med alarmkommunikation for personer med handicap. Udbyderens klagebehandling."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved fastsættelsen af regler i henhold til stk. 1 kan digitaliseringsministeren bestemme, at disse kun skal gælde for visse typer af aftaleforhold, herunder for aftaler med ikkeerhvervsdrivende slutbrugere, og at reglerne ikke skal kunne fraviges ved aftale. Digitaliseringsministeren kan desuden fastsætte nærmere regler om Digitaliseringsstyrelsens adgang til at dispensere fra kravene."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Regler fastsat i medfør af stk. 1 finder ikke anvendelse på mikrovirksomheder, der udbyder nummeruafhængige interpersonelle kommunikationstjenester, medmindre de også udbyder elektroniske kommunikationstjenester."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen kan fastsætte regler med henblik på at forpligte udbydere af elektroniske kommunikationsnet eller -tjenester og udbydere af nummeruafhængige interpersonelle kommunikationstjenester til at sikre en række grundlæggende slutbrugerrettigheder i forbindelse med aftaler om levering af net eller tjenester, herunder regler om: Gennemsigtighed, sammenligning af tilbud og offentliggørelse af oplysninger. Tjenestekvalitet. Skift af udbyder af internetadgangstjenester. Spærring og tilbagehold af indtægter ved bedrageri og misbrug. Forbud mod ensidigt at begrænse slutbrugere i at tilgå radiobaserede lokalnet m.v."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Regler fastsat i medfør af stk. 1 finder ikke anvendelse på mikrovirksomheder, der udbyder nummeruafhængige interpersonelle kommunikationstjenester, medmindre de også udbyder elektroniske kommunikationstjenester."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler med henblik på at forpligte udbydere af teleterminaludstyr, der anvendes til mobilkommunikationstjenester, til at sikre grundlæggende slutbrugerrettigheder i forbindelse med aftaler om levering af teleterminaludstyr til slutbrugere. Digitaliseringsministeren kan herunder fastsætte nærmere regler om maksimale bindingsperioder i forbindelse med faciliteter i teleterminaludstyr."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved fastsættelsen af regler i henhold til stk. 1 kan digitaliseringsministeren bestemme, at reglerne kun skal gælde for visse typer af aftaleforhold, herunder for aftaler med ikkeerhvervsdrivende slutbrugere, og at reglerne ikke skal kunne fraviges ved aftale."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen kan fastsætte regler om etablering og drift af betalingstelefoner eller anden adgang til offentlig taletelefoni indeholdende minimumskrav til udbuddet af betalingstelefoner eller anden adgang til offentlig taletelefoni, herunder med henblik på opfyldelse af handicappede slutbrugeres særlige behov."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ejere af elektroniske kommunikationsnet og udbydere af elektroniske kommunikationsnet eller -tjenester og nummeruafhængige interpersonelle kommunikationstjenester og deres ansatte og tidligere ansatte må ikke uberettiget videregive eller udnytte oplysninger om andres brug af nettet eller tjenesten eller indholdet heraf, som de får kendskab til i forbindelse med det pågældende udbud af elektroniske kommunikationsnet eller -tjenester og nummeruafhængige interpersonelle kommunikationstjenester. De nævnte ejere og udbydere skal træffe de foranstaltninger, der er nødvendige for at sikre, at oplysninger om andres brug af nettet eller tjenesten eller indholdet heraf ikke er tilgængelige for uvedkommende."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Bestemmelserne i straffelovens §§ 152, 152 a og 152 d-152 f finder tilsvarende anvendelse for den, der virker eller har virket hos en ejer af elektroniske kommunikationsnet eller en udbyder af elektroniske kommunikationsnet eller -tjenester og nummeruafhængige interpersonelle kommunikationstjenester, eller som i øvrigt er eller har været beskæftiget med opgaver, der udføres efter aftale med disse."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren fastsætter regler for udbydere af offentlige elektroniske kommunikationsnet eller -tjenester og nummeruafhængige interpersonelle kommunikationstjenester om minimumskrav til behandling af persondata i elektroniske kommunikationsnet og -tjenester og nummeruafhængige interpersonelle kommunikationstjenester."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Regler fastsat i medfør af stk. 1 skal bl.a. omfatte krav om følgende: Passende tekniske og organisatoriske foranstaltninger med henblik på at styre risici for persondatasikkerheden i elektroniske kommunikationsnet og -tjenester og nummeruafhængige interpersonelle kommunikationstjenester og sikre et sikkerhedsniveau, der står i forhold til risici. Underretning af Digitaliseringsstyrelsen ved brud på persondatasikkerheden. Pligten kan omfatte underretning af andre end Digitaliseringsstyrelsen under særlige omstændigheder."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Regler fastsat i medfør af stk. 1 kan endvidere af hensyn til persondatabeskyttelse bl.a. omfatte krav om følgende: A-nummer-visning, automatisk viderestilling og forbrugsopgørelser. Opbevaring og behandling af trafikdata og lokaliseringsdata i forbindelse med elektronisk kommunikation."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsministeren fastsætter nærmere regler om tilsyn med overholdelsen af regler, der fastsættes i medfør af stk. 1, herunder om kontrol med persondatasikkerheden."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 8 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "(Ophævet)"
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren fastsætter med henblik på beskyttelse af slutbrugere regler med krav til fysiske og juridiske personers lagring af oplysninger på slutbrugeres terminaludstyr og adgang til oplysninger, som er lagret på slutbrugeres terminaludstyr."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester til slutbrugere skal uden udgift for staten sikre, at det tekniske udstyr og de tekniske systemer, som udbyderen anvender, er indrettet således, at politiet kan få adgang til oplysninger om teletrafik og til at foretage indgreb i meddelelseshemmeligheden i form af historisk teleoplysning og historisk udvidet teleoplysning, fremadrettet teleoplysning og fremadrettet udvidet teleoplysning, aflytning og teleobservation, jf. retsplejelovens kapitel 71 og 74, herunder, for så vidt angår fremadrettet teleoplysning og udvidet teleoplysning, at politiet kan få adgang, umiddelbart efter at disse oplysninger registreres, at det tekniske udstyr og de tekniske systemer, som udbyderen anvender, er indrettet således, at det efter anmodning fra politiet er muligt at foretage aflytning og øjeblikkelig overførsel af telekommunikation til en anden kontraherende stat efter artikel 18, stk. 5, litra a, sammenholdt med stk. 2, litra a og c, i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater, at de gatewaystationer, udbyderen anvender, er indrettet således, at udbydere af elektroniske kommunikationstjenester i andre kontraherende stater, der benytter gatewaystationerne, har direkte adgang til disse, så det gennem sådanne udbydere er muligt at foretage direkte aflytning af telekommunikation på gatewaystationerne vedrørende personer, der befinder sig i den pågældende kontraherende stat, jf. artikel 19 i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater, og at udbyderen har direkte adgang til gatewaystationer, der befinder sig i andre kontraherende stater, og som udbyderen benytter, således at politiet gennem udbyderen har mulighed for at foretage direkte aflytning af telekommunikation på gatewaystationen vedrørende personer, der befinder sig her i landet, jf. retsplejelovens kapitel 71 og konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan efter forhandling med justitsministeren fastsætte nærmere regler om de tekniske krav til udstyr, systemer og gatewaystationer som nævnt i stk. 1."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Det påhviler udbyderen at bistå politiet ved gennemførelse af indgreb i meddelelseshemmeligheden i de i stk. 1, nr. 2, nævnte tilfælde."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Det påhviler udbyderen at sikre, at politiets anmodninger om fremskaffelse af oplysninger om teletrafik samt historisk teleoplysning og historisk udvidet teleoplysning behandles straks og på en sådan måde, at hensigten med indgrebet ikke forspildes."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Digitaliseringsministeren kan efter forhandling med justitsministeren fastsætte regler, hvorefter de i stk. 1, nr. 1 og 2, nævnte krav til indretning af udstyr og systemer kan fraviges i særlige tilfælde, hvor tekniske eller praktiske hensyn nødvendiggør dette."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 11.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester skal til en fælles database, jf. § 29, indberette og opdatere oplysninger om telefonnummer og aktuel udbyder. Oplysninger skal indberettes umiddelbart efter en slutbrugers skift af udbyder, jf. § 26 om nummerportabilitet. Forpligtelsen påhviler den udbyder, der overtager kontraktforholdet til slutbrugeren, og omfatter også tilfælde, hvor slutbrugeren overføres uden anvendelse af procedurerne for nummerportabilitet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 12.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester skal registrere deres virksomhed hos politiets centrale datasektion."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan efter forhandling med justitsministeren fastsætte regler om, at det i stk. 1 nævnte krav kan fraviges for mindre udbydere, eller hvor særlige praktiske hensyn nødvendiggør dette."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 13.",
+          "sections": [
+            {
+              "section": "",
+              "text": "(Ophævet)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 3 a",
+      "title": "(Ophævet)",
+      "paragraphs": []
+    },
+    {
+      "chapter": "Kapitel 4",
+      "title": "Forsyningspligt",
+      "paragraphs": [
+        {
+          "paragraph": "§ 14.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Forsyningspligten har til formål at sikre adgang til grundlæggende elektroniske kommunikationstjenester på rimelige vilkår og til overkommelige priser."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om adgang til følgende forsyningspligtydelser: En talekommunikationstjeneste på et fast sted. En tilstrækkelig bredbåndsinternetadgangstjeneste. Særlige forsyningspligtydelser til nærmere afgrænsede grupper af personer med handicap. En udtømmende nummerfortegnelse, der indeholder samtlige numre i den samlede danske nummerplan, som er tildelt slutbrugere."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsministeren kan ved dokumenteret behov fastsætte regler om, at der fortsat skal være forsyningspligt på ydelser, der var underlagt forsyningspligt den 20. december 2018."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om, at forsyningspligten skal omfatte andre ydelser end dem, der er nævnt i stk. 2."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om, at en eller flere alment tilgængelige forsyningspligtydelser eller dele af disse, som er fastsat i medfør af stk. 2-4, ikke længere skal udbydes som led i forsyningspligten eller ikke eller kun i begrænset omfang skal udbydes til nye kunder som led i forsyningspligten."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om omfanget af forsyningspligtydelser, jf. stk. 2-4, herunder de faciliteter og funktioner, der skal stilles til rådighed, omfanget af leveringspligten, jf. § 16, og om, hvorvidt forsyningspligten skal gælde for forbrugere, mikrovirksomheder, små og mellemstore virksomheder og nonprofitorganisationer eller alle slutbrugere."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 15.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren fastsætter regler om: De udpegede forsyningspligtudbyderes forpligtelser med henblik på at tilgodese hensynet til sikring af grundlæggende slutbrugerrettigheder i forbindelse med udbud og levering af forsyningspligtydelser. Reglerne kan indeholde krav til indholdet af den kontrakt, der skal gælde i forholdet mellem en forsyningspligtudbyder og en slutbruger, herunder krav om kompensations- og tilbagebetalingsordninger, som finder anvendelse, hvis kvalitetskrav, som Digitaliseringsstyrelsen har fastsat i medfør af § 4, stk. 4, eller § 15, stk. 3, ikke overholdes, og krav til eventuelle kontraktvilkår om sikkerhedsstillelse. Udpegning af forsyningspligtudbydere. Reglerne kan bl.a. omfatte, hvordan udpegningen finder sted, udpegning ved offentligt udbud og udpegningens varighed. Rammer for fastsættelse af vilkår for de efter stk. 2 udpegede udbyderes varetagelse af forsyningspligten. Reglerne kan bl.a. omfatte krav til indholdet af vilkårene, herunder kvalitetskrav til de ydelser, som de udpegede forsyningspligtudbydere skal levere, og krav vedrørende kvalitetsmålinger og offentliggørelse heraf."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "På grundlag af regler fastsat i medfør af stk. 1, nr. 2, udpeger Digitaliseringsstyrelsen en eller flere virksomheder som forsyningspligtudbydere, der forpligtes til at udbyde forsyningspligtydelser som nævnt i § 14, stk. 2 eller 3, eller som fastsat i medfør af § 14, stk. 4."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "På grundlag af regler fastsat i medfør af stk. 1, nr. 3, fastsætter Digitaliseringsstyrelsen nærmere vilkår for de i medfør af stk. 2 udpegede udbyderes varetagelse af forsyningspligten."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 16.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere, der er udpeget som forsyningspligtudbydere i henhold til § 15, stk. 2, skal levere eller udbyde de ydelser, der er omfattet af forsyningspligten, til enhver, der anmoder herom, medmindre den pågældende, der anmoder herom, gentagende og groft har misbrugt forsyningspligtydelsen og der er betydelig risiko for et fremtidigt misbrug af den pågældende forsyningspligtydelse."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En afgørelse, som er truffet af forsyningspligtudbyderen om ikke at levere forsyningspligtydelser, kan påklages til Digitaliseringsstyrelsen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 17.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte nærmere regler om: Kravene til og beregning af maksimalpriser for forsyningspligtydelser som nævnt i eller fastsat i medfør af § 14, herunder rammerne for Digitaliseringsstyrelsens fastsættelse heraf og for forsyningspligtudbyderes udarbejdelse af forslag hertil. At forsyningspligtudbydere i det område, forsyningspligtudbyderen er forpligtet til at levere i, skal opkræve samme listepriser for en eller flere forsyningspligtydelser."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan bestemme, at Digitaliseringsstyrelsen skal fastsætte maksimalpriser for en eller flere af de forsyningspligtydelser, som er anført i § 14, stk. 2 eller 3, eller fastsat i medfør af § 14, stk. 4. Digitaliseringsstyrelsen fastsætter maksimalpriser efter forslag fra forsyningspligtudbyderne og efter regler fastsat i medfør af stk. 1."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Der kan ikke fastsættes maksimalpriser, der indebærer, at forsyningspligtudbyderens omkostninger ved tilvejebringelse af forsyningspligtydelserne ikke samlet set dækkes."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Vurderer digitaliseringsministeren, at detailpriserne for de tjenester, som er oplistet i § 14, stk. 2, nr. 1 og 2, ikke er overkommelige for forbrugere med en lav indkomst eller ikke er økonomisk tilgængelige for forbrugere med særlige sociale behov, kan digitaliseringsministeren fastsætte regler, som sikrer, at sådanne forbrugere kan betale for en tilstrækkelig bredbåndsinternetadgangstjeneste og talekommunikationstjenester som minimum på et fast sted."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 18.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Forsyningspligtudbydere, der i henhold til § 15, stk. 2, er udpeget til at varetage forsyningspligtydelser omfattet af § 14, stk. 2 eller 3, eller fastsat i medfør af § 14, stk. 4, har ret til at få dækket dokumenterede nettoomkostninger ved udbud af forsyningspligtydelser. Nettoomkostninger for forsyningspligtydelser omfattet af Europa-Parlamentets og Rådets direktiv (EU) 2018/1972 af 11. december 2018 om oprettelse af en europæisk kodeks for elektronisk kommunikation med senere ændringer dækkes, i det omfang Digitaliseringsstyrelsen vurderer, at varetagelsen af forsyningspligten udgør en urimelig byrde for den udpegede forsyningspligtudbyder. Nettoomkostningerne opgøres samlet for forsyningspligtydelser omfattet af Europa-Parlamentets og Rådets direktiv (EU) 2018/1972 af 11. december 2018 om oprettelse af en europæisk kodeks for elektronisk kommunikation med senere ændringer og hver for sig for øvrige forsyningspligtydelser. Nettoomkostningerne beregnes som forsyningspligtudbyderens underskud ved tilvejebringelse og levering af de forsyningspligtydelser, som den enkelte forsyningspligtudbyder i medfør af en udpegning i henhold til § 15, stk. 2, er forpligtet til at udbyde, med fradrag af værdien af forsyningspligtudbyderens eventuelle immaterielle fordele ved at varetage forsyningspligten. Nettoomkostninger dækkes ikke, hvis forsyningspligtudbyderens priser er unormalt lave i forhold til ydelsen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan fastsætte nærmere regler om den i stk. 1 nævnte dækning, herunder om beregning af den i stk. 1 anførte dækning, krav til forsyningspligtudbyderes opstilling af regnskaber og dokumentation for de i stk. 1 anførte nettoomkostninger, tidsfrister for beregning og betaling af bidrag til dækning af omkostningerne, jf. stk. 4, opkrævning af bidrag, jf. stk. 4, og de forpligtede udbyderes oplysningspligt i forbindelse hermed, afgrænsning af kredsen af udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, som i henhold til stk. 4 forpligtes til at medvirke til dækning af eventuelle nettoomkostninger, anmeldelsesordninger med henblik på forudgående registrering af de udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, som i henhold til stk. 4 vil være forpligtede til at medvirke til dækning af eventuelle nettoomkostninger, og mulighederne for at tilbagekalde udpegningen af en eksisterende forsyningspligtudbyder i forbindelse med afholdelse af offentligt udbud som nævnt i stk. 7."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsstyrelsen træffer på baggrund af regler fastsat efter stk. 2 afgørelse om fastsættelse og dækning af nettoomkostninger, herunder om, hvorvidt forsyningspligtudbyderen har fremlagt tilstrækkelig dokumentation til at berettige dækning af nettoomkostninger som nævnt i stk. 1, forsyningspligten efter Digitaliseringsstyrelsens vurdering udgør en urimelig byrde, jf. stk. 1, 2. pkt., for den udpegede forsyningspligtudbyder og forsyningspligtudbyderens priser efter Digitaliseringsstyrelsens vurdering er unormalt lave i forhold til ydelsen."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Hvis nettoomkostningerne, jf. stk. 1, er fremkommet ved udbud af forsyningspligtydelser som nævnt i § 14, stk. 2 eller 3, eller som fastsat i medfør af § 14, stk. 4, i det omfang disse forpligtelser er omfattet af direktiv 2018/1972/EU, udløser Digitaliseringsstyrelsens afgørelse efter stk. 3 en forpligtelse for udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, som udbyder ydelser svarende til de i § 14, stk. 2, nr. 1 og 2, eller stk. 3, nævnte eller i medfør af § 14, stk. 4, fastsatte forsyningspligtydelser, til at medfinansiere forsyningspligtudbyderens nettoomkostninger. Digitaliseringsstyrelsen fastsætter og opkræver til dækning heraf bidrag fra de pågældende udbydere."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Den i stk. 4 nævnte forpligtelse påhviler også forsyningspligtudbyderen, i det omfang denne ud over forsyningspligtydelserne på samme måde som andre udbydere af offentlige elektroniske kommunikationsnet eller -tjenester udbyder elektroniske kommunikationstjenester svarende til de i § 14, stk. 2, nr. 1 og 2, eller stk. 3, nævnte eller de i medfør af § 14, stk. 4, fastsatte."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Bidrag som nævnt i stk. 4 og 5 fastsættes i finansloven og bekendtgøres af Digitaliseringsstyrelsen."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Senest samtidig med at Digitaliseringsstyrelsen træffer afgørelse i henhold til stk. 3, kan Digitaliseringsstyrelsen iværksætte et offentligt udbud med henblik på eventuel udpegning af en eller flere alternative forsyningspligtudbydere efter regler fastsat i henhold til § 15, stk. 1, nr. 2, og med samme vilkår som fastsat i medfør af § 15, stk. 3, medmindre forholdet vedrørende finansiering af nettoomkostninger er indgået som en del af udpegningen af den pågældende forsyningspligtudbyder."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Hvis nettoomkostninger i henhold til stk. 1 er fremkommet ved udbud af forsyningspligtydelser omfattet af § 14, stk. 2 eller 3, eller fastsat i medfør af § 14, stk. 4, udløser Digitaliseringsstyrelsens afgørelse efter stk. 3 en forpligtelse for staten til at dække forsyningspligtudbyderens nettoomkostninger, i det omfang ydelserne ikke er indeholdt i forpligtelserne i direktiv 2018/1972/EU."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 19.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En forsyningspligtudbyder, der vil overdrage sine adgangsnetaktiver eller en væsentlig del af det til en særskilt juridisk enhed med et andet ejerskab, underretter i forvejen og uden ugrundet ophold Digitaliseringsstyrelsen herom, sådan at denne kan bedømme, hvordan den påtænkte overdragelse vil påvirke udbuddet af forsyningspligtydelserne i § 14, stk. 2, nr. 1 og 2. Ved adgangsnetaktiver forstås den yderste del af telenettet, som kan forbinde slutbrugeren med resten af telenettet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 5",
+      "title": "Tilsyn",
+      "paragraphs": [
+        {
+          "paragraph": "§ 20.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af reglerne i §§ 3-6, § 10, stk. 1 og 2, og §§ 11 og 14-19 og regler og vilkår udstedt i medfør heraf."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af reglerne i §§ 7-9 og regler udstedt i medfør heraf."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 6",
+      "title": "Administration og anvendelse af den samlede danske nummerplan",
+      "paragraphs": [
+        {
+          "paragraph": "§ 21.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen udarbejder, bekendtgør og administrerer en samlet dansk nummerplan, der indeholder en fordeling af de samlede nummerressourcer, omfattende numre, nummerserier, koder og adresser, som anvendes i forbindelse med udbud af elektroniske kommunikationsnet eller -tjenester. Digitaliseringsstyrelsen fastsætter nærmere regler for administrationen af den samlede danske nummerplan, herunder bl.a. regler for: Sammenhængen mellem den samlede danske nummerplan og fælles internationale nummer- og adresseplaner. Intern nummerering og adressering i elektroniske kommunikationsnet. Disponering, tildeling, ændring, inddragelse og tilbagekaldelse af numre, nummerserier, koder og adresser. Anvendelse, ibrugtagning og øvrige vilkår for tildeling af numre, nummerserier, koder og adresser."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "I nummerplanen, jf. stk. 1, afsættes bl.a. nummerressourcer til følgende formål: Kortnumre. Udbud af elektroniske kommunikationsnet eller -tjenester med særlige takseringsforhold. Reservering med henblik på senere anvendelse, herunder reservering med henblik på omlægning af nummerplanen. Udbud af gratisnumre, hvor opkald sker uden opkalds- eller tidsbaseret taksering af slutbrugeren. Udbud af numre, hvor udbyderen af elektroniske kommunikationsnet eller -tjenester som en integreret del af takseringen for opkaldet tillige varetager registrering af forbruget af en bagvedliggende informations- eller indholdstjeneste samt fakturering og opkrævning for denne hos slutbrugeren. Udbud af numre, som kan bruges til andre elektroniske kommunikationstjenester end interpersonelle kommunikationstjenester uden for Danmark."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester må ikke anvende opkalds- eller tidsbaseret taksering over for den kaldende slutbruger i forbindelse med slutbrugeres opkald til numre som nævnt i stk. 2, nr. 4."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 22.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Kortnumre, jf. § 21, stk. 2, nr. 1, kan afsættes til følgende formål: Den offentlige alarmtjeneste. En fælles telefonlinje til offentlige myndigheder. Udbud af nummeroplysningstjenester, der indgår i forsyningspligten, jf. § 14, stk. 2, nr. 4, og udbud af særlige tjenester af en samfundsmæssig betydning. Udbud af andre nummeroplysningstjenester end den i nr. 3 nævnte. Sikring af slutbrugernes adgang til at anvende eller komme i forbindelse med en anden udbyder af elektroniske kommunikationsnet eller -tjenester end den udbyder, som slutbrugeren i øvrigt har sit kundeforhold hos, med henblik på brug af en eller flere af denne udbyders elektroniske kommunikationstjenester eller andre elektroniske kommunikationstjenester hos samme udbyder, som slutbrugeren i øvrigt har sit kundeforhold hos. Udbud af fælles kortnumre til brug for særlige forbrugermæssige eller samfundsrelaterede formål, der knytter sig til udbud af elektroniske kommunikationsnet og -tjenester."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester må ikke som en integreret del af takseringen for opkald til abonnentnumre foretage opkrævning hos den kaldende slutbruger af ikketrafikrelaterede betalinger på vegne af tredjemand, herunder på vegne af den kaldte slutbruger, i forbindelse med opkald til andre numre end de i stk. 1, nr. 2-4 og 6, og § 21, stk. 2, nr. 5, anførte."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 23.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen kan fastsætte regler for brugen af numre, nummerserier, koder og adresser fra den samlede danske nummerplan, når disse sammenkædes med domænenavne."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 24.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen tildeler efter anmodning inden for rammerne af de i medfør af § 21 fastsatte regler numre, nummerserier, koder og adresser til enhver, der erhvervsmæssigt udbyder elektroniske kommunikationsnet eller -tjenester eller forsyningspligtydelser."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "(Ophævet)"
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 25.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen opkræver nummerafgifter hos de udbydere, som Digitaliseringsstyrelsen i medfør af § 24 har tildelt eller tildeler numre, nummerserier, koder eller adresser."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Afgifter som anført i stk. 1 fastsættes årligt på finansloven og offentliggøres af Digitaliseringsstyrelsen."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Pligten til betaling af de i stk. 1 nævnte nummerafgifter påhviler til enhver tid den udbyder, der af Digitaliseringsstyrelsen er tildelt de pågældende numre, nummerserier, koder eller adresser, uanset om brugen af de pågældende numre, nummerserier, koder eller adresser enkeltvis eller i blokke er overladt til slutbrugere eller til andre udbydere af elektroniske kommunikationsnet eller -tjenester. Pligten til betaling af de i stk. 1 nævnte nummerafgifter påhviler endvidere den offentlige myndighed eller virksomhed, der af Digitaliseringsstyrelsen er tildelt koder til brug for m2m-kommunikation via et elektronisk kommunikationsnet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 7",
+      "title": "Nummerportabilitet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 26.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester skal sikre, at slutbrugere hos disse kan medtage abonnentnumre ved skift mellem udbydere inden for henholdsvis fastnet og mobilnet (nummerportabilitet)."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester skal imødekomme alle anmodninger fra andre udbydere af elektroniske kommunikationsnet eller -tjenester om indgåelse af aftaler om afgivelse af abonnentnumre med sigte på at muliggøre nummerportabilitet, som en slutbruger har anmodet om."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester skal sikre, at en slutbruger, der opsiger en abonnentaftale, kan bevare retten til nummerportering af et nummer fra den nationale nummerplan til en anden udbyder i mindst 1 måned efter datoen for opsigelsen, medmindre slutbrugeren har givet afkald på denne ret."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 26 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler om, at udbydere af elektroniske kommunikationsnet eller -tjenester, som udbyder machine to machine-kommunikationstjenester, skal understøtte, at slutbrugere trådløst kan foretage skifte mellem udbydere."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 27.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Slutbrugere skal have mulighed for portering af abonnentnumre, senest ved udgangen af den næstfølgende arbejdsdag efter at anmodningen er kommet frem til den afgivende udbyder. Portering af abonnentnumre må dog tidligst ske, når slutbrugerens abonnement hos den udbyder, som skal modtage abonnentnumre, er trådt i kraft."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En slutbruger, der har anmodet om portering af abonnentnumre, skal ikke afvente udløbet af en eventuel bindingsperiode eller et opsigelsesvarsel, før porteringen effektueres."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "I tilfælde af fejl i nummerporteringsprocessen genaktiverer den afgivende udbyder af elektroniske kommunikationsnet eller -tjenester slutbrugerens nummer og de forbundne tjenester, indtil nummerporteringen er gennemført. Den afgivende udbyder fortsætter med at stille tjenesten til rådighed på samme vilkår og betingelser, indtil den modtagende udbyders tjeneste er blevet aktiveret. Den tid, som tjenesten er utilgængelig under skifte- og nummerporteringsprocessen, må ikke udgøre mere end én arbejdsdag."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester skal yde slutbrugere rimelig kompensation i tilfælde af forsinket portering og i tilfælde af misbrug af portering foretaget af udbyderen eller på dennes vegne."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 28.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester, som slutbrugeren har sit kundeforhold hos, kan ikke i forbindelse med slutbrugerens anmodning om nummerportering, jf. § 26, stk. 1, afkræve slutbrugeren særskilt betaling for porteringen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester må ikke over for den slutbruger, der foretager opkald til numre, som andre slutbrugere har medtaget som led i nummerportering, jf. § 26, stk. 1, anvende priser for opkaldet, der overstiger den pågældende udbyders slutbrugerpriser for tilsvarende opkald til numre, der ikke er porterede."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester, der afgiver numre som led i nummerportering, kan af andre udbydere maksimalt kræve en betaling herfor, der dækker de omkostninger, som udbyderen direkte har afholdt i forbindelse med afgivelsen af numre, og den løbende betaling af nummerafgiften."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsstyrelsen kan fastsætte nærmere regler om, at omkostningerne ved at opgradere infrastruktur m.v. med henblik på at gennemføre nummerportering skal afholdes af den enkelte udbyder af elektroniske kommunikationsnet eller -tjenester."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 28 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester, som modtager numre som led i nummerportering, jf. § 26, stk. 1, forestår skifte- og nummerporteringsprocessen. Udbydere må ikke forsinke skifte- og nummerporteringsprocessen, og udbydere må ikke portere numre eller skifte udbyder uden slutbrugernes udtrykkelige samtykke. Slutbrugerens abonnentaftaler med den afgivende udbyder ophører automatisk efter afslutningen af skiftet af udbyder."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 29.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester skal sikre, at andre udbydere har adgang til via en database at få oplyst, hvilken udbyder et abonnentnummer er afgivet til, med sigte på korrekt dirigering af opkald til porterede abonnentnumre."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen kan fastsætte nærmere regler om, at udbydere som nævnt i stk. 1 skal overlade administrationen af oplysninger om porterede abonnentnumre til en fælles database etableret og drevet af en eller flere udbydere af elektroniske kommunikationsnet eller -tjenester eller af tredjemand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 8",
+      "title": "Mulighed for at kalde numre samt aftaler om dirigering af opkald",
+      "paragraphs": [
+        {
+          "paragraph": "§ 30.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester skal sikre korrekt dirigering af opkald til abonnentnumre, der er omfattet af den samlede danske nummerplan, herunder opkald til abonnentnumre, der er omfattet af reglerne i kapitel 7 om nummerportabilitet, samt opkald til det europæiske telefonnummerområde."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Forpligtelsen i stk. 1 omfatter ikke opkald til numre med særlig taksering, hvis modtageren af opkaldet har valgt at begrænse adgangen for opkald hertil."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsstyrelsen kan fastsætte nærmere regler for, hvordan og på hvilke vilkår portering af numre og dirigering af opkald mellem udbydere af elektroniske kommunikationsnet eller -tjenester, jf. stk. 1, skal afvikles, herunder regler for, hvordan portering og dirigering skal ske, når et nummer medtages af slutbrugeren ved flere efterfølgende skift mellem udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, samt eventuelle supplerende krav til indholdet af aftaler om samtrafik med sigte herpå."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsstyrelsen kan fastsætte nærmere regler om den betaling og de vilkår, som udbydere af elektroniske kommunikationsnet eller -tjenester eller tredjemand kan pålægge andre udbydere af elektroniske kommunikationsnet eller -tjenester i forbindelse med disses opslag i databaser som nævnt i § 29, stk. 1, med henblik på at sikre korrekt dirigering af opkald til numre, jf. stk. 1-3, der er omfattet af reglerne i kapitel 7 om nummerportabilitet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 9",
+      "title": "Rammer for udnyttelse af nummeroplysningsdata",
+      "paragraphs": [
+        {
+          "paragraph": "§ 31.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester, der videretildeler abonnentnumre til slutbrugere, skal afgive nummeroplysningsdata til alle, der ønsker det. Betaling for afgivelse af nummeroplysningsdata må ikke overstige marginalomkostningerne ved afgivelsen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved nummeroplysningsdata forstås oplysninger om abonnentnumre, der er tildelt slutbrugere, indeholdende navn, adresse, eventuelle oplysninger om stilling, abonnentnummeret og den kategori af tjeneste, abonnentnummeret anvendes til."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsstyrelsen fastsætter nærmere regler om minimumskrav til indsamling og videregivelse af nummeroplysningsdata, afgrænsning af kredsen af berettigede til at modtage data, de pågældende datas fremtrædelsesform, opdatering af oplysninger m.v. og omfanget af de forpligtelser, der kan pålægges udbydere af nummeroplysningsdatabaser og -registre over for slutbrugere."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "En slutbruger kan kræve, at den pågældendes nummeroplysningsdata ikke oplyses i forbindelse med udbud af nummeroplysningstjenester. Krav herom indebærer ligeledes, at slutbrugerens nummeroplysningsdata ikke må videregives til andre, jf. dog stk. 5."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Uanset stk. 4 kan nummeroplysningsdata altid videregives til andre udbydere af elektroniske kommunikationsnet eller -tjenester i signaleringsøjemed og skal nummeroplysningsdata altid videregives til forsyningspligtudbyderens udtømmende nummerfortegnelse, jf. § 14, stk. 2, nr. 4."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Oplysninger som nævnt i stk. 5, nr. 2, kan alene videregives af forsyningspligtudbyderens udtømmende nummerfortegnelse til brug for offentlige alarmtjenester, politiet, statsadvokaterne, Styrelsen for Patientsikkerhed, de enkelte retter, kriminalforsorgen eller restanceinddrivelsesmyndigheden."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "En slutbruger kan hos udbydere af almene, offentligt tilgængelige nummeroplysningsdatabaser og -registre kræve at blive optaget i alle disse nummeroplysningsdatabaser og -registre, når slutbrugerens nummeroplysninger er relevante for formålet med nummeroplysningsdatabasen eller -registeret. Udbydere af nummeroplysningsdatabaser og -registre skal efter anmodning fra en slutbruger give slutbrugeren adgang til at kontrollere oplysninger om slutbrugerens egne nummeroplysningsdata hos den pågældende udbyder af nummeroplysningsdatabasen og -registeret."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Udbydere som nævnt i stk. 7 skal uden omkostning for slutbrugeren give denne oplysninger om formål med databasen eller registeret og om andre anvendelsesmuligheder heraf på grundlag af søgefunktioner, som er indbygget i elektroniske udgaver, inden slutbrugeren medtages i databasen eller registeret, eller inden ændring af formål eller de nævnte anvendelsesmuligheder iværksættes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 10",
+      "title": "Tilsyn med overholdelse af reglerne om nummerforhold",
+      "paragraphs": [
+        {
+          "paragraph": "§ 32.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af reglerne i dette afsnit og regler udstedt i medfør heraf, jf. dog stk. 2 og 3."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Det påhviler udbydere, der i medfør af bestemmelsen i § 24,  er tildelt numre, nummerserier, koder eller adresser i den samlede danske nummerplan, at sikre overholdelsen af regler fastsat i henhold til § 21 og vilkår fastsat med hjemmel heri, uanset om brugen af de pågældende numre, nummerserier, koder eller adresser enkeltvis eller i blokke er overladt til slutbrugere eller til andre udbydere af elektroniske kommunikationsnet eller -tjenester."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsstyrelsen fører ikke tilsyn med størrelsen af kompensationer ydet efter § 27, stk. 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 11",
+      "title": "Fælles bestemmelser om netadgang og samtrafik",
+      "paragraphs": [
+        {
+          "paragraph": "§ 33.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af offentlige elektroniske kommunikationsnet eller -tjenester har pligt til indbyrdes at forhandle sig frem til aftaler om samtrafik med henblik på at udbyde offentligt tilgængelige elektroniske kommunikationstjenester, sådan at det sikres, at disse tjenester kan udbydes i hele EU og EØS, og at der er interoperabilitet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen kan pålægge forpligtelser, i det omfang det er nødvendigt for at sikre forbindelse mellem slutbrugere i de enkelte net eller for at skabe interoperabilitet over for udbydere af elektroniske kommunikationsnet eller -tjenester, der kontrollerer adgangen til en eller flere slutbrugere, herunder forpligtelse til at sammenkoble deres net."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen kan fastsætte regler om, at udbydere af nummeruafhængige interpersonelle kommunikationstjenester med et betydeligt dækningsniveau og en betydelig brugerudbredelse kan pålægges forpligtelser, der er nødvendige for at sikre forbindelser mellem slutbrugere."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 34.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Aftaler om netadgang og samtrafik indgås på kommercielle vilkår."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Uanset stk. 1 skal udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, der er pålagt forpligtelser i henhold til § 33, stk. 2, § 35 a eller § 41 eller bindende tilsagn efter § 47 a, § 47 c, § 47 d eller regler udstedt i medfør af § 49, tilbyde andre udbydere af offentlige elektroniske kommunikationsnet eller -tjenester aftaler om netadgang og samtrafik på vilkår og betingelser, som er i overensstemmelse med de forpligtelser, som udbyderen er pålagt."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 35.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationsnet eller -tjenester, der får oplysninger fra en anden udbyder af elektroniske kommunikationsnet eller -tjenester før, under eller efter forhandlinger om aftaler om netadgang eller samtrafik, må udelukkende anvende disse oplysninger til det formål, hvortil de er givet, og skal til enhver tid behandle de oplysninger, der er modtaget, fortroligt. De modtagne oplysninger må ikke videregives til andre, som herved kan opnå en konkurrencemæssig fordel, herunder ikke til andre afdelinger, datterselskaber eller partnere."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 11 a",
+      "title": "Netadgang til ledningsnet i den yderste del af elektroniske kommunikationsnet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 35 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Under forudsætning af at betingelserne i stk. 2 er opfyldt, kan Erhvervsstyrelsen på baggrund af en rimelig og velbegrundet anmodning fra en udbyder af elektroniske kommunikationsnet eller -tjenester pålægge enhver udbyder eller ejer af elektroniske kommunikationsnet en forpligtelse til at give netadgang til ledningsnet, kabler og tilhørende faciliteter inde i bygninger eller frem til det første koncentrations- eller fordelingspunkt, der befinder sig uden for en bygning."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen kan pålægge netadgang efter stk. 1, når det er berettiget, fordi en parallel etablering af sådanne netelementer ikke vil være økonomisk rentabel eller gennemførlig i praksis."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Under forudsætning af at betingelserne i stk. 4 er opfyldt, kan Erhvervsstyrelsen udvide forpligtelsen efter stk. 1 til et punkt i nettet, der ligger efter det første koncentrations- eller fordelingspunkt. Erhvervsstyrelsen skal fastlægge det punkt, der ligger tættest på slutbrugerne, og som kan understøtte et tilstrækkeligt antal slutbrugerforbindelser til at være kommercielt rentabelt for effektive adgangssøgende udbydere af elektroniske kommunikationsnet eller -tjenester."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Konkluderer Erhvervsstyrelsen under hensyntagen til forpligtelser, der følger af relevante markedsundersøgelser, jf. § 37, at forpligtelser i henhold til stk. 1 ikke i tilstrækkelig grad imødegår eller vil imødegå store og varige økonomiske eller fysiske hindringer for etablering af parallelle net, der opretholder eller vil medføre en konkurrencesituation, der i betydeligt omfang begrænser de konkurrencemæssige resultater for slutbrugerne, kan Erhvervsstyrelsen pålægge forpligtelser efter stk. 3."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "En forpligtelse efter stk. 1 eller 3 kan omfatte forpligtelser om netadgang til fysiske netelementer og tilhørende faciliteter og tilknyttede tjenester, transparens, ikkediskrimination og krav til fordelingen af adgangsomkostninger, som om nødvendigt tilpasses for at tage højde for risikofaktorer."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "En forpligtelse efter stk. 3 kan ud over de i stk. 5 opregnede forpligtelser tillige omfatte netadgang til aktive eller virtuelle netelementer, hvis dette er berettiget af tekniske eller økonomiske grunde."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Erhvervsstyrelsen kan ikke pålægge forpligtelser efter stk. 3, når udbyderen eller ejeren af et elektronisk kommunikationsnet stiller en rentabel og lignende alternativ mulighed for at nå slutbrugere til rådighed for enhver udbyder af elektroniske kommunikationsnet eller -tjenester ved at give adgang til et net med meget høj kapacitet på fair, ikkediskriminerende og rimelige vilkår og betingelser eller pålæggelse af forpligtelser vil skade den økonomiske eller finansielle rentabilitet af udrulningen af et nyt net, navnlig ved små lokale projekter."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Erhvervsstyrelsen skal ved pålæggelse af forpligtelser efter stk. 1 eller 3, ved udformningen af forpligtelser efter stk. 5 og ved vurdering af muligheden for at undtage efter stk. 7, nr. 1, navnlig vurdere, om udbyderen eller ejeren af et elektronisk kommunikationsnet har de egenskaber, der fremgår af § 47 b, har modtaget offentlig finansiering til udrulning eller drift af det relevante net, har offentliggjort et standardtilbud for adgang til det relevante net, anvender standardiserede vilkår og betingelser og standardprocedurer, der er aftalt i et brancheforum eller anvendes som en de facto standard på markedet, tilbyder en langsigtet forpligtelse til at give netadgang, tilbyder adgang til alternative adgangsprodukter, herunder passiv eller aktiv netadgang eller netadgang til anlægsinfrastruktur, eller tilbyder fair og rimelige priser under behørig hensyntagen til investeringer og tilknyttede risici og eventuelle omkostningsforskelle, der opstår som følge af skala eller forretningsmodel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 12",
+      "title": "Teknisk regulering af netadgang",
+      "paragraphs": [
+        {
+          "paragraph": "§ 36.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsstyrelsen kan fastsætte nærmere regler om, at udbydere med en stærk markedsposition, som er pålagt en forpligtelse til at give netadgang, jf. § 42, og udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, som benytter en sådan netadgang, skal opfylde tekniske eller driftsmæssige betingelser, når det er nødvendigt for at sikre normal drift af nettet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 13",
+      "title": "Undersøgelser af konkurrencesituationen",
+      "paragraphs": [
+        {
+          "paragraph": "§ 37.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsstyrelsen gennemfører med regelmæssige mellemrum undersøgelser af konkurrencesituationen på telemarkedet (markedsundersøgelser) med henblik på at vurdere behovet for og eventuelt at pålægge forpligtelser efter § 41."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Markedsundersøgelser efter stk. 1 gennemføres inden for en af følgende perioder: Inden for 5 år efter afgørelse om en tidligere undersøgelse på det pågældende marked. Denne periode kan dog undtagelsesvis forlænges med op til yderligere 1 år efter godkendelse fra Europa-Kommissionen. Inden for 3 år efter Europa-Kommissionens vedtagelse af en revideret henstilling om relevante produkt- og tjenestemarkeder, når der er tale om markeder, der ikke tidligere er undersøgt."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen gennemfører opdateringer af allerede gennemførte markedsundersøgelser, når det efter Erhvervsstyrelsens vurdering er nødvendigt på baggrund af markedsmæssige forhold som f.eks. kommercielle aftaler, herunder aftaler om saminvestering, der påvirker dynamikken i konkurrencen, eller faktiske forhold."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Udbydere med en stærk markedsposition, der er pålagt forpligtelser, jf. § 41, skal underrette Erhvervsstyrelsen om beslutninger om organisatoriske eller strukturelle ændringer af væsentlig betydning for de pålagte forpligtelser."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "I tilfælde, hvor Erhvervsstyrelsen ikke inden for de frister, der er fastsat i gældende EU-regulering, kan gennemføre en markedsundersøgelse som nævnt i stk. 1, kan Erhvervsstyrelsen anmode Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation om bistand."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Markedsundersøgelserne skal foretages sammen med tilsynsmyndigheder i andre lande, når Europa-Kommissionen har udpeget et transnationalt marked."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 38.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Som led i markedsundersøgelserne, jf. § 37, afgrænser Erhvervsstyrelsen de markeder, som er omfattet af Europa-Kommissionens henstilling om relevante produkt- og tjenestemarkeder, tilpasset danske forhold."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen kan endvidere med Europa-Kommissionens samtykke afgrænse andre end de i stk. 1 nævnte produkt- og tjenestemarkeder, der skal gøres til genstand for en markedsundersøgelse."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 39.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Som led i markedsundersøgelserne, jf. § 37, gennemfører Erhvervsstyrelsen analyser af de markeder, der er afgrænset i henhold til § 38, med henblik på at vurdere, om der er reel konkurrence på disse markeder."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 40.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvis en markedsanalyse, jf. § 39, viser, at der ikke er reel konkurrence på et relevant marked, skal Erhvervsstyrelsen udpege en eller flere udbydere af offentlige elektroniske kommunikationsnet eller -tjenester med en stærk markedsposition (udbyder med en stærk markedsposition) på det pågældende marked."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En udbyder anses for at have en stærk markedsposition, jf. stk. 1, hvis udbyderen enten alene eller i fællesskab med andre udbydere indtager en økonomisk styrkeposition, der giver udbyderen magt til i betragtelig grad at kunne handle uafhængigt af konkurrenter og kunder."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Når en udbyder udpeges eller er udpeget som havende en stærk markedsposition på et bestemt marked, jf. stk. 1, kan Erhvervsstyrelsen samtidig udpege udbyderen til at have en stærk markedsposition på et beslægtet marked, hvis forbindelserne mellem de to markeder muliggør, at markedspositionen på det ene marked kan overføres til det andet marked og dermed yderligere styrke udbyderens markedsposition."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Hvis en markedsanalyse, jf. § 39, viser, at der er reel konkurrence på et relevant marked, eller hvis en udbyder ikke længere har en stærk markedsposition på markedet, skal Erhvervsstyrelsen ophæve alle forpligtelser, som i henhold til dette afsnit eller regler udstedt i medfør heraf er pålagt udbydere med henblik på at regulere deres position som udbydere med en stærk markedsposition på det pågældende marked."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 14",
+      "title": "Forpligtelser til brug for regulering af udbydere med en stærk markedsposition",
+      "paragraphs": [
+        {
+          "paragraph": "§ 41.",
+          "sections": [
+            {
+              "section": "",
+              "text": "I forbindelse med afgørelser, som Erhvervsstyrelsen træffer i henhold til § 40, stk. 1, skal Erhvervsstyrelsen pålægge udbydere med en stærk markedsposition, jf. § 40, en eller flere forpligtelser. Erhvervsstyrelsen fastsætter i den enkelte afgørelse omfang og indhold af forpligtelserne."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Forpligtelser som anført i stk. 1 kan omfatte: Adgang til anlægsinfrastruktur, jf. § 41 a. Netadgang, jf. § 42. Ikkediskrimination, jf. § 43. Transparens, jf. § 44. Regnskabsmæssig opsplitning, jf. § 45. Priskontrol, jf. § 46. Funktionel adskillelse, jf. § 47."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen kan i særlige tilfælde og efter indhentelse af samtykke fra Europa-Kommissionen pålægge udbydere med en stærk markedsposition andre forpligtelser end dem, der er nævnt i stk. 2."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Uanset stk. 3 kan Erhvervsstyrelsen ved regulering af udbydere med en stærk markedsposition i detailleddet pålægge andre forpligtelser, hvis Erhvervsstyrelsen vurderer, at de forpligtelser, der er nævnt i stk. 2, ikke er egnede til at løse det konkurrenceproblem, der er konstateret efter § 39."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Samtidig med afgørelse som anført i stk. 1, 3 eller 4 beslutter Erhvervsstyrelsen, hvordan underretningen af udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, der berøres heraf, skal ske. Disse udbydere skal underrettes herom i passende tid i forvejen."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Erhvervsstyrelsen kan alene pålægge forpligtelser i henhold til stk. 2, nr. 2, når konkurrencen og slutbrugernes interesser ikke kan fremmes enten ved at pålægge forpligtelser i henhold til stk. 2, nr. 1, eller gennem forpligtelser på beslægtede engrosmarkeder."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "En udbyder, der er pålagt en forpligtelse i henhold til § 41 a eller § 42, skal på forhånd og i god tid anmelde sine planer om at afvikle eller med ny infrastruktur erstatte dele af et net, der er omfattet af forpligtelsen, til Erhvervsstyrelsen."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Er det nødvendigt for at sikre konkurrencen og slutbrugernes rettigheder, skal Erhvervsstyrelsen pålægge udbyderen, jf. stk. 1, en forpligtelse til at udarbejde en detaljeret beskrivelse af planerne for overgangsperioder og vilkår, og hvilke sammenlignelige adgangsprodukter der tilbydes i stedet for."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 41 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved forpligtelse vedrørende adgang til anlægsinfrastruktur forstås en forpligtelse til at imødekomme rimelige anmodninger om adgang til og anvendelse af anlægsinfrastruktur, herunder, men ikke begrænset til, bygninger, adgangsveje til bygninger, kabler i bygninger, herunder ledningsnet, antenner, pæle, master, kabelkanaler, ledningskanaler, nedgangsbrønde, mandehuller, skabe og tårne og andre støttekonstruktioner."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 42.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved forpligtelse til netadgang forstås en forpligtelse til, at udbydere med en stærk markedsposition skal tilbyde faktisk eller virtuel netadgang til nærmere fastsatte dele af udbyderens netelementer, tjenester og associerede faciliteter. Udbyderen kan herunder pålægges at imødekomme rimelige anmodninger om indgåelse eller ændring af aftaler om netadgang. Forpligtelsen kan bl.a. omfatte: At give adgang til og mulighed for at anvende specifikke fysiske netelementer og tilhørende faciliteter i nødvendigt omfang, herunder ubundtet adgang til abonnentledninger og afsnit heraf. At give adgang til specifikke aktive eller virtuelle netelementer og tjenester. At forhandle med reelle hensigter med udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, der ansøger om adgang. At opretholde adgang til faciliteter, der tidligere er givet adgang til. At tilbyde bestemte tjenester på engrosbasis til tredjeparters videresalg. At tilbyde fri adgang til tekniske grænseflader, protokoller eller andre nøgleteknologier, der er afgørende for tjenesternes eller virtuelle nettjenesters interoperabilitet. At tilbyde samhusning, virtuel samhusning eller andre former for fælles brug af associerede faciliteter, herunder fælles brug af bygninger, adgangsveje til bygninger, kabler i bygninger, master, antenner, tårne og andre støttekonstruktioner, kabelkanaler, ledningskanaler, kabelbrønde og skabe. At tilbyde bestemte tjenester, der er nødvendige for at sikre interoperabilitet mellem net og forbindelse mellem slutbrugere, herunder faciliteter til intelligente nettjenester eller roaming på mobile net. At tilbyde adgang til driftsstøttesystemer eller lignende softwaresystemer, der er nødvendige for at skabe reelle konkurrenceforhold. At tilbyde fysisk eller logisk sammenkobling af kommunikationsnet eller netfaciliteter. At tilbyde adgang til tilknyttede tjenester såsom tjenester vedrørende identitet, geografisk placering og tilstedeværelse."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved fastsættelse af forpligtelser til netadgang skal Erhvervsstyrelsen navnlig tage hensyn til, om den igangværende markedsudvikling teknisk og økonomisk muliggør at bruge eller installere konkurrerende faciliteter under hensyntagen til karakteren og typen af de involverede netadgangs- og samtrafikordninger, den forventede teknologiske udvikling, som påvirker udformningen og forvaltningen af net, behovet for at sikre teknologineutralitet, som sætter parterne i stand til at udforme og forvalte deres egne net, om det er praktisk muligt at tilbyde den foreslåede netadgang i betragtning af den forhåndenværende kapacitet, hvor store startinvesteringer ejeren af faciliteten skal foretage set i forhold til de offentlige investeringer og de risici, der er forbundet hermed, især hvad angår investeringer i net med meget høj kapacitet og risikoniveauer forbundet hermed, behovet for at sikre den frie konkurrence på længere sigt, specielt i form af en økonomisk effektiv infrastrukturbaseret konkurrence og innovative forretningsmodeller, som støtter bæredygtig konkurrence, herunder infrastrukturbaseret konkurrence, der er baseret på saminvestering, eventuelle relevante intellektuelle rettigheder og udbuddet af paneuropæiske tjenester."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 43.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved forpligtelse til ikkediskrimination forstås en forpligtelse til, at udbydere med en stærk markedsposition skal sikre, at de under tilsvarende forhold tilbyder andre udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, der udbyder tilsvarende tjenester, tilsvarende vilkår og priser, og at de udbyder tjenester og formidler oplysninger til andre på samme vilkår, til samme priser og af samme kvalitet, som gælder for tjenester, der udbydes til udbyderen selv, dennes datterselskaber eller partnere."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Forpligtelsen i stk. 1 omfatter tillige situationer, hvor tjenester, som udbyderen med en stærk markedsposition udbyder til sig selv eller sine datterselskaber eller partnere, er sammensat af flere produkter, og situationer, hvor sammenlignelige tjenester udbydes i relation til eller indgår som delelementer i forskellige produkter."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen kan som led i en forpligtelse til ikkediskrimination, jf. stk. 1, pålægge udbydere med en stærk markedsposition at levere adgangsprodukter og -tjenester til alle virksomheder, herunder sig selv, inden for samme frister og på samme vilkår og betingelser, herunder vedrørende pris og serviceniveau, og ved hjælp af samme systemer og processer, som gælder for udbyderens egne afdelinger."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Erhvervsstyrelsen kan i relation til pålæggelse af en forpligtelse om ikkediskrimination efter stk. 1 stille krav til udbyderen med en stærk markedsposition om gennem en test at dokumentere, at andre udbydere af offentlige elektroniske kommunikationsnet eller -tjenester teknisk kan replikere nye eller væsentligt ændrede detailprodukter fra udbyderen med en stærk markedsposition på grundlag af netadgangsprodukter, der er fastsat i en markedsafgørelse, jf. § 41. Erhvervsstyrelsen kan i den forbindelse stille krav om, at dokumentationen skal foreligge i rimelig tid inden lancering af et nyt eller væsentligt ændret detailprodukt og til enhver tid efterfølgende."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Erhvervsstyrelsen kan, hvis udbyderen med en stærk markedsposition ikke overholder en forpligtelse om dokumentation fastsat efter stk. 4, påbyde denne udbyder at udskyde lanceringen af et detailprodukt, indtil forpligtelsen fastsat efter stk. 4 er opfyldt, hvis den manglende opfyldelse skønnes at være til væsentlig skade for konkurrencen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 44.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved forpligtelse til transparens forstås en forpligtelse til, at udbydere med en stærk markedsposition skal offentliggøre bestemte oplysninger."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Hvis en udbyder med en stærk markedsposition er pålagt en forpligtelse til ikkediskrimination, jf. § 43, kan udbyderen pålægges at offentliggøre et standardtilbud, der skal være tilstrækkelig ubundtet til at sikre, at andre udbydere af offentlige elektroniske kommunikationsnet eller -tjenester ikke skal betale for faciliteter, som ikke er nødvendige for den ønskede netadgang, og som indeholder en beskrivelse af de udbudte tjenester opgjort efter enkeltkomponenter og de hertil knyttede vilkår og betingelser, herunder priser."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "En udbyder med en stærk markedsposition, der er pålagt en forpligtelse som anført i § 41, stk. 2, nr. 1 eller 2, skal offentliggøre et standardtilbud herom, der bl.a. angiver relevante centrale resultatindikatorer og tilsvarende serviceniveauer. Et sådant standardtilbud skal tage nøje hensyn til retningslinjer fra BEREC om minimumskriterier for et standardtilbud."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Udbydere med en stærk markedsposition, der er pålagt forpligtelse til at offentliggøre standardtilbud som anført i stk. 2 og 3, skal senest samtidig med offentliggørelsen indsende standardtilbuddet til Erhvervsstyrelsen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 45.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved forpligtelse til regnskabsmæssig opsplitning forstås en forpligtelse til, at udbydere med en stærk markedsposition skal udarbejde regnskaber for bestemte aktiviteter i forbindelse med netadgang."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Under respekt af regler om tavshedspligt, herunder regler i forvaltningsloven, Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og databeskyttelsesloven, kan Erhvervsstyrelsen offentliggøre regnskabsoplysninger, herunder oplysninger om indtægter."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 46.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved forpligtelse til priskontrol forstås en forpligtelse til, at udbydere med en stærk markedsposition skal opfylde krav til prissætningen, som fastsættes i en markedsafgørelse i henhold til § 41, stk. 1."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Forpligtelse som nævnt i stk. 1 kan pålægges, hvis en markedsanalyse viser, at en udbyder med en stærk markedsposition som følge af utilstrækkelig konkurrence vil kunne opretholde sine priser på et unaturligt højt niveau eller opretholde en prisklemme til skade for slutbrugerne, når der ikke eksisterer en relevant begrænsning af detailprisen. Erhvervsstyrelsen skal i vurderingen tage hensyn til behovet for at fremme konkurrencen og slutbrugernes langsigtede interesser vedrørende udrulning og ibrugtagning af næstegenerationsnet og navnlig net med meget høj kapacitet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Ved opstilling af krav i henhold til stk. 1 skal der tages hensyn til den forpligtede udbyders investeringer og tillades en rimelig forrentning af den relevante investerede kapital under hensyn til de risici, der er forbundet hermed."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Ved pålæggelse af en forpligtelse vedrørende priskontrol skal det sikres, at alle mekanismer til omkostningsdækning eller metoder, der kan anvendes til at fastlægge priser, tjener til at fremme udrulning af nye og forbedrede net, effektivitet og holdbar konkurrence og maksimere bæredygtige fordele for slutbrugerne."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Hvis et elektronisk kommunikationsnet bliver anvendt samtidig til flere tjenester, der ved isoleret anvendelse hver især skal dække omkostningerne ved det elektroniske kommunikationsnet eller dele heraf, skal Erhvervsstyrelsen ved fastsættelsen af prisen for et netadgangsprodukt ved samtidig anvendelse foretage en forholdsmæssig fordeling af de omkostninger, der knytter sig til anvendelsen, mellem udbyderne af netadgangsprodukterne."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Hvis en udbyder med en stærk markedsposition er pålagt en forpligtelse til priskontrol, jf. stk. 1, kan udbyderen i tilknytning hertil pålægges en forpligtelse til at anvende et omkostningsregnskabssystem til støtte for priskontrollen. Der kan i tilknytning hertil stilles krav om, at udbyderen stiller en beskrivelse af omkostningsregnskabssystemet, der som minimum viser de hovedkategorier, som omkostningerne er samlet i, og de regler, som omkostningerne er fordelt efter, til rådighed for offentligheden."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Udbyderen med en stærk markedsposition skal lade en af udbyderen uafhængig tredjemand kontrollere, at omkostningsregnskaber udarbejdet i henhold til stk. 6 er udfærdiget i overensstemmelse med den pålagte forpligtelse, og afgive en overensstemmelseserklæring. Erhvervsstyrelsen offentliggør overensstemmelseserklæringen for det enkelte år."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Erhvervsstyrelsen fastsætter nærmere regler om, hvilke priskontrolmetoder der kan finde anvendelse, og om udarbejdelse, anvendelse og opdatering af priskontrolmetoder, herunder regler om, hvornår og i hvilket omfang branchen inddrages."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 46 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Træffer Europa-Kommissionen afgørelse om at pålægge en maksimal termineringstakst for taleopkald i mobilnet eller fastnet eller begge, kan Erhvervsstyrelsen ikke fastsætte andre priser i henhold til en forpligtelse vedrørende priskontrol, jf. § 46."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 47.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved forpligtelse til funktionel adskillelse forstås, at en udbyder med en stærk markedsposition, der virker inden for forskellige produktions- eller distributionsled, på et marked skal placere aktiviteter i forbindelse med engrossalget af relevante netadgangsprodukter i en uafhængigt fungerende forretningsenhed."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen kan kun i ekstraordinære tilfælde og efter samtykke fra Europa-Kommissionen pålægge udbydere med en stærk markedsposition en forpligtelse til funktionel adskillelse, hvis Erhvervsstyrelsen i forbindelse med en analyse, jf. § 39, konstaterer væsentlige og vedvarende konkurrenceproblemer eller markedssvigt i forhold til engrossalget af relevante netadgangsprodukter og Erhvervsstyrelsen vurderer, at de forpligtelser, der er pålagt i henhold til § 41, stk. 2, nr. 1-6, ikke har kunnet tilvejebringe effektiv konkurrence."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "En forpligtelse til funktionel adskillelse kan bl.a. omfatte: Udskillelse af relevante afdelinger til nærmere specificerede selvstændige forretningsenheder. Udskillelse af den særskilte forretningsenheds aktiver og de produkter eller tjenester, der skal leveres af denne forretningsenhed. Fysisk adskillelse af medarbejdere og ledelse fra øvrige medarbejdere og den øvrige ledelse. Opstilling af programmer for intern overvågning, som beskriver selskabets tiltag for at forhindre diskriminerende adfærd. Opstilling af de organisatoriske tiltag, der skal gennemføres for at sikre personalets uafhængighed i den særskilte forretningsenhed, og den dertil svarende incitamentsstruktur. Udarbejdelse af regler til sikring af forpligtelsernes overholdelse. Udarbejdelse af regler til sikring af transparens omkring driftsprocedurer, navnlig over for andre interessenter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 14 a",
+      "title": "Lempelse af forpligtelser for udbydere med en stærk markedsposition",
+      "paragraphs": [
+        {
+          "paragraph": "§ 47 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En udbyder, der er udpeget som havende en stærk markedsposition, kan afgive tilsagn om saminvestering i forbindelse med udrulningen af et nyt net, som består af optiske fiberelementer, der dækker strækningen op til slutbrugerens ejendom eller basisstation."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved vurdering af saminvesteringstilsagn efter stk. 1 skal Erhvervsstyrelsen afgøre, om udbyderens     saminvesteringstilbud overholder følgende betingelser: Saminvesteringstilbuddet er åbent for enhver udbyder af elektroniske kommunikationsnet eller -tjenester på et hvilket som helst tidspunkt i nettets levetid. Saminvesteringstilbuddet giver medinvestorer mulighed for at konkurrere effektivt og bæredygtigt på lang sigt på   underliggende markeder, hvor udbyderen er aktiv, på vilkår, som er fair, rimelige og ikkediskriminerende, og som giver adgang til nettets fulde kapacitet. Saminvesteringstilbuddet er offentliggjort rettidigt af udbyderen, hvilket bortset fra rene engrosselskaber, jf. § 47 b, vil sige mindst 6 måneder før begyndelsen af udrulningen af det nye net, medmindre Erhvervsstyrelsen vurderer, at nationale omstændigheder kan begrunde, at perioden forlænges. Andre udbydere, som ikke deltager i saminvesteringen, skal fra begyndelsen kunne drage fordel af netadgang med samme kvalitet, hastighed, betingelser og muligheder for at nå ud til slutbrugere som før udrulningen. Saminvesteringstilbuddet skal sikre, at netadgangen tilpasses over tid i lyset af udviklingen på de tilknyttede detailmarkeder, så incitamenterne til at deltage i saminvesteringen opretholdes. Saminvesteringstilbuddet skal give Erhvervsstyrelsen mulighed for indsigt i og tilsyn med efterfølgende tilpasninger af netadgangen. Saminvesteringstilbuddet er fremsat i god tro og opfylder som minimum de kriterier, der er angivet i bilag 1."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Konkluderer Erhvervsstyrelsen, at det i medfør af stk. 1 afgivne saminvesteringstilsagn opfylder betingelserne i stk. 2, og konstaterer Erhvervsstyrelsen, at mindst én potentiel medinvestor har indgået en saminvesteringsaftale med udbyderen, skal styrelsen gøre saminvesteringstilsagnet bindende for en periode på mindst 7 år. I denne periode må Erhvervsstyrelsen ikke pålægge yderligere forpligtelser efter § 41 på den relevante del af nettet."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Uanset stk. 3 kan Erhvervsstyrelsen i tilstrækkeligt begrundede tilfælde pålægge, fastholde eller tilpasse forpligtelser efter §§ 41 a-46 for at afhjælpe væsentlige konkurrenceproblemer på bestemte markeder, som på grund af de særlige karakteristika ved disse markeder ellers ikke ville blive afhjulpet."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Erhvervsstyrelsen kan pålægge den udbyder, som har afgivet saminvesteringstilsagn efter stk. 1, at forelægge årlige overensstemmelseserklæringer om overholdelsen af betingelserne i stk. 2."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 47 b.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsstyrelsen skal vurdere, om en udbyder, der er udpeget til at have en stærk markedsposition på et eller flere engrosmarkeder, jf. § 40, og som ikke er aktiv på noget detailmarked for offentlige elektroniske kommunikationstjenester, opfylder følgende betingelser: Alle selskaber og forretningsenheder inden for udbyderen, alle selskaber, som kontrolleres, men ikke nødvendigvis ejes fuldstændigt af den samme endelige ejer, og eventuelle aktionærer, der kan udøve kontrol over udbyderen, har kun nuværende og planlagte aktiviteter på engrosmarkeder for elektroniske kommunikationstjenester og derfor ikke nogen aktiviteter på noget detailmarked for elektroniske kommunikationstjenester til slutbrugere i EU. Udbyderen er ikke forpligtet til at handle med en enkelt selvstændig udbyder senere i forsyningskæden, som er aktiv på et detailmarked for offentlige elektroniske kommunikationstjenester til slutbrugere, som følge af en eksklusivaftale eller en aftale, som i realiteten udgør en eksklusivaftale."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Konkluderer Erhvervsstyrelsen, at betingelserne i stk. 1 er opfyldt, kan styrelsen i en afgørelse efter § 41 kun pålægge den pågældende udbyder forpligtelser som nævnt i §§ 42 og 43 eller forpligtelser om fair og rimelig prisfastsættelse, når det er berettiget på baggrund af en markedsanalyse efter § 39, herunder en fremadrettet vurdering af den sandsynlige adfærd for en udbyder med en stærk markedsposition."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Konkluderer Erhvervsstyrelsen, at betingelserne i stk. 1 ikke længere er opfyldt, skal styrelsen revidere de pålagte forpligtelser, jf. stk. 2, og i relevant omfang pålægge forpligtelser som nævnt i §§ 41 a-46. Udbyderen skal straks underrette Erhvervsstyrelsen om eventuelle ændringer af de forhold, der er relevante, jf. stk. 1."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Erhvervsstyrelsen skal revidere de pålagte forpligtelser, jf. stk. 2, eller pålægge en eller flere af forpligtelserne nævnt i §§ 41 a eller 44-46, når Erhvervsstyrelsen på grundlag af dokumentation for betingelser og vilkår, som udbyderen tilbyder kunder senere i forsyningskæden, konkluderer, at der er opstået eller sandsynligvis vil opstå konkurrenceproblemer til ulempe for slutbrugerne, som kræver pålæggelse af yderligere forpligtelser eller ændring af eksisterende forpligtelser."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 47 c.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En udbyder, der er udpeget som havende en stærk markedsposition på et eller flere relevante markeder, skal underrette Erhvervsstyrelsen, mindst 3 måneder inden udbyderen agter at overdrage sine adgangsnetaktiver eller væsentlige dele heraf til en særskilt juridisk enhed med en anden ejer eller oprette en særskilt forretningsenhed med henblik på at give alle detailudbydere, herunder virksomhedens egne detailafdelinger, fuldt ud tilsvarende adgangsprodukter."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En udbyder kan afgive tilsagn om betingelser for adgang til udbyderens net i løbet af gennemførselsperioden og efter afslutningen af den adskillelse, der er nævnt i stk. 1. Tilbuddet om tilsagn skal være tilstrækkelig detaljeret, herunder med hensyn til tidsplanen og rammerne for tilsagnets gennemførelse og dets varighed."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen skal som led i sin vurdering af den planlagte adskillelse sammen med eventuelt afgivne tilsagn gennemføre en analyse af de forskellige markeder med tilknytning til adgangsnettet."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Erhvervsstyrelsen træffer på grundlag af analysen, jf. stk. 3, afgørelse om at pålægge, opretholde, ændre eller ophæve forpligtelser efter § 41 og kan i sin afgørelse gøre tilsagn helt eller delvis bindende i hele den periode, som de afgives for."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Erhvervsstyrelsen kan forlænge bindende tilsagn i henhold til stk. 4."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 47 d.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere, der er udpeget som havende en stærk markedsposition, kan afgive tilsagn til Erhvervsstyrelsen vedrørende betingelser for samarbejdsordninger, tredjepartsadgang, eller saminvestering. Tilbuddet om tilsagn skal være tilstrækkelig detaljeret, herunder med hensyn til tidsplanen og rammerne for tilsagnets gennemførelse og dets varighed."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen skal som led i styrelsens vurdering af tilsagn afgivet i medfør af stk. 1 foretage en markedstest, navnlig vedrørende de tilbudte vilkår, herunder ved at gennemføre en offentlig høring, medmindre de afgivne tilsagn er klart utilstrækkelige. Erhvervsstyrelsen skal ved vurdering af de afgivne tilsagn navnlig tage hensyn til dokumentation for tilsagnene, tilsagnenes åbenhed for alle markedsdeltagere, rettidig tilvejebringelse af adgang på fair, rimelige og ikkediskriminerende betingelser forud for lanceringen af tilknyttede detailtjenester, tilsagnenes generelle tilstrækkelighed i forhold til at muliggøre bæredygtig konkurrence på underliggende markeder og at fremme samarbejde om udrulning og ibrugtagning af net med meget høj kapacitet til gavn for slutbrugerne."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen skal meddele udbyderen sine foreløbige konklusioner om, hvorvidt de afgivne tilsagn opfylder de mål og kriterier og overholder de procedurer, som er omhandlet i nærværende bestemmelse og i §§ 41, 47 a eller 47 c, og på hvilke betingelser styrelsen kan overveje at gøre tilsagnene bindende."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Udbyderen kan ændre sit tilbud om tilsagn for at tage hensyn til Erhvervsstyrelsens foreløbige konklusioner."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Erhvervsstyrelsen kan uanset § 47 a, stk. 3, træffe afgørelse om at gøre tilsagnene helt eller delvis bindende, og styrelsen kan uanset § 37, stk. 3, gøre nogle af eller alle tilsagnene bindende for en bestemt periode."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Erhvervsstyrelsen kan forlænge tilsagnene i henhold til stk. 5."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 15",
+      "title": "Digitale radio- og tv-tjenester",
+      "paragraphs": [
+        {
+          "paragraph": "§ 48.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen kan efter forhandling mellem digitaliseringsministeren og kulturministeren fastsætte regler om, at multipleksoperatører skal tilbyde adgang til programmeringsgrænseflader for applikationer (API) og til elektroniske programoversigter (EPG) på redelige, rimelige og ikkediskriminerende vilkår, i det omfang det er nødvendigt for at sikre slutbrugernes adgang til digitale radio- og tv-transmissionstjenester."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 49.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen fastsætter regler om: Krav til udbydere af adgangsstyringstjenester om betingelser for adgang til at anvende adgangsstyringssystemer og betingelser for udbydernes regnskabsaflæggelse. Vilkår for overdragelse af brugsretten til patent eller varemærke vedrørende adgangsstyringssystemer og produkter hertil."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 50.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen kan gennemføre markedsundersøgelser efter proceduren i kapitel 13 og kan efter forhandling mellem digitaliseringsministeren og kulturministeren træffe afgørelse om at videreføre, ændre eller ophæve betingelser og vilkår i henhold til regler fastsat i medfør af § 49 over for udbydere, der ifølge markedsundersøgelsen ikke har en stærk markedsposition på det pågældende marked."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En afgørelse i henhold til stk. 1 om at ændre eller ophæve betingelser og vilkår kan træffes, hvis dette ikke vil have negative følger for: Slutbrugernes adgang til radio- og tv-transmissioner, -kanaler og -tjenester som fastsat i medfør af § 6 i lov om radio- og fjernsynsvirksomhed. Mulighederne for reel konkurrence på detailmarkederne for digitale tv- og radiospredningstjenester, adgangsstyringssystemer og andre tilhørende faciliteter."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 50 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte nærmere regler om Digitaliseringsstyrelsens tilsyn med overholdelse af reglerne i §§ 48-50, regler og vilkår udstedt i medfør heraf og regler om tvistbilæggelse i forbindelse med digitale radio- og tv-tjenester."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 16",
+      "title": "Krav til udbydere af kabel-tv",
+      "paragraphs": [
+        {
+          "paragraph": "§ 51.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En udbyder af offentlige elektroniske kommunikationsnet eller -tjenester må ikke inden for samme retlige enhed drive sine kabel-tv-net og øvrige offentlige elektroniske kommunikationsnet, hvis udbyderen har særlige rettigheder på telekommunikationsområdet, indtager, hvad der efter konkurrenceloven svarer til en dominerende stilling på en væsentlig del af det samlede marked for offentlige elektroniske kommunikationsnet eller offentlige telefonitjenester, og driver et kabel-tv-net, som er etableret på grundlag af særlige eller eksklusive rettigheder inden for samme geografiske område."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan, når der er tilstrækkelig konkurrence på det særskilte marked for udbud af infrastruktur og tjenester på abonnentniveau, fastsætte nærmere regler om, at kravet i stk. 1 ikke finder anvendelse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 16 a",
+      "title": "Sektorspecifik fusionskontrol",
+      "paragraphs": [
+        {
+          "paragraph": "§ 51 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En fusion, jf. konkurrencelovens § 12 a, mellem to eller flere erhvervsmæssige udbydere af elektroniske kommunikationsnet i Danmark skal af de deltagende virksomheder meddeles til Erhvervsstyrelsen, hvis de deltagende virksomheder tilsammen har en samlet årlig omsætning i Danmark på mindst 900 mio. kr. og fusionen omfatter et offentligt elektronisk kommunikationsnet, jf. dog stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Stk. 1 finder ikke anvendelse, hvis fusionen er anmeldelsespligtig efter reglerne om fusionskontrol i konkurrenceloven."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen henviser en fusion meddelt til styrelsen efter stk. 1 til behandling hos Konkurrence- og Forbrugerstyrelsen efter konkurrencelovens regler om fusionskontrol, hvis betingelserne i stk. 1 er opfyldt."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "En fusion omfattet af stk. 1 må ikke gennemføres, hverken før den er blevet meddelt til Erhvervsstyrelsen, eller under styrelsens behandling af fusionsmeddelelsen. Dette er ikke til hinder for gennemførelsen af et offentligt overtagelsestilbud eller en serie transaktioner i værdipapirer, herunder sådanne, som kan konverteres til andre værdipapirer, der kan omsættes på et marked såsom en børs, hvorved der fra forskellige sælgere erhverves kontrol, når fusionen omgående meddeles til Erhvervsstyrelsen og erhververen ikke udøver de stemmerettigheder, der er knyttet til de pågældende værdipapirer, eller kun gør det for at bevare den fulde værdi af sin investering."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Erhvervsstyrelsens ansatte må ikke videregive oplysninger vedrørende sager om fusionsmeddelelser modtaget i henhold til stk. 1 til andre end Konkurrence- og Forbrugerstyrelsen."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Beregning af omsætningen efter stk. 1 sker i overensstemmelse med regler fastsat i henhold til konkurrencelovens § 12, stk. 4."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Digitaliseringsministeren kan fastsætte nærmere regler om meddelelse af fusioner, jf. stk. 1, og procedurer og tidsfrister for Erhvervsstyrelsens behandling af en meddelt fusion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 17",
+      "title": "Tilsyn m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 52.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsstyrelsen fører tilsyn med overholdelse af reglerne i dette kapitel og kapitel 11-14 a, 16, 16 a og 18 og regler udstedt i medfør heraf."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen fører tilsyn med overholdelse af de af Europa-Kommissionen fastsatte termineringstakster for taleopkald i fastnet og mobilnet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 53.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Indbringes der klager for Erhvervsstyrelsen i forbindelse med en aftale omfattet af dette kapitel og kapitel 11-14 a, 16, 16 a og 18 eller regler udstedt i medfør heraf mellem en udbyder af offentlige elektroniske kommunikationsnet eller -tjenester, der er hjemmehørende i Danmark, og en tilsvarende udbyder, der er hjemmehørende i et andet EU- eller EØS-land, skal Erhvervsstyrelsen anmode Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation om at få en udtalelse om tvisten."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen skal afvente en udtalelse efter stk. 1, inden Erhvervsstyrelsen tager skridt til at bilægge tvisten. Erhvervsstyrelsen kan dog for at sikre konkurrencen og slutbrugernes interesser under ekstraordinære omstændigheder enten på parternes anmodning eller på eget initiativ træffe midlertidige afgørelser efter § 55."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Enhver forpligtelse, som Erhvervsstyrelsen pålægger en udbyder som led i tvistbilæggelsen, skal pålægges senest 1 måned efter udtalelsen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 54.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsstyrelsen kan træffe afgørelse om, hvorvidt der i konkrete tilfælde foreligger en rimelig anmodning om indgåelse eller ændring af en aftale om netadgang eller samtrafik i overensstemmelse med forpligtelser pålagt efter § 33, stk. 2, § 35 a, § 41, bindende tilsagn efter § 47 a, § 47 c eller § 47 d. Anmodningen skal være fremsat af en udbyder af offentlige elektroniske kommunikationsnet eller -tjenester, som kan påberåbe sig eller er omfattet af § 34, stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsens afgørelser efter stk. 1 træffes hurtigst muligt, og så vidt muligt senest 4 måneder efter at en udbyder af offentlige elektroniske kommunikationsnet eller -tjenester har indbragt sagen for Erhvervsstyrelsen eller sagen er overgået fra alternativ tvistbilæggelse, jf. stk. 4."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen kan i stedet for at træffe afgørelse efter stk. 1 beslutte, at sager om, hvorvidt der i konkrete tilfælde foreligger en rimelig anmodning om indgåelse eller ændring af en aftale om netadgang og samtrafik, skal overgå til alternativ tvistbilæggelse, hvis Erhvervsstyrelsen skønner, at denne vil være mest egnet til løsning af tvisten. Digitaliseringsministeren fastsætter nærmere regler om alternativ tvistbilæggelse."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Hvis en af de implicerede udbydere af offentlige elektroniske kommunikationsnet eller -tjenester i en sag omfattet af stk. 1, der er overgået til alternativ tvistbilæggelse efter stk. 3, anmoder om det, træffer Erhvervsstyrelsen afgørelse i sagen efter stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 55.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvis Erhvervsstyrelsen under behandlingen af en sag efter reglerne i dette kapitel og kapitel 11-14 a, 16, 16 a og 18 eller regler udstedt i medfør heraf ikke modtager de oplysninger eller det materiale, som Erhvervsstyrelsen har krævet, jf. § 73, stk. 1, kan Erhvervsstyrelsen træffe afgørelse på det foreliggende grundlag."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen kan under behandling af en sag om netadgang eller samtrafik mellem udbydere af offentlige elektroniske kommunikationsnet eller -tjenester efter anmodning fra en af sagens parter træffe afgørelse om, at netadgang eller samtrafik midlertidigt skal igangsættes, fortsættes eller genoptages, og fastsætte midlertidige vilkår og priser herfor."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen kan ændre en midlertidig afgørelse truffet i henhold til stk. 2."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Hvis der indgås en endelig aftale, bortfalder den midlertidige afgørelse på tidspunktet for aftalens indgåelse."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Når en endelig afgørelse er truffet, skal eventuelle priser fastsat i afgørelser truffet i henhold til stk. 2 og 3 efterreguleres, således at udbyderne af offentlige elektroniske kommunikationsnet eller -tjenester stilles, som om den endelige afgørelse havde haft virkning fra det tidspunkt, hvor den midlertidige afgørelse blev truffet. Ved efterregulering af priserne kan der tages hensyn til ikke ubetydelige rentetab."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Hvis en udbyder af offentlige elektroniske kommunikationsnet eller -tjenester ikke har fremlagt tilstrækkelig dokumentation og det derfor har været nødvendigt at træffe en midlertidig afgørelse, jf. stk. 2, eller at træffe afgørelse på det foreliggende grundlag, jf. stk. 1, skal der uanset stk. 5 alene ske efterregulering af priserne, hvis efterreguleringen er til gunst for tredjemand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 18",
+      "title": "Øvrige forhold",
+      "paragraphs": [
+        {
+          "paragraph": "§ 56.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, som nyder særlige eller eksklusive rettigheder til at udbyde tjenester i andre sektorer i Danmark eller et andet EU- eller EØS-land, skal føre særskilte regnskaber for aktiviteter, der vedrører udbud af elektroniske kommunikationsnet eller -tjenester, i samme grad, som det ville være påkrævet, hvis disse aktiviteter blev forestået af et retligt uafhængigt selskab, eller organiseres sådan, at aktiviteterne vedrørende elektroniske kommunikationsnet eller -tjenester er strukturelt udskilt."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Stk. 1 finder ikke anvendelse, hvis virksomhedens samlede årlige omsætning for aktiviteter i forbindelse med elektroniske kommunikationsnet eller -tjenester i Danmark er mindre end 100 mio. kr."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Erhvervsstyrelsen fastsætter nærmere regler om opfyldelse af pligter i henhold til stk. 1, herunder bl.a. krav til formater, regnskabsmetoder og revision."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 57.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren fastsætter nærmere regler om høringer, herunder om, hvilke afgørelser der skal gøres til genstand for udvidet høring, og om procedurer for Erhvervsstyrelsens gennemførelse af høringer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 19",
+      "title": "Samhusning og fælles udnyttelse af netelementer og tilhørende faciliteter",
+      "paragraphs": [
+        {
+          "paragraph": "§ 58.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler om, at udbydere af elektroniske kommunikationsnet skal give andre udbydere af elektroniske kommunikationsnet adgang til samhusning og fælles udnyttelse af netelementer i elektroniske kommunikationsnet og tilhørende faciliteter. Regler, der fastsættes om samhusning og fælles udnyttelse af netelementer i elektroniske kommunikationsnet og tilhørende faciliteter, skal være objektive, transparente, ikkediskriminerende, forholdsmæssige og berettigede under hensyn til formålet i § 1 og hensynene i stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Samhusning og fælles udnyttelse af netelementer og tilhørende faciliteter pålagt efter regler fastsat i henhold til stk. 1 skal være berettiget ud fra hensyn til miljø, folkesundhed, den offentlige sikkerhed eller planmæssige hensyn og skal ske med henblik på etablering af elektroniske kommunikationsnet. Samhusning og fælles udnyttelse af netelementer og tilhørende faciliteter kan kun pålægges efter afholdelse af en offentlig høring."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Regler fastsat i henhold til stk. 1 kan vedrøre: Samhusning og fælles udnyttelse af eksisterende netelementer og tilhørende faciliteter. Krav til dimensioneringen og placeringen af nye netelementer og tilhørende faciliteter i forbindelse med tilladelse til etablering, udvidelse eller ændring heraf med henblik på senere samhusning eller fælles udnyttelse."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om fordeling af omkostningerne forbundet med samhusning og fælles udnyttelse af netelementer i elektroniske kommunikationsnet og tilhørende faciliteter i henhold til stk. 1 og om fastsættelse af vilkår ved samhusning og fælles udnyttelse af netelementer i elektroniske kommunikationsnet og tilhørende faciliteter i henhold til stk. 1. Digitaliseringsministeren kan endvidere fastsætte regler om den offentlige høring og varigheden heraf, jf. stk. 2, indsigt i aftaler, tilsyn, alternativ tvistbilæggelse, pålæggelse af tvangsbøder og klageadgang i forbindelse med regler fastsat i medfør af stk. 1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 20",
+      "title": "(Ophævet)",
+      "paragraphs": [
+        {
+          "paragraph": "§ 59.",
+          "sections": [
+            {
+              "section": "",
+              "text": "(Ophævet)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 21",
+      "title": "Oplysningspligt",
+      "paragraphs": [
+        {
+          "paragraph": "§ 60.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler om oplysningspligt for ejere eller indehavere af råderetten til netelementer og tilhørende faciliteter omfattet af § 58 vedrørende oplysninger om arten, tilgængeligheden og den geografiske placering af netelementer og tilhørende faciliteter."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om, i hvilket omfang oplysninger indhentet i henhold til stk. 1 skal gøres tilgængelige for offentligheden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 21 a",
+      "title": "Offentlige myndigheders udlejning af arealer m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 60 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En offentlig myndighed kan indgå aftaler på markedsvilkår med udbydere af elektroniske kommunikationsnet om udlejning af arealer, bygninger, høje konstruktioner, master m.v. med henblik på udbygning af radiokommunikationsnettet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen fører tilsyn med, at offentlige myndigheders aftaler, jf. stk. 1, er indgået på markedsvilkår, og at offentlige myndigheder overholder regler fastsat i medfør af stk. 6. Digitaliseringsstyrelsen kan som led i tilsynet træffe afgørelser, herunder fastsætte vilkår om pris m.v."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsstyrelsen kan af en part i en tilsynssag i medfør af stk. 2 opkræve et beløb til dækning af styrelsens ekstraordinære omkostninger i forbindelse med tilsynet."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsstyrelsen kan af offentlige myndigheder kræve alle oplysninger og alt materiale, som Digitaliseringsstyrelsen skønner relevant i forbindelse med tilsynet, jf. stk. 2."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Digitaliseringsstyrelsen kan fastsætte regler om tilsynet, jf. stk. 2, herunder hvordan tilsynet gennemføres, hvilke afgørelser Digitaliseringsstyrelsen kan træffe, om frister for styrelsens behandling af sager som led i tilsynet, om opkrævning af beløb til dækning af styrelsens ekstraordinære omkostninger i forbindelse med tilsynet, jf. stk. 3, og om oplysningspligt og pligt til indsendelse af materiale til brug for tilsynet."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om metoder til fastsættelse af de markedsvilkår, på hvilke offentlige myndigheder kan indgå aftaler i henhold til stk. 1, regler, der er nødvendige for implementeringen og anvendelsen af metoderne, regler om oplysningspligt og pligt til indsendelse af materiale, der skønnes relevant for udviklingen, implementeringen og anvendelsen af metoderne, m.v."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 21 b",
+      "title": "Offentlige myndigheders mulighed for at stille en trådløs adgang til internettet til rådighed for offentligheden",
+      "paragraphs": [
+        {
+          "paragraph": "§ 60 b.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Offentlige myndigheder kan som et supplement til en tjeneste, som myndigheden udbyder, gennem et radiobaseret lokalnet stille en trådløs adgang til internettet til rådighed for offentligheden på myndighedens lokaliteter og i offentlige områder tæt på myndighedens lokaliteter."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Offentlige myndigheder kan lade deres radiobaserede lokalnet, jf. stk. 1, indgå i et fælles net bestående af forskellige slutbrugeres radiobaserede lokalnet med henblik på herigennem at stille en trådløs adgang til internettet til rådighed for hinanden eller for offentligheden."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsministeren kan i særlige tilfælde fastsætte regler om begrænsninger i den trådløse adgang til internettet efter stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 60 c.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Kommunalbestyrelser kan uden for de tilfælde, der er nævnt i § 60 b, stille en gratis trådløs adgang til internettet til rådighed for offentligheden på udendørs steder, hvor der er aktiviteter rettet mod international turisme, jf. dog stk. 3-5."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Offentlige myndigheder kan uden for de tilfælde, der er nævnt af § 60 b, stille en gratis trådløs adgang til internettet til rådighed for offentligheden på den offentlige myndigheds lokaliteter eller på udendørs offentligt tilgængelige steder, hvor den offentlige myndighed har opnået hel eller delvis støtte til etableringen af adgangen til internettet fra Europa   Kommissionen, jf. dog stk. 3 og 4, eller den offentlige myndighed har søgt om støtte til etableringen af adgangen til internettet fra Europa-Kommissionen og har opfyldt kriterierne herfor, men ikke opnået støtte, jf. dog stk. 3, 4 og 6."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Der må ikke med den trådløse adgang til internettet efter stk. 1 og 2 skabes et sammenhængende net i et større område."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Den offentlige myndighed skal købe etablering og drift af den trådløse adgang til internettet, jf. stk. 1 og 2, af en privat udbyder af elektroniske kommunikationsnet og -tjenester."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Adgang til internettet efter stk. 1 må maksimalt gives i 1 time pr. døgn pr. stykke udstyr."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Den offentlige myndighed skal for at kunne stille en trådløs adgang til internettet til rådighed efter stk. 2, nr. 2, give digitaliseringsministeren meddelelse herom, inden for 45 dage efter at det er konstateret, at myndigheden ikke har opnået hel eller delvis støtte fra Europa-Kommissionen."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om begrænsninger i den trådløse adgang til internettet efter stk. 2, herunder tidsmæssige begrænsninger eller begrænsninger i datamængde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 21 c",
+      "title": "Kommunal støtte til etablering af elektroniske kommunikationsnet m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 60 d.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Kommunalbestyrelser kan give støtte til etablering af elektroniske kommunikationsnet i medfør af Kommissionens forordning (EU) nr. 651/2014 af 17. juni 2014 om visse kategorier af støttes forenelighed med det indre marked i henhold til traktatens artikel 107 og 108 med senere ændringer og støtte i medfør af Kommissionens forordning (EU) nr. 1407/2013 af 18. december 2013 om anvendelse af artikel 107 og 108 i traktaten om Den Europæiske Unions funktionsmåde på de minimis-støtte med senere ændringer."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen kan fastsætte regler om kommunalbestyrelsers støtte som nævnt i stk. 1, herunder regler om gennemførelse og administration af støtteprojekter, de støtteberettigede foranstaltninger og aktiviteter og vilkår og betingelser for støtte og tilbagebetaling af støtte samt åben engrosadgang."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsstyrelsen fører tilsyn med kommunalbestyrelsers støtte som nævnt i stk. 1 og overholdelse af regler fastsat i medfør af stk. 2. Styrelsen kan i forbindelse med sit tilsyn træffe afgørelser over for kommunalbestyrelser eller støttemodtagere."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsministeren fastsætter regler om tilsynet efter stk. 3, herunder om, hvordan tilsynet gennemføres, hvem der er klageberettiget, og hvilke typer afgørelser Digitaliseringsstyrelsen kan træffe, herunder om tilbagebetaling af støtte, og om inddragelse af andre myndigheder ved afgørelser om åben engrosadgang."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 60 e.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Kommunalbestyrelser kan alene på markedsvilkår stille passiv infrastruktur til brug for elektroniske kommunikationsnet til rådighed for udbydere af elektroniske kommunikationsnet eller -tjenester, når infrastrukturen er bredt tilgængelig for alle udbydere og det ikke virker konkurrenceforvridende i forhold til andre udbydere af tilsvarende passiv infrastruktur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 22",
+      "title": "Samfundsvigtig elektronisk kommunikation i beredskabssituationer og andre ekstraordinære situationer",
+      "paragraphs": [
+        {
+          "paragraph": "§ 61.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler om minimumskrav til udbydere af elektroniske kommunikationsnet eller -tjenester og ejere af elektroniske kommunikationsnet, som er tilsluttet offentlige elektroniske kommunikationsnet eller -tjenester, med henblik på at sikre telekommunikation ved alarmering. Reglerne kan bl.a. indeholde en pligt til at foretage en indbyrdes dirigering og koordinering af afleveringen af alarmkommunikation til den relevante alarmcentral, herunder at en eller flere udbydere af elektroniske kommunikationsnet eller -tjenester pålægges en pligt til at varetage koordineret aflevering af alarmkommunikation og stedbestemmelsesoplysninger fra andre udbydere og ejere af net, at stille stedbestemmelsesoplysninger gratis til rådighed for slutbrugeren og den relevante alarmcentral, at yde bistand ved alarmcentralernes alarmering af politi, redningsberedskab, ambulancetjeneste og andre beredskabstjenester, på anmodning fra alarmcentralerne eller politiet at spærre for alarmkommunikation til 112 eller lignende samfundskritiske tjenester og at træffe alle nødvendige foranstaltninger til at sikre uafbrudt adgang til beredskabstjenester."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan fastsætte nærmere regler for takseringen af koordinering, dirigering og aflevering af alarmkommunikation, herunder af stedbestemmelsesoplysninger."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsministeren kan fastsætte bestemmelser som nævnt i stk. 1 og 2 for tilsvarende kommunikation med politiet, sundhedsmyndighederne m.v."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsstyrelsen kan fastsætte minimumskrav til nøjagtighed og pålidelighed af stedbestemmelsesoplysninger."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 62.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Udbydere af elektroniske kommunikationstjenester i mobilnet og udbydere af mobilnet skal på vegne af beredskabsaktører udsende offentlige advarsler om overhængende eller truende alvorlige nødsituationer og katastrofer til berørte slutbrugere. Udbyderne skal udsende offentlige advarsler til de slutbrugere, der i varslingsperioden opholder sig i nærmere angivne geografiske områder, straks efter modtagelse af anmodning herom. De berørte slutbrugere må ikke pålægges udgifter i forbindelse med modtagelse af advarslerne."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ministeriet for Samfundssikkerhed og Beredskab refunderer nødvendige, dokumenterede udgifter, som udbyderne har afholdt i forbindelse med udvikling, etablering og drift af den tekniske løsning, der anvendes til udsendelse af offentlige advarsler."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Den tekniske løsning, der etableres med henblik på udsendelse af offentlige advarsler, må ikke anvendes til andre formål."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Ministeren for samfundssikkerhed og beredskab kan fastsætte nærmere regler om udsendelsen af offentlige advarsler efter stk. 1. Der kan i den forbindelse bl.a. fastsættes krav til den tekniske løsning, der anvendes til udsendelse af offentlige advarsler, og regler om, på hvilke beredskabsaktørers vegne der skal udsendes offentlige advarsler, hvornår udbyderne skal have etableret den tekniske løsning, proceduren for udsendelsen af offentlige advarsler, varslingsperiodens længde og udbydernes medvirken til at udvikle, etablere og drive den tekniske løsning."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 63.",
+          "sections": [
+            {
+              "section": "",
+              "text": "(Ophævet)"
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 64.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen fører tilsyn med overholdelsen af regler fastsat i medfør af § 61. Erhvervsstyrelsen kan fastsætte nærmere regler om udførelse af tilsynet, herunder om oplysningspligt og pligt til indsendelse af materiale til brug for tilsynet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen kan træffe afgørelse over for udbydere af elektroniske kommunikationsnet eller -tjenester og ejere af elektroniske kommunikationsnet, som er tilsluttet offentlige elektroniske kommunikationsnet eller -tjenester, om overholdelse af regler fastsat i medfør af § 61."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 64 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "(Ophævet)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 23",
+      "title": "Uautoriseret adgang til informations- og indholdstjenester",
+      "paragraphs": [
+        {
+          "paragraph": "§ 65.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Det er ikke tilladt i erhvervsmæssigt øjemed at fremstille, importere, omsætte, besidde eller ændre dekodere eller andet dekodningsudstyr, hvis formål det er at give uautoriseret adgang til informations- og indholdstjenester, der normalt ydes mod betaling. Annoncering eller anden form for reklame for sådant udstyr er ikke tilladt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 24",
+      "title": "Delegation og afskæring af instruksadgang",
+      "paragraphs": [
+        {
+          "paragraph": "§ 66.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan bemyndige en under ministeriet oprettet statslig myndighed eller efter forhandling med vedkommende minister andre statslige myndigheder til at udøve de beføjelser, der i denne lov er tillagt digitaliseringsministeren."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder om, at afgørelserne ikke skal kunne påklages."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsministeren kan efter forhandling med vedkommende minister fastsætte regler om udøvelsen af de beføjelser, som en anden statslig myndighed bliver bemyndiget til at udøve efter stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 66 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "(Ophævet)"
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 67.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan ikke give Digitaliseringsstyrelsen tjenestebefaling om Digitaliseringsstyrelsens varetagelse af myndighedsopgaver vedrørende konkrete sager, om behandling og afgørelse af enkeltsager, om Digitaliseringsstyrelsens udstedelse af administrative forskrifter på områder, hvor Digitaliseringsstyrelsen ved lov er bemyndiget hertil, eller om Digitaliseringsstyrelsens øvrige tilsynsaktiviteter med henblik på at sikre overholdelse af denne lov og administrative forskrifter udstedt i medfør heraf."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan ikke dispensere fra administrative forskrifter udstedt af ministeren i medfør af denne lov."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsministeren kan fastsætte nærmere regler for udnævnelse og afskedigelse af medlemmer af myndigheder, der er bemyndiget til at varetage opgaver efter denne lov, jf. dog stk. 4."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Erhvervsministeren kan fastsætte nærmere regler for udnævnelse og afskedigelse af medlemmer af myndigheder, der er bemyndiget til at varetage opgaver efter kapitel 11-14 a og 16-18."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 25",
+      "title": "Nedsættelse af nævnet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 68.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsministeren nedsætter et Teleklagenævn."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Teleklagenævnet består af 5 til 7 medlemmer, der udpeges af erhvervsministeren. Erhvervsministeren skal ved udpegningen af nævnets medlemmer lægge vægt på, at nævnet samlet repræsenterer juridisk, teleteknisk, økonomisk, konkurrenceretlig og markedsmæssig sagkundskab."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Medlemmerne udpeges for 4 år ad gangen."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Erhvervsministeren udpeger blandt nævnets medlemmer nævnets formand. Formanden skal være jurist. Erhvervsministeren kan blandt nævnets medlemmer udpege en jurist som næstformand, der kan træde til ved formandens forfald eller inhabilitet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 26",
+      "title": "Nævnets virksomhed",
+      "paragraphs": [
+        {
+          "paragraph": "§ 69.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsministeren fastsætter nærmere regler for Teleklagenævnets virksomhed og sagsbehandling, herunder regler om opkrævning af gebyr for sager, der behandles ved nævnet, og at klager over en afgørelse, som Erhvervsstyrelsen har truffet, skal indgives til Teleklagenævnet inden for nærmere fastsatte tidsfrister."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsministeriet stiller sekretariatsbistand til rådighed for nævnet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Teleklagenævnet er i sin virksomhed uafhængigt af instrukser vedrørende den enkelte sags behandling og afgørelse. Teleklagenævnets formand tilrettelægger nævnets arbejde, herunder arbejdet i dettes sekretariat."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 70.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Teleklagenævnet behandler sager, som ved lov eller regler udstedt i medfør heraf er henlagt til nævnet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Teleklagenævnets afgørelser vedrørende klager over Erhvervsstyrelsens afgørelser skal så vidt muligt foreligge, senest 3 måneder efter at de er forelagt for nævnet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 71.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Teleklagenævnets afgørelser kan ikke indbringes for anden administrativ myndighed."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Teleklagenævnets afgørelse kan indbringes for domstolene, senest 8 uger efter at afgørelsen er meddelt den pågældende."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 27",
+      "title": "Regler for offentliggørelse",
+      "paragraphs": [
+        {
+          "paragraph": "§ 72.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsstyrelsen og Teleklagenævnet offentliggør afgørelser, som træffes i henhold til § 33, stk. 2, og §§ 35 a, 38-41 og 47 d i denne lov."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Erhvervsstyrelsen og Teleklagenævnet offentliggør derudover afgørelser, som er af almen interesse eller af betydning for forståelsen af denne lovs bestemmelser eller regler udstedt i medfør heraf."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Offentliggørelse i henhold til stk. 1 og 2 sker inden for rammerne af regler om tavshedspligt, herunder reglerne i forvaltningsloven, Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og databeskyttelsesloven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 28",
+      "title": "Oplysninger til brug for tilsyn m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 73.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen kan kræve alle oplysninger og alt materiale, som Digitaliseringsstyrelsen skønner relevant i forbindelse med tilsyn med overholdelse af lovens regler eller regler fastsat i medfør heraf og i forbindelse med administration, undersøgelser og konkrete afgørelser, der gennemføres og træffes efter lovens bestemmelser herom, af udbydere af elektroniske kommunikationsnet eller -tjenester, udbydere af nummeruafhængige interpersonelle kommunikationstjenester, ejere af elektroniske kommunikationsnet, udbydere af informations- eller indholdstjenester, udbydere af nummeroplysningsdatabaser og -registre, fysiske og juridiske personer som nævnt i § 9 og i regler fastsat i medfør heraf, tredjemænd som nævnt i § 30, stk. 4, udbydere af betalingstelefoner, udbydere af teleterminaludstyr, der anvendes til mobilkommunikationstjenester, udbydere af adgangsstyringstjenester, indehavere af ejendomsretten til adgangsstyringsprodukter og -systemer, slutbrugere og virksomheder, der meddeler en fusion, jf. § 51 a, stk. 1."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen kan hos de i stk. 1, nr. 1-8 og 10-12, forpligtede indhente oplysninger med henblik på at videregive disse til Europa-Kommissionen eller nationale tilsynsmyndigheder i andre EU-medlemsstater, sådan at disse kan opfylde deres opgaver i forhold til traktatmæssige forpligtelser eller forpligtelser i henhold til fællesskabsretten. Digitaliseringsstyrelsen orienterer de parter, der er indhentet oplysninger fra, forud for videregivelse til Europa-Kommissionen eller nationale tilsynsmyndigheder i andre EU-medlemsstater."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Teleklagenævnet kan af de i stk. 1 nævnte forpligtede kræve alle oplysninger og alt materiale, som nævnet skønner relevant for sine afgørelser om overholdelse af lovens regler eller regler fastsat i medfør heraf."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Teleklagenævnet og Digitaliseringsstyrelsen kan stille krav om, hvordan og i hvilken form oplysninger og materiale skal afgives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 28 a",
+      "title": "Geografiske kortlægninger af netudrulning",
+      "paragraphs": [
+        {
+          "paragraph": "§ 73 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen gennemfører mindst hvert tredje år en kortlægning af eksisterende elektroniske kommunikationsnet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsens kortlægning efter stk. 1 skal være tilstrækkelig detaljeret til, at den kan bruges til følgende: Markedsundersøgelser og analyser efter afsnit IV. Identifikation af støtteberettigede adresser i henhold til EU-regler om statsstøtte. Forbrugerinformation. Analyser i forhold til forsyningspligt efter kapitel 4. Frekvensadministration efter lov om radiofrekvenser. Politikunderstøttelse med henblik på sikring af dækning."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Digitaliseringsstyrelsen eller Erhvervsstyrelsen kan gennemføre supplerende kortlægninger af eksisterende infrastruktur, ejerskabsforhold, udrulningsplaner el.lign., såfremt det er nødvendigt for gennemførelsen af de opgaver, der er nævnt i stk. 2."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsstyrelsen eller Erhvervsstyrelsen kan kræve alle oplysninger, som Digitaliseringsstyrelsen eller Erhvervsstyrelsen skønner relevant i forbindelse med en kortlægning efter stk. 1 eller 3 af udbydere af elektroniske kommunikationsnet eller -tjenester og ejere af elektroniske kommunikationsnet."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Digitaliseringsstyrelsen og Erhvervsstyrelsen kan videregive resultaterne af kortlægninger i henhold til stk. 1 eller 3 til andre myndigheder, Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation, myndigheder i andre medlemsstater eller Europa-Kommissionen, såfremt den modtagende myndighed kan garantere samme grad af kommerciel fortrolighed som den afgivende myndighed."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Digitaliseringsstyrelsen og Erhvervsstyrelsen skal stille de data fra kortlægninger i henhold til stk. 1 eller 3, der ikke er underlagt kommerciel fortrolighed, til rådighed for markedet i en form, der gør det muligt at genanvende data."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "Digitaliseringsstyrelsen sikrer under hensyntagen til en eventuel kommerciel fortrolighed offentliggørelse af kortlægninger i henhold til stk. 1 eller 3 ud fra hensyn til forbrugeroplysning."
+            },
+            {
+              "section": "Stk. 8.",
+              "text": "Digitaliseringsstyrelsen kan med henblik på at understøtte opgaverne i stk. 2, nr. 2 og 6, indhente oplysninger om elforbrug på adresseniveau fra Energinet."
+            },
+            {
+              "section": "Stk. 9.",
+              "text": "Digitaliseringsministeren kan med henblik på at understøtte opgaverne i stk. 2, nr. 2 og 6, fastsætte regler om, at ejere af elektroniske kommunikationsnet skal medvirke til eller samarbejde om at udvikle en metode for kortlægning af adgang til mobilt bredbånd og andre trådløse teknologier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 29",
+      "title": "Oplysninger fra andre EU-lande",
+      "paragraphs": [
+        {
+          "paragraph": "§ 74.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Oplysninger, der modtages eller stammer fra nationale tilsynsmyndigheder i andre EU-medlemsstater, betragtes som fortrolige, hvis den afgivende nationale tilsynsmyndighed betragter oplysningerne som forretningshemmeligheder i henhold til EU-regler eller nationale regler."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 30",
+      "title": "Statistik m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 75.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen udarbejder og offentliggør løbende statistik og dokumentation om forskellige forhold inden for telemarkedet, som Digitaliseringsstyrelsen skønner relevante. Formålet er at gøre det muligt at overskue og sammenligne det samlede udbud af elektroniske kommunikationsnet og -tjenester og nummeruafhængige interpersonelle kommunikationstjenester og at skabe overblik over, hvordan konkurrencen fungerer på telemarkedet, samt at understøtte den grønne omstilling på området."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen kan kræve, at udbydere af elektroniske kommunikationsnet eller -tjenester og nummeruafhængige interpersonelle kommunikationstjenester udleverer alt materiale og alle oplysninger, herunder også oplysninger om udbydernes konkurrencesituation, markedsandele m.v., som skønnes nødvendige for at udarbejde dokumentation og statistik som nævnt i stk. 1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 30 a",
+      "title": "Kommunikation",
+      "paragraphs": [
+        {
+          "paragraph": "§ 75 a.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler om, at skriftlig kommunikation til og fra Digitaliseringsstyrelsen og til og fra Teleklagenævnet om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsministeren kan efter forhandling med justitsministeren fastsætte regler om, at skriftlig kommunikation til og fra politiets centrale datasektion om forhold, som er omfattet af § 12, stk. 1, skal foregå digitalt. Stk. 2 og 3 finder tilsvarende anvendelse."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 75 b.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler om, at Digitaliseringsstyrelsen og Teleklagenævnet kan udstede afgørelser og andre dokumenter efter denne lov uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet. Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 75 c.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvor det efter denne lov eller i regler udstedt i medfør af denne lov er krævet, at et dokument, som er udstedt af andre end en offentlig myndighed, jf. § 75 a, stk. 1 og 4, skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet, jf. dog stk. 2. Sådanne dokumenter sidestilles med dokumenter med personlig underskrift."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsministeren kan fastsætte nærmere regler om fravigelse af underskriftskrav. Det kan herunder bestemmes, at krav om personlig underskrift ikke kan fraviges for visse typer af dokumenter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 31",
+      "title": "Påklage",
+      "paragraphs": [
+        {
+          "paragraph": "§ 76.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Erhvervsstyrelsens afgørelser truffet efter denne lov eller regler udstedt i medfør heraf samt sagsbehandling i forbindelse hermed kan påklages til Teleklagenævnet, jf. dog stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Midlertidige afgørelser efter § 55, stk. 2, afgørelser om oplysningspligt, jf. § 73, § 75, stk. 2, eller regler herom udstedt i medfør af § 64, stk. 1, og afgørelser truffet i medfør af § 79, stk. 1, kan ikke påklages til anden administrativ myndighed."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 77.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Afgørelser efter § 33, stk. 2, og §§ 38-41 kan ud over af den, som Erhvervsstyrelsens afgørelse retter sig til, påklages af de udbydere af offentlige elektroniske kommunikationsnet eller -tjenester, som på tidspunktet for Erhvervsstyrelsens afgørelse agerer på det marked, som afgørelsen vedrører."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 32",
+      "title": "Opsættende virkning",
+      "paragraphs": [
+        {
+          "paragraph": "§ 78.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Klager over Erhvervsstyrelsens afgørelser i medfør af afsnit IV i denne lov eller regler fastsat i medfør heraf kan ikke tillægges opsættende virkning, jf. dog stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Formanden for Teleklagenævnet kan tillægge en klage som nævnt i stk. 1 opsættende virkning, når ganske særlige omstændigheder taler herfor."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Formanden for Teleklagenævnet kan knytte særlige vilkår til en afgørelse efter stk. 2."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Digitaliseringsministeren fastsætter nærmere regler om Digitaliseringsstyrelsens og Teleklagenævnets muligheder for at tillægge en klage opsættende virkning på andre områder end dem, der er nævnt i stk. 1, og om virkningen heraf."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 33",
+      "title": "Tvangsbøder",
+      "paragraphs": [
+        {
+          "paragraph": "§ 79.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Undlader de i § 73, stk. 1, nr. 1-8, 10, 11 og 13, forpligtede at afgive oplysninger, som Digitaliseringsstyrelsen eller Teleklagenævnet kan kræve efter denne lov, eller at efterkomme afgørelser fra de pågældende myndigheder truffet i henhold til denne lov eller regler fastsat i medfør heraf, kan de pågældende myndigheder pålægge den part, som oplysningspligten eller afgørelsen retter sig imod, tvangsbøder med henblik på at gennemtvinge efterkommelse heraf."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Undlader en udbyder, der i henhold til § 15, stk. 2, er udpeget som forsyningspligtudbyder, at efterkomme en afgørelse truffet af Digitaliseringsstyrelsen i henhold til denne lov eller regler fastsat i medfør heraf, eller undlader en forsyningspligtudbyder at betale tvangsbøder pålagt i medfør af stk. 1, kan Digitaliseringsstyrelsen tilbagekalde udpegningen som forsyningspligtudbyder."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Undlader en udbyder, der i henhold til § 15, stk. 2, er udpeget som forsyningspligtudbyder, at efterkomme en afgørelse truffet af Teleklagenævnet i henhold til denne lov eller regler fastsat i medfør heraf, eller undlader en forsyningspligtudbyder at betale tvangsbøder pålagt af Teleklagenævnet i henhold til stk. 1, kan Teleklagenævnet pålægge Digitaliseringsstyrelsen at tilbagekalde udpegningen som forsyningspligtudbyder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 34",
+      "title": "Anvendelse af forordninger",
+      "paragraphs": [
+        {
+          "paragraph": "§ 80.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsministeren kan fastsætte regler, der måtte være nødvendige for at anvende forordninger udstedt af De Europæiske Fællesskaber på telelovgivningens område, herunder regler om sanktioner i form af bøder eller tvangsbøder ved manglende overholdelse af forordninger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 35",
+      "title": "Straf",
+      "paragraphs": [
+        {
+          "paragraph": "§ 81.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Med bøde straffes den, der overtræder § 7, stk. 1, § 10, stk. 3 og 4,  § 31, stk. 4-7, § 35 eller § 51 a, stk. 1 og 4, eller § 62, stk. 1 og 3, den udbyder af elektroniske kommunikationsnet eller -tjenester, der foretager portering af numre eller skift af udbyder uden slutbrugerens udtrykkelige samtykke, jf. § 28 a, den udbyder, der ikke efterlever en forpligtelse som anført i § 41, stk. 2, nr. 3 og 4, som er pålagt udbyderen i medfør af en afgørelse truffet efter § 41, stk. 1, den, der forsætligt eller groft uagtsomt overtræder § 65, eller den forsyningspligtudbyder, der under særlige omstændigheder ikke overholder regler, vilkår og forpligtelser, som er nævnt i § 16, eller maksimalpriser fastsat i medfør af § 17, stk. 1 og 2,"
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "I regler fastsat i medfør af § 3, § 8, stk. 1, og §§ 9 og 61 og § 62, stk. 4, kan der fastsættes straf af bøde for overtrædelse af bestemmelserne i forskrifterne."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "I regler fastsat i medfør af §§ 14 og 15 kan der fastsættes straf af bøde for den forsyningspligtudbyder, der i gentagne eller grovere tilfælde overtræder regler, vilkår og forpligtelser i forskriften."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Ved udmåling af straf efter stk. 1, nr. 3, skal der ved fastsættelse af bødens størrelse ud over de almindelige regler i straffelovens kapitel 10 tages hensyn til den juridiske persons omsætning det seneste år forud for domsafsigelsen eller udstedelsen af et bødeforlæg."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 36",
+      "title": "Ikrafttræden og overgangsordning",
+      "paragraphs": [
+        {
+          "paragraph": "§ 82.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Loven træder i kraft den 25. maj 2011."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Lov om konkurrence- og forbrugerforhold på telemarkedet, jf. lovbekendtgørelse nr. 780 af 28. juni 2007, ophæves."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Administrative forskrifter og afgørelser, herunder markedsundersøgelser, og beskikkelser, der er udstedt, truffet eller opretholdt efter lov om konkurrence- og forbrugerforhold på telemarkedet, jf. lovbekendtgørelse nr. 780 af 28. juni 2007, eller regler udstedt i medfør heraf, opretholdes, indtil de bortfalder efter deres indhold eller ophæves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 37",
+      "title": "Gyldighed for Færøerne og Grønland",
+      "paragraphs": [
+        {
+          "paragraph": "§ 83.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Loven gælder ikke for Færøerne og Grønland."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "(Ophævet)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "2025_813",
+  "title": "Bekendtgørelse om Uddannelses- og Forskningsstyrelsens anvendelse af kunstig intelligens eller lignende digitale løsninger til at understøtte sagsbehandling efter SU-loven",
+  "year": "2025",
+  "number": "813",
+  "status": "Valid",
+  "ministry": "Uddannelses- og Forskningsministeriet",
+  "date_published": "2025-06-25",
+  "signatures": [
+    "Mikkel Leihardt",
+    "Pernille Ann Kjersgaard"
+  ],
+  "concerns": [
+    "Bekendtgørelse af lov om statens uddannelsesstøtte (SU-loven)"
+  ],
+  "structured_text": [
+    {
+      "chapter": "Kapitel 1",
+      "title": "Anvendelsesområde m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Uddannelses- og Forskningsstyrelsen (styrelsen) kan efter bestemmelserne i denne bekendtgørelse anvende kunstig intelligens eller lignende digitale løsninger til behandling af personoplysninger indgivet i forbindelse med ansøgninger eller anden behandling af oplysninger vedrørende statens uddannelsesstøtte, når det er nødvendigt af hensyn til at understøtte styrelsens sagsbehandling."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Behandling af oplysninger efter denne bekendtgørelse har til formål at optimere sagsbehandlingsprocesser i styrelsen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Styrelsen er dataansvarlig myndighed for den behandling af personoplysninger, der sker ved hjælp af kunstig intelligens eller lignende digitale løsninger efter denne bekendtgørelse og er herunder ansvarlig for sikring af de registreredes rettigheder."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Styrelsen kan behandle følgende typer af personoplysninger ved anvendelse af kunstig intelligens eller lignende digitale løsninger i medfør af denne bekendtgørelse: Navne-, adresse- og kontaktoplysninger. CPR-numre. Uddannelsesoplysninger. Helbredsoplysninger. Beskæftigelses- og indkomstoplysninger. Familieforhold. Statsborgerskab. Oplysninger om den uddannelsessøgendes tidligere SU-tildelinger. Oplysninger om private-, sociale- eller strafbare forhold."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 2",
+      "title": "Betingelser for anvendelse af kunstig intelligens eller lignende digitale løsninger",
+      "paragraphs": [
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Behandling af oplysninger kan foretages af styrelsen, jf. lovens § 39 a, når det er nødvendigt for styrelsens udvikling og drift af kunstig intelligens eller lignende digitale løsninger, som kan understøtte styrelsens sagsbehandling ved tildeling, beregning og tilbagebetaling af uddannelsesstøtte efter SU-loven."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Behandling kan foretages til brug for udvikling eller forbedring af metoder og modeller, som bruges i forbindelse med de i stk. 1 nævnte behandlinger."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Behandling i medfør af § 4 skal finde sted under anvendelse af passende tekniske og organisatoriske sikkerhedsforanstaltninger, således at styrelsen, jf. § 2, og eventuelle databehandlere er i stand til at opfylde deres databeskyttelsesretlige forpligtelser, herunder ved kryptering og adgangsstyring."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "De dataansvarlige myndigheder skal til enhver tid kunne påvise, at stk. 1 overholdes."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Styrelsen offentliggør på www.su.dk, i hvilke tilfælde styrelsen anvender kunstig intelligens eller lignende digitale løsninger til at understøtte sagsbehandlingen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 3",
+      "title": "Informationskilder",
+      "paragraphs": [
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Der kan behandles personoplysninger ved anvendelse af kunstig intelligens eller lignende digitale løsninger til at understøtte sagsbehandlingen fra følgende informationskilder: De registre og ESDH-systemer m.v., som styrelsen anvender ved tildeling, beregning og tilbagebetaling af uddannelsesstøtte. De registre, systemer m.v., som styrelsen indhenter oplysninger fra, jf. lovens § 39, stk. 1, ved tildeling, beregning og tilbagebetaling af uddannelsesstøtte. Offentligt tilgængelige informationskilder."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Anvendelse af oplysninger fra kilder omfattet af stk. 1 skal ske i overensstemmelse med de regler, der måtte være fastsat herom ved lov eller i henhold til lov."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 4",
+      "title": "Opbevaring og sletning af oplysninger",
+      "paragraphs": [
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Oplysninger, der behandles efter § 4, opbevares af styrelsen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Personoplysninger, der behandles ved anvendelse af kunstig intelligens eller lignende digitale løsninger til at understøtte sagsbehandlingen, opbevares så længe, det er nødvendigt af hensyn til de formål, hvortil oplysningerne behandles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 5",
+      "title": "Sikkerhedsforanstaltninger",
+      "paragraphs": [
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Styrelsen er ansvarlig for at iagttage kravet i databeskyttelsesforordningens artikel 32 om behandlingssikkerhed under hensyntagen til det aktuelle tekniske niveau, implementeringsomkostningerne og den pågældende behandlings karakter, omfang, sammenhæng og formål samt risiciene af varierende sandsynlighed og alvor for fysiske personers rettigheder og frihedsrettigheder, og skal gennemføre passende tekniske og organisatoriske foranstaltninger i den forbindelse."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Styrelsen er ansvarlig for at iagttage kravet i databeskyttelsesforordningens artikel 25 om databeskyttelse gennem standardindstillinger."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Styrelsen udarbejder risikovurderinger og gennemfører foranstaltninger for at begrænse eventuelle risici samt eventuel konsekvensanalyse."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Styrelsen skal kunne påvise, at styrelsens behandling af oplysningerne er i overensstemmelse med databeskyttelsesforordningen, jf. databeskyttelsesforordningens artikel 24, stk. 1."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Styrelsen reviderer periodisk de løsninger, som styrelsen implementerer efter denne bekendtgørelse, jf. databeskyttelsesforordningens artikel 23, stk. 2, litra d."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 6",
+      "title": "Ikrafttræden m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 1. juli 2025."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

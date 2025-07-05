@@ -1,109 +1,150 @@
-#!/usr/bin/env python3
-"""
-Smolagents-based RAG Agent for Danish Law
-"""
 import os
-# Avoid threading issues
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["OMP_NUM_THREADS"] = "1"
 os.environ["MKL_NUM_THREADS"] = "1"
 
 import huggingface_hub
-# Patch for sentence-transformers compatibility
-if not hasattr(huggingface_hub, 'cached_download'):
+if not hasattr(huggingface_hub, "cached_download"):
     huggingface_hub.cached_download = huggingface_hub.hf_hub_download
 
-import glob
+
 import json
-import yaml
-import faiss
+import glob
+import argparse
+from typing import List, Dict, Tuple
+
 import numpy as np
-from sentence_transformers import SentenceTransformer, CrossEncoder
-from transformers import pipeline, AutoModelForSeq2SeqLM, AutoTokenizer
-from smolagents import CodeAgent, Tool, InferenceClientModel
+import faiss
+from tqdm import tqdm
+from sentence_transformers import SentenceTransformer
+import sys
 
-# Load config
-with open("config.yaml") as f:
-    cfg = yaml.safe_load(f)
+# ─── CONFIG ────────────────────────────────────────────────────────────────────
+EMBED_MODEL_NAME = "all-MiniLM-L6-v2"
+CHUNK_SIZE        = 800        # characters per chunk
+CHUNK_OVERLAP     = 200        # characters overlap
+BATCH_SIZE        = 32         # how many chunks to embed at once
 
-# Load vector index and metadata
-INDEX = faiss.read_index(cfg['index_path'])
-with open(cfg['meta_path'], encoding='utf8') as f:
-    META = json.load(f)
+# ─── GLOBAL MODEL PLACEHOLDER ─────────────────────────────────────────────────
+MODEL = None
 
-# Initialize models
-EMBEDDER = SentenceTransformer(cfg['embed_model'])
-CROSS_ENCODER = CrossEncoder(cfg['cross_encoder_model'])
-TOKENIZER = AutoTokenizer.from_pretrained(cfg['gen_model'])
-GEN_MODEL = AutoModelForSeq2SeqLM.from_pretrained(cfg['gen_model'])
-GEN_PIPE = pipeline("text2text-generation", model=GEN_MODEL, tokenizer=TOKENIZER)
+# ─── UTILITIES ────────────────────────────────────────────────────────────────
 
-# Load full JSON docs
-LAW_DOCS = {}
-for path in glob.glob(os.path.join(cfg['out_dir'], '*.json')):
-    with open(path, encoding='utf8') as f:
-        doc = json.load(f)
-    LAW_DOCS[doc['id']] = doc
+def chunk_text(text: str,
+               chunk_size: int = CHUNK_SIZE,
+               overlap: int = CHUNK_OVERLAP
+              ) -> List[Tuple[str,int]]:
+    """
+    Split 'text' into overlapping chunks of up to chunk_size chars.
+    Returns list of (chunk_text, start_char_index).
+    """
+    chunks = []
+    start = 0
+    length = len(text)
+    while start < length:
+        end = min(start + chunk_size, length)
+        chunks.append((text[start:end], start))
+        start += (chunk_size - overlap)
+    return chunks
 
-# Helper function to retrieve chunk text
-def load_chunk_text(hit: dict) -> str:
-    law = LAW_DOCS.get(hit['law_id'], {})
-    for chap in law.get('structured_text', []):
-        for para in chap.get('paragraphs', []):
-            if para.get('paragraph') == hit['paragraph']:
-                for sec in para.get('sections', []):
-                    if sec.get('section') == hit['section']:
-                        start = hit.get('char_offset', 0)
-                        text = sec.get('text', '')
-                        return text[start:start + cfg['chunk_size']]
-    return ''
 
-# Single RAG tool
-class RAGTool(Tool):
-    name = "rag_tool"
-    description = "Retrieve, rerank, and generate answers from Danish law corpus."
-    # Define inputs as a dict: parameter name to description/type
-    inputs = {
-        "query": "The user's legal question",
-        "top_k": "Optional[int] initial number of chunks to retrieve",
-        "rerank_k": "Optional[int] number of chunks to rerank"
-    }
+def load_documents(data_dir: str) -> List[Dict]:
+    """
+    Read all JSON files in data_dir and flatten into units:
+    each with 'text' and metadata (law_id, chapter, paragraph, section).
+    """
+    units = []
+    for path in glob.glob(os.path.join(data_dir, "*.json")):
+        data = json.load(open(path, encoding="utf8"))
+        law_id = data.get("id")
+        for chap in data.get("structured_text", []):
+            chap_num = chap.get("chapter", "")
+            for para in chap.get("paragraphs", []):
+                para_num = para.get("paragraph", "")
+                for sec in para.get("sections", []):
+                    sec_num = sec.get("section", "")
+                    text = sec.get("text", "").strip()
+                    if not text:
+                        continue
+                    units.append({
+                        "law_id": law_id,
+                        "chapter": chap_num,
+                        "paragraph": para_num,
+                        "section": sec_num,
+                        "text": text
+                    })
+    return units
 
-    def run(self, query: str, top_k: int = None, rerank_k: int = None):
-        top_k = top_k or cfg['initial_top_k']
-        rerank_k = rerank_k or cfg['rerank_top_k']
 
-        # Retrieve
-        vec = np.array(EMBEDDER.encode([query]), dtype='float32')
-        dists, idxs = INDEX.search(vec, top_k)
-        hits = [{**META[idx], 'distance': float(d)} for d, idx in zip(dists[0], idxs[0])]
+def embed_batch(texts: List[str]) -> List[List[float]]:
+    """
+    Embed a batch of texts via all-MiniLM-L6-v2.
+    Returns a list of embeddings.
+    """
+    global MODEL
+    # MODEL should be initialized before calling
+    embs = MODEL.encode(texts, batch_size=len(texts), show_progress_bar=False)
+    return embs.tolist()
 
-        # Rerank
-        texts = [load_chunk_text(h) for h in hits]
-        scores = CROSS_ENCODER.predict([[query, t] for t in texts])
-        top_hits = [h for h, _ in sorted(zip(hits, scores), key=lambda x: x[1], reverse=True)[:rerank_k]]
+# ─── MAIN INGEST ──────────────────────────────────────────────────────────────
 
-        # Generate
-        context = "\n\n".join(
-            f"[Law {h['law_id']} §{h['paragraph']} stk.{h['section']}] {load_chunk_text(h)}"
-            for h in top_hits
-        )
-        prompt = (
-            "You are a Danish legal assistant. Answer concisely using the provided excerpts and cite sections.\n\n"
-            f"Context:\n{context}\n\nQuestion: {query}\nAnswer:"
-        )
-        answer = GEN_PIPE(prompt, max_length=512, do_sample=False)[0]['generated_text'].strip()
-        return {"answer": answer, "citations": top_hits}
+def main():
+    global MODEL
+    parser = argparse.ArgumentParser(
+        description="Chunk & embed Danish laws into a FAISS index"
+    )
+    parser.add_argument("--data-dir", "-d", default="laws_json",
+                        help="Directory containing law JSON files")
+    parser.add_argument("--index-path", "-i", default="laws_mini.faiss",
+                        help="Output path for FAISS index")
+    parser.add_argument("--meta-path", "-m", default="laws_mini_meta.json",
+                        help="Output path for chunk metadata JSON")
+    args = parser.parse_args()
 
-# Build and run CodeAgent
-agent = CodeAgent(
-    tools=[RAGTool()],
-    model=InferenceClientModel()
-)
+    # Initialize model locally to avoid threading issues
+    print(f"Loading embedder model: {EMBED_MODEL_NAME}...")
+    MODEL = SentenceTransformer(EMBED_MODEL_NAME)
 
-# Synchronous invocation of the agent (no HTTP)
+    print(f"Loading documents from {args.data_dir}…")
+    units = load_documents(args.data_dir)
+    print(f"  → {len(units):,} sections loaded")
+
+    chunks   = []
+    all_meta = []
+    for u in units:
+        for text_chunk, offset in chunk_text(u["text"]):
+            chunks.append(text_chunk)
+            all_meta.append({
+                "law_id":      u["law_id"],
+                "chapter":     u["chapter"],
+                "paragraph":   u["paragraph"],
+                "section":     u["section"],
+                "char_offset": offset
+            })
+
+    total = len(chunks)
+    print(f"Total chunks: {total:,}")
+
+    all_embeddings = []
+    for i in tqdm(range(0, total, BATCH_SIZE), desc="Embedding batches"):
+        batch_texts = chunks[i:i+BATCH_SIZE]
+        batch_embs  = embed_batch(batch_texts)
+        all_embeddings.extend(batch_embs)
+
+    mat = np.array(all_embeddings, dtype="float32")
+    dim = mat.shape[1]
+    print(f"Embedding matrix shape: {mat.shape} (dim={dim})")
+
+    index = faiss.IndexFlatL2(dim)
+    index.add(mat)
+    faiss.write_index(index, args.index_path)
+    print(f"FAISS index written to {args.index_path}")
+
+    with open(args.meta_path, "w", encoding="utf8") as f:
+        json.dump(all_meta, f, ensure_ascii=False, indent=2)
+    print(f"Metadata JSON written to {args.meta_path}")
+
+    # Explicitly exit to bypass potential threading teardown issues
+    sys.exit(0)
+
 if __name__ == "__main__":
-    query_text = "Hvad siger § 1 i Retsplejeloven?"
-    # Call agent.run with keyword args (not passing a dict)
-    result = agent.run(query=query_text, top_k=5, rerank_k=3)
-    print(result)
+    main()

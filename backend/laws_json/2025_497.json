@@ -1,0 +1,1186 @@
+{
+  "id": "2025_497",
+  "title": "Bekendtgørelse om systemansvarlig virksomhed og anvendelse af eltransmissionsnettet m.v.",
+  "year": "2025",
+  "number": "497",
+  "status": "Valid",
+  "ministry": "Klima-, Energi- og Forsyningsministeriet",
+  "date_published": "2025-05-19",
+  "signatures": [
+    "Lars Aagaard",
+    "Stine Leth Rasmussen"
+  ],
+  "concerns": [
+    "Bekendtgørelse af lov om Energinet",
+    "Bekendtgørelse af lov om elforsyning",
+    "Bekendtgørelse af lov om fremme af vedvarende energi"
+  ],
+  "structured_text": [
+    {
+      "chapter": "Kapitel 1",
+      "title": "Generelle bestemmelser",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen finder anvendelse på den systemansvarlige virksomhed Energinet, transmissionsvirksomheder og brugere af transmissionsnettet m.v."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal videregive oplysninger til udenlandske systemansvarlige virksomheder i det omfang, det er nødvendigt for samarbejdet mellem de systemansvarlige virksomheder eller varetagelsen af den modtagende systemansvarlige virksomheds opgaver."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Pligten til at videregive oplysninger, som nævnt i stk. 1, gælder kun i det omfang, den modtagende virksomhed er underlagt tilsvarende regler om videregivelse af oplysninger."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Transmissionsvirksomhederne samt brugere af transmissionsnettet skal videregive oplysninger til Energinet i det omfang, det er nødvendigt for Energinets udarbejdelse af forskrifter og planlægning, jf. kapitel 3, 4 og 5, samt Energinets pligt til at offentliggøre informationer, jf. § 3."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Pligten til at videregive oplysninger, som nævnt i stk. 1 og 3, gælder ikke i det omfang, at forholdet er reguleret ved bestemmelser indeholdt i eller udstedt i medfør af Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal offentliggøre informationer inden for virksomhedens ansvarsområde, der kan have betydning for prisdannelsen på elmarkedet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "De i stk. 1 nævnte informationer skal være tilgængelige for alle brugere og potentielle brugere af det kollektive elforsyningsnet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Stk. 1 og 2 finder ikke anvendelse på informationer, der kan have betydning for prisdannelsen på elmarkedet, som reguleres ved bestemmelser indeholdt i eller udstedt i medfør af Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "I denne bekendtgørelse forstås ved: Afbrudsminutter: Antal minutter pr. år en forbruger eller en gruppe af forbrugere i gennemsnit ikke har adgang til eller forventes ikke at have adgang til elektricitet. Balancering: Balancering som defineret i artikel 2, nr. 10, i Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet. Day-ahead-marked for elektricitet: Marked, hvor der dagen før driftsdøgnet handles elektricitet for det kommende driftsdøgn, og hvor priserne fastsættes i de relevante geografiske budområder i den af markedet givne tidsenhed for den fysiske udveksling af elektricitet. DK1: Elprisområdet Vestdanmark (Jylland-Fyn m.v.). DK2: Elprisområdet Østdanmark (Sjælland, Lolland, Falster, Bornholm m.v.). Effektminutter: Ikke-leveret elektricitet (beregnet fremadrettet som EUE) divideret med områdets elforbrug ganget med antal minutter i et år for den del, der vedrører produktionssystemet og eksterne forbindelser mellem elprisområder. Effekttilstrækkelighed: Sandsynlighed for, at der er effekt nok til rådighed i et område (DK1, DK2 eller andre prisområder), under hensyntagen til elproduktion, eksterne elforbindelser og fleksibelt elforbrug. Elektricitetsmarkeder: Markeder for elektricitet, herunder over the counter-markeder og elektricitetsbørser, markeder for handel med energi, kapacitet, balancering og systemydelser i alle tidsrammer, herunder forward-, day-ahead- og intradaymarkeder. Elforsyningssikkerhed: Sandsynlighed for, at der er elektricitet til rådighed for forbrugerne, når den efterspørges, jf. § 5, stk. 1, nr. 6, i lov om elforsyning. Energilageraktiviteter: Ejerskab, udvikling, forvaltning eller drift af energilageranlæg. Energilageranlæg: I elektricitetssystemet, et anlæg, hvor der sker energilagring, jf. § 5, nr. 14, i lov om elforsyning. Energilagring: I elektricitetssystemet, udsættelse af den endelige anvendelse af elektricitet til et senere tidspunkt end det, hvor den blev produceret, eller konvertering af elektrisk energi til en energiform, der kan lagres, lagringen af sådan energi og den efterfølgende rekonvertering af sådan energi til elektrisk energi eller anvendelse som anden energibærer, jf. § 5, nr. 15, i lov om elforsyning. Expected Energy Not Served (EENS): Beregnet forventet mængde af elektricitet, der ikke kan leveres, fordi produktionskapaciteten til rådighed i et område inklusive muligheden for import er mindre end elforbruget i området. EENS beregnes på timebasis og summeres på årsbasis. EENS inddrager prisfleksibelt elforbrug i den udstrækning, det er til rådighed. Expected Unserved Energy (EUE): EENS korrigeret for kontrollerede, præventive elafbrydelser (brownouts) samt ukontrollerede elafbrydelser (blackouts). Fuldt integrerede netkomponenter: Netkomponenter, der er integreret i et transmissionsnet, herunder energilageranlæg, og som udelukkende anvendes til at sikre sikker og pålidelig drift af transmissionsnettet eller det sammenhængende elforsyningssystem og ikke til balancering eller håndtering af kapacitetsbegrænsninger, jf. § 5, nr. 17, i lov om elforsyning. Ikkefrekvensrelateret systembærende ydelse: Ydelse, der anvendes af Energinet til spændingsregulering i statisk tilstand, hurtig tilførsel af reaktiv strøm, inerti for stabilitet i lokale net, kortslutningsstrøm, dødstartskapacitet og ødriftkapacitet, jf. § 5, nr. 19, i lov om elforsyning. Kapacitetsbegrænsninger: Kapacitetsbegrænsninger som defineret i artikel 2, nr. 4, i Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet. Kontrol: Rettigheder, aftaler eller andre midler, som enkeltvis eller tilsammen, under hensyn til alle faktiske og retlige forhold, giver mulighed for udøvelse af afgørende indflydelse på en virksomheds drift, særlig ved ejerskab eller brugsret til virksomhedens samlede aktiver eller dele deraf, eller ved rettigheder eller aftaler, som sikrer afgørende indflydelse på sammensætningen af virksomhedens organer og deres afstemninger eller beslutninger. Der kan være tale om ene- eller fælleskontrol som beskrevet i Europa-Kommissions konsoliderede meddelelse om jurisdiktion efter Rådets forordning om kontrol med fusioner og virksomhedsovertagelser. Loss Of Load Expectation (LOLE): Den forventede hyppighed af situationer, hvor produktionskapaciteten til rådighed i et område inklusive muligheden for import er mindre end elforbruget i området. Markedsdeltager: En fysisk eller juridisk person, der køber, sælger eller producerer elektricitet, der udfører aggregering, eller der er en operatør af tjenester vedrørende fleksibelt elforbrug eller energilagringstjenester, herunder ved afgivelse af handelsordrer, på et eller flere elektricitetsmarkeder, herunder på balanceringsenergimarkeder, jf. artikel 2, stk. 1, nr. 25, i Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet. Stokastisk model: En model der ved brug af stokastiske udfald af kraftværker, kraftvarmeværker, ledninger, transformere m.v. samt timeserier for produktion af elektricitet fra vedvarende energikilder samt elforbrug, varmebundet elektricitet m.v. simulerer EENS og/eller EUE, LOLE samt effektminutter. Systemydelse: En ydelse, der er nødvendig for driften af et transmissions- eller distributionssystem, herunder balancering og ikkefrekvensrelaterede systembærende ydelser, dog ikke håndtering af kapacitetsbegrænsninger. Value Of Lost Load (VOLL): Et overslag i EUR/MWh af den maksimale elpris, som kunder er villige til at betale for at undgå en strømafbrydelse, jf. artikel 2, stk. 1, nr. 9, i Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 2",
+      "title": "Anvendelse af transmissionsnettet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Indgåelse af aftaler om brug af transmissionsnettet, der indebærer reservation af netkapaciteten, er ikke tilladt."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Stk. 1 gælder ikke for følgende aftaler: Aftaler, der indgås i forbindelse med brugen af transmissionsforbindelser, der forbinder andre sammenhængende elforsyningssystemer, hvor der ikke er mindst samme adgang til benyttelse af det kollektive elforsyningssystem, eller hvor forskelle i reglerne for elmarkedets tilrettelæggelse mellem systemområder nødvendiggør en særlig håndtering af brugen af transmissionsnettet. Aftaler som den systemansvarlige virksomhed indgår med henblik på varetagelse af systemtjenester."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal uanset bestemmelsen i stk. 1 sikre, at der i tilfælde af netbegrænsninger gives forrang til elproduktionsanlæg efter § 27 c, stk. 1, 1. pkt., i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Indgåelse af nye aftaler om reservation af netkapaciteten efter stk. 2, nr. 1, kan kun ske efter aftale med Energinet og må højst ske for en 1-årig periode."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Aftaler om brug af transmissionsnettet, der indebærer reservation af netkapacitet, og som er indgået før den 1. juni 2002, kan ikke håndhæves efter denne bekendtgørelse."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Stk. 1 og 2 finder ikke anvendelse på aftaler om brug af transmissionsnettet, der indebærer reservation af netkapaciteten, som indgås efter bestemmelser indeholdt i eller udstedt i medfør af Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Parter som, i medfør af § 5, stk. 2, har reserveret netkapacitet, skal medvirke til, at netkapaciteten udnyttes fuldt ud."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Parter i aftaler som nævnt i stk. 1, samt brugere af det kollektive elforsyningsnet, skal efter Kommissionens forordning om fastsættelse af retningslinjer for drift af elektricitetstransmissionssystemer anmelde planer for udnyttelse af netkapaciteten til Energinet, således at Energinet efterfølgende har mulighed for at tilbyde uudnyttet og ledig kapacitet til anden side, eksempelvis via elbørs-, elspot- og regulerkraftmarkeder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 3",
+      "title": "Forskrifter",
+      "paragraphs": [
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal efter drøftelse med net- og transmissionsvirksomheder udarbejde forskrifter for benyttelsen af det kollektive elforsyningsnet, som er nødvendige for, at Energinet kan varetage sine opgaver. Forskrifterne skal indeholde følgende: Tekniske forskrifter for tilslutning af elproduktionsanlæg til det kollektive elforsyningsnet. Tekniske forskrifter for tilslutning af elforbrugsanlæg til transmissionsnettet. Forskrifter for adgang til og benyttelse af det kollektive elforsyningsnet. Forskrifter for aktørernes forpligtelser, som sætter Energinet i stand til at opretholde den tekniske kvalitet og balance inden for det sammenhængende elforsyningsnet m.v."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "De forskrifter, som Energinet fastsætter i medfør af stk. 1, skal være objektive, ikkediskriminerende og tage rimelig hensyn til de enkelte kategorier af aktørernes tekniske formåen. Forskrifterne skal være offentligt tilgængelige i overensstemmelse med § 59. Historiske forskrifter skal på tilsvarende måde være offentligt tilgængelige. Forskrifterne skal anmeldes til Forsyningstilsynet. Markedsforskrifter, jf. stk. 1, nr. 3 og 4, skal metodegodkendes af Forsyningstilsynet i overensstemmelse med § 73 a i lov om elforsyning. Tekniske forskrifter, jf. stk. 1, nr. 1 og 2, skal ikke metodegodkendes."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Forsyningstilsynet fører tilsyn med, at forskrifter, som Energinet fastsætter efter stk. 1, er i overensstemmelse med kravene til forskrifter som anført i stk. 2. Forsyningstilsynet kan give pålæg om ændring af forskrifterne."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Klager over Energinets afgørelser i medfør af forskrifter omfattet af stk. 1 kan indbringes for Forsyningstilsynet."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Stk. 1 finder alene anvendelse på forhold, der ikke reguleres ved bestemmelser indeholdt i eller udstedt i medfør af Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal efter drøftelse med net-, transmissions- og elhandelsvirksomheder udarbejde måleforskrifter til afregnings- og systemdriftsformål, som er nødvendige for varetagelsen af Energinets opgaver. Måleforskrifterne skal indeholde krav til net- og transmissionsvirksomhedernes målinger af forbrug, produktion og eludveksling, herunder krav til: omfanget af de målinger, som selskaberne skal foretage, herunder i hvilken grad elforbrug skal måles, nøjagtigheden af de enkelte målinger, og formidlingen af målinger til berørte parter, herunder inden for hvilke tidsfrister målingerne skal videreformidles."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "De forskrifter, som Energinet fastsætter i medfør af stk. 1, skal være objektive og ikkediskriminerende. Forskrifterne skal være offentligt tilgængelige i overensstemmelse med § 59. Historiske forskrifter skal på tilsvarende måde være offentligt tilgængelige. Forskrifterne skal anmeldes til Forsyningstilsynet og metodegodkendes af Forsyningstilsynet i overensstemmelse med § 73 a i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Forsyningstilsynet fører tilsyn med, at forskrifter, som Energinet fastsætter efter stk. 1, er i overensstemmelse med kravene til forskrifter som anført i stk. 2. Forsyningstilsynet kan give pålæg om ændring af forskrifterne."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Klager over Energinets afgørelser i medfør af forskrifter omfattet af stk. 1 kan indbringes for Forsyningstilsynet."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Stk. 1 finder alene anvendelse på forhold, der ikke reguleres ved bestemmelser indeholdt i eller udstedt i medfør af Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 4",
+      "title": "Energinets kriterier for driftssikkerhed i elforsyningssystemet m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal udarbejde kriterier for opretholdelsen af en rimelig grad af driftssikkerhed i transmissionsnet, som virksomheden ejer, herunder: kriterier for en passende transmissionsreservekapacitet, og kriterier for, under hvilken grad af forudsigelige omstændigheder driftssikkerheden skal kunne opretholdes."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet skal udarbejde kriterier, som indeholder resultatmål for kvaliteten af transport af elektricitet med tilhørende ydelser og for driftssikkerheden i transmissionsnet, som virksomheden ejer. Kriterierne skal være objektive, ikkediskriminerende og gennemsigtige og udarbejdes på grundlag af virksomhedens kriterier for driftssikkerhed som nævnt i stk. 1."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet udarbejder kriterier som nævnt i stk. 1 og 2 efter høring af brugere af det sammenhængende elforsyningssystem, herunder net- og transmissionsvirksomheder, systemansvarlige virksomheder i tilkoblede transmissionssystemer og Forsyningstilsynet."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Kriterierne udarbejdet efter stk. 1 og 2 må ikke være i uoverensstemmelse med Kommissionens forordning om fastsættelse af retningslinjer for drift af elektricitetstransmissionssystemer."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Kriterier som nævnt i § 9 skal godkendes af Energistyrelsen forud for deres anvendelse."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet skal redegøre for virksomhedens overholdelse af kriterierne. Redegørelsen fremsendes til Energistyrelsen og Forsyningstilsynet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet offentliggør kriterierne på sin hjemmeside og sender dem til brugere af det sammenhængende elforsyningssystem og de systemansvarlige virksomheder i tilkoblede transmissionssystemer."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Energistyrelsen kan give pålæg om ændring af kriterier i forbindelse med godkendelse eller efterfølgende, hvis hensynet til driftssikkerheden eller kvaliteten af transporten af elektricitet taler herfor."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Forsyningstilsynet overvåger, at kriterierne for driftssikkerhed overholdes. På baggrund af redegørelsen, jf. stk. 2, evaluerer Forsyningstilsynet de hidtidige præstationer for driftssikkerhed. Forsyningstilsynet kan på den baggrund give anbefalinger til Energistyrelsen om ændring af kriterierne, jf. stk. 4."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 11.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvis Energinet træffer betydelige foranstaltninger til at begrænse adgangen til det kollektive elforsyningsnet for elproduktionsanlæg, som er omfattet af § 27 c, stk. 1, 1. pkt., i lov om elforsyning, for at garantere det nationale elforsyningssystems sikkerhed og energiforsyningssikkerheden, skal Energinet indberette disse foranstaltninger til Energistyrelsen og Forsyningstilsynet. Energinet skal i forbindelse med indberetningen angive hvilke udbedrende foranstaltninger, Energinet agter at træffe for at forebygge uhensigtsmæssige begrænsninger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 5",
+      "title": "Planlægning m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 12.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal udarbejde en langsigtet udviklingsplan, som skal give et samlet overblik over den planlagte netudbygning på kort sigt og det langsigtede behov for udviklingen af eltransmissionsnettet for en 20-årig periode."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Planen efter stk. 1 skal medtage forhold for tilstødende infrastrukturtyper mv."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Planlægningen vedrørende elforsyningsnettet over 100 kV og alle udlandsforbindelser, skal foregå efter fastlagte og offentliggjorte dimensioneringskriterier. Dimensioneringskriterierne kan blandt andet omfatte en afvejning imellem samfundsøkonomi, niveau for forsyningssikkerhed, størrelse af elforbrug i berørte forsyningsområder, landskabelige hensyn, indpasning af vedvarende energi, elmarkedsfunktion, etc."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Den langsigtede udviklingsplan skal udarbejdes på grundlag af Energistyrelsens analyseforudsætninger evt. suppleret med følsomhedsberegninger som følge af mellemliggende, større ændringer i analyseforudsætningerne eller grundlaget herfor, f.eks. ændringer i produktion, forbrug, brændsels- eller elpriser."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Den langsigtede udviklingsplan skal udarbejdes hvert andet år og første gang i 2022."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 13.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den langsigtede udviklingsplan skal på baggrund af analyseforudsætninger og eventuelle følsomhedsberegninger identificere og dokumentere udviklingsbehovet i eltransmissionsnettet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den langsigtede udviklingsplan skal som minimum indeholde følgende oplysninger: En beskrivelse af de planlagte projekter m.v. Hvilke af de planlagte projekter der på kort sigt forventes at blive ansøgt om godkendelse af efter § 4, stk. 3, i lov om Energinet. En redegørelse for de hensyn, der er taget i forhold til de modtagne høringssvar, jf. § 16."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal udarbejde et tillæg til den langsigtede udviklingsplan, hvis der opstår et behov for påbegyndelse eller godkendelse af projekter efter § 4, stk. 3, i lov om Energinet, som ikke er belyst i den langsigtede udviklingsplan. Hvis der udarbejdes et tillæg til den langsigtede udviklingsplan, skal det offentliggøres og indsendes til klima-, energi- og forsyningsministeren i overensstemmelse med § 4, stk. 2, i lov om Energinet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 14.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den langsigtede udviklingsplan skal vedlægges en liste over samtlige projekter med forventede anlægstidspunkter, som Energinet planlægger at gennemføre, herunder anlægsprojekter, der ikke skal ansøges om godkendelse af efter § 4, stk. 3, i lov om Energinet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Listen efter stk. 1 skal suppleres med en generel beskrivelse af Energinets arbejde med foranstaltninger til optimering af nettab vedrørende projekter omfattet af listen, herunder vedrørende anlægsprojekter, der ikke skal ansøges om godkendelse af efter § 4, stk. 3, i lov om Energinet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal opdatere den i stk. 1 nævnte liste, hvis der opstår behov for yderligere projekter, som er belyst som mulig udvikling i den langsigtede udviklingsplan, og som skal gennemføres eller godkendes efter § 4, stk. 3, i lov om Energinet, inden en ny langsigtet udviklingsplan foreligger. Hvis listen opdateres, skal den offentliggøres og indsendes til klima-, energi- og forsyningsministeren i overensstemmelse med § 4, stk. 2, i lov om Energinet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 15.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal under udarbejdelsen af den langsigtede udviklingsplan løbende inddrage interessenter. Energinet skal involvere interessenter bredt, herunder producenter, distributionsselskaber og andre brugere af infrastrukturen. Energistyrelsen og Forsyningstilsynet skal have mulighed for at deltage som observatører."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet skal udarbejde forslag til en proces for interessentinddragelsen. Processen skal drøftes med Energistyrelsen, som kan stille krav hertil."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal i forbindelse med offentliggørelsen af den langsigtede udviklingsplan, jf. § 4, stk. 2, i lov om Energinet sende en afrapportering af den gennemførte interessentinddragelse til Energistyrelsen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 16.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal sende et udkast til den langsigtede udviklingsplan i høring via Energinets hjemmeside."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet skal offentliggøre modtagne høringssvar og indsende dem til klima-, energi- og forsyningsministeren sammen med den langsigtede udviklingsplan."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 17.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Forsyningstilsynet overvåger Energinets langsigtede udviklingsplan jf. § 4, stk. 2, i lov om Energinet, og vurderer planens forenelighed med de europæiske netudviklingsplaner, jf. artikel 30, stk. 1, litra b, i Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet, og vurderer dens forenelighed med hensynet til fremme af et indre europæisk marked for elektricitet. Denne vurdering kan omfatte anbefalinger til ændringer af Energinets langsigtede udviklingsplan."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Forsyningstilsynet overvåger Energinets konkrete tiltag i medfør af § 27 a, stk. 1, i lov om elforsyning med henblik på at vurdere deres forenelighed med hensynet til fremme af et indre europæisk marked for elektricitet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Forsyningstilsynet overvåger Energinets samarbejde med tredjelandes transmissionssystemoperatører på baggrund af Energinets redegørelser, jf. § 19, stk. 2."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Forsyningstilsynet overvåger de af Energinet pålagte foranstaltninger, jf. § 19, stk. 4, med henblik på at vurdere deres forenelighed med hensynet til fremme af et indre marked for elektricitet i Unionen (EU)."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "På baggrund af sine vurderinger, jf. stk. 1-4 kan Forsyningstilsynet komme med henstillinger til Energinet med henblik på at fremme konkurrencen og undgå negative konsekvenser for samhandelen i Unionen (EU)."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 18.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet redegør årligt for deres sammenhængende og helhedsorienterede planlægning på tværs af relevante sektorer, herunder eksempelvis i forhold til markedsforhold, netbehov og forsyningssikkerhed."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energistyrelsen og Energinet drøfter hvert år det nærmere indhold i redegørelsen efter stk. 1. Energistyrelsen kan stille krav til redegørelsens indhold."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 19.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet redegør årligt for væsentlige konkrete tiltag i medfør af § 27 a, stk. 1, i lov om elforsyning vedrørende opretholdelse af det fastsatte niveau for elforsyningssikkerhed, herunder opretholdelsen af den tekniske kvalitet og balance inden for det sammenhængende elforsyningssystem og tilstedeværelsen af en tilstrækkelig produktionskapacitet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet redegør ligeledes årligt for sit samarbejde med tredjelandes transmissionssystemoperatører, jf. § 28, stk. 2, nr. 3, i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Redegørelserne efter stk. 1 og 2 sendes til Forsyningstilsynet."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Når Energinet har gennemført konkrete foranstaltninger på elområdet for at sikre systemets integritet i en beredskabssituation i medfør af bekendtgørelse om beredskab for elsektoren, sender Energinet snarest muligt en redegørelse herfor til Forsyningstilsynet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 6",
+      "title": "Godkendelse",
+      "paragraphs": [
+        {
+          "paragraph": "§ 20.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal efter § 4, stk. 3, i lov om Energinet ansøge om godkendelse af: Anlægsprojekter, som har en væsentlig betydning for nettet på grund af etablering af nye transmissionsnet eller ændringer i bestående net og kan medføre tillæg til indtægtsrammen efter § 71, stk. 1, 2. pkt., i lov om elforsyning. Større modningsprojekter, som Energinet iværksætter til afdækning af behov for og eventuelt valg af løsning på et konstateret behov, når mulige løsninger har væsentlige elementer af funktionalitet eller kapacitet involveret og kan medføre betydelig udbygning af transmissionsnettet. Indmeldelse af projekter til EU-Kommissionens Projekter af Fælleseuropæisk Interesse (PCI-projekter)."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet skal efter § 4, stk. 3, i lov om Energinet ansøge om godkendelse af alle anlægsprojekter, som forudsætter ekspropriation."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Klima-, energi- og forsyningsministeren kan i helt særlige tilfælde bestemme, at et konkret anlægs- eller modningsprojekt skal godkendes efter § 4, stk. 3, i lov om Energinet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 21.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Forud for klima-, energi- og forsyningsministerens afgørelse skal følgende projekter forelægges et udvalg nedsat af Folketinget, jf. § 4 e, stk. 1, i lov om Energinet: Projekter vedrørende udbygning i relation til samkøringslinjer mellem lande eller prisområder. Anlægsprojekter med forventede anlægsomkostninger på mindst 1 mia. kr."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 22.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energistyrelsen kan i forbindelse med behandling af projekter om etablering af nye samkøringslinjer mellem lande eller prisområder og visse andre større investeringer indhente ekstern bistand til vurdering af projektet, elementer i projektet eller projektets business case."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 23.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ansøgning om godkendelse efter § 4, stk. 3, i lov om Energinet skal udførligt beskrive og dokumentere behovet for projekterne, samt deres løsningsalternativer og økonomi."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved større investeringer skal Energinet i ansøgning om godkendelse efter § 4, stk. 3, i lov om Energinet afdække muligheden for, at de reelle risici er afspejlet i de samfundsøkonomiske business cases, eksempelvis ved anvendelse af følsomhedsberegninger."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Ved etablering af samkøringslinjer mellem lande eller prisområder skal Energinet i ansøgning om godkendelse efter § 4, stk. 3, i lov om Energinet, angive estimerede flaskehalsindtægter som følge af etableringen samt eventuel påvirkning af flaskehalsindtægter fra andre samkøringslinjer."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 24.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal anvende digital kommunikation i forbindelse med ansøgning efter § 4, stk. 3, og § 4 a, stk. 1, i lov om Energinet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 7",
+      "title": "Forretningsplan",
+      "paragraphs": [
+        {
+          "paragraph": "§ 25.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinets forretningsplan efter § 71 a, stk. 1, i lov om elforsyning skal som minimum indeholde en beskrivelse af: Den systemansvarlige virksomheds opgaver og de aktiviteter, den systemansvarlige virksomhed udfører for at løse disse opgaver. Hvordan der kan opnås samfundsøkonomiske gevinster gennem ændringer i aktiviteterne og dermed den måde, hvorpå den systemansvarlige virksomheds opgaver løses. Konkrete aktiviteter den systemansvarlige virksomhed vil gennemføre i reguleringsperioden. Langsigtede aktiviteter den systemansvarlige virksomhed forventer at gennemføre i efterfølgende reguleringsperioder. Budget for nødvendige omkostninger i reguleringsperioden ved gennemførelse af aktiviteterne, herunder en sammenligning med den senest fastsatte omkostningsramme og en redegørelse for eventuel afvigelse fra denne. Nye aktiviteter og aktivitetsændringer, der forventes at medføre meromkostninger i forhold til den senest fastsatte omkostningsramme, skal fremgå af et bilag til forretningsplanen og være belyst med en passende detaljeringsgrad i forhold til hver aktivitets eller aktivitetsændrings udviklingsstadie, som eksempelvis nogle forventelige udviklinger, hvori nye aktiviteter og aktivitetsændringer kan rummes, og hvor væsentlige afledte konsekvenser kan udledes. Meromkostningerne skal endvidere være belyst gennem budgetforslag for nødvendige omkostninger i reguleringsperioden ved gennemførelse af hver aktivitet eller aktivitetsændring."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet skal inddrage interessenter i forbindelse med udarbejdelse af forretningsplanen. Forud herfor skal Energinet udarbejde et forslag til en proces for interessentinddragelsen, herunder om der vil ske skriftlig eller mundtlig inddragelse og om inddragelsen eksempelvis vil ske via Energinets hjemmeside, på interessentmøder, workshops, webinar, via en skriftlig høring eller lignende. Processen skal drøftes med Energistyrelsen, som kan stille krav hertil."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal senest 3 måneder forud for hver reguleringsperiode offentliggøre sin forretningsplan efter § 71 a, stk. 1, i lov om elforsyning, via Energinets hjemmeside og samtidig indsende forretningsplanen til klima-, energi- og forsyningsministeren til orientering, jf. § 71 a, stk. 2, i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Ved indsendelse af forretningsplanen til ministeren efter § 71 a, stk. 2, i lov om elforsyning skal det angives, hvordan der er sket offentlig inddragelse i forbindelse med udarbejdelse af forretningsplanen, samt hvilke forhold, der er blevet drøftet og kommenteret på i forbindelse med inddragelse af offentligheden."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Energinet kan i forbindelse med tilsyn efter § 51, stk. 1, i lov om elforsyning, indhente klima-, energi- og forsyningsministerens energifaglige vurdering af nye aktiviteter og aktivitetsændringer, der er beskrevet i forretningsplanen, og som forventes at medføre meromkostninger, jf. § 71 a, stk. 3, i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Energinet kan offentliggøre en revideret forretningsplan og samtidigt indsende denne til klima-, energi- og forsyningsministeren, såfremt der i reguleringsperioden sker væsentlige ændringer i grundlaget for forretningsplanen, herunder ændringer i hvordan der kan opnås samfundsøkonomiske gevinster gennem ændringer i den måde, hvorpå systemansvarlig virksomheds opgaver løses. Væsentlige ændringer kan både være i forhold til aktiviteters forventede meromkostninger og omfang eller ændret behovsvurdering. Der skal i forbindelse med Energinets udarbejdelse af en revideret forretningsplan ske inddragelse af offentligheden efter den i stk. 3 nævnte proces."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 8",
+      "title": "Miljøberetninger",
+      "paragraphs": [
+        {
+          "paragraph": "§ 26.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal fremsende en årlig miljøberetning til Energistyrelsen. Miljøberetningen skal redegøre for udviklingen i de væsentligste miljøforhold for el- og kraftvarmeudbygningen inden for det samlede elforsyningssystem. Miljøberetningen skal derudover indeholde oversigter og prognoser på produktionsområdet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 27.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Miljøberetningen skal indeholde en status for det foregående år samt en prognose for de efterfølgende 10 år."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Miljøberetningen skal som minimum indeholde en redegørelse for elforsyningssystemets samlede udledninger af CO2, SO2 og NOx. Miljøberetningen skal så vidt muligt tillige indeholde oplysninger om de samlede udledninger af metan og lattergas, samt oplysninger om produktion og håndtering af væsentlige affaldsprodukter."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet og Energistyrelsen drøfter hvert år det nærmere indhold af miljøberetningen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 9",
+      "title": "Betaling for ydelser til opretholdelse af niveau for elforsyningssikkerhed",
+      "paragraphs": [
+        {
+          "paragraph": "§ 28.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Ved anskaffelse af energi og andre ydelser til opretholdelse af det fastsatte niveau for elforsyningssikkerhed, anvender Energinet markedsbaserede metoder, jf. § 27 a, stk. 2, 1. pkt., i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Kravet i stk. 1 om anskaffelse af energi og andre ydelser via markedsbaserede metoder, finder ikke anvendelse på: ydelser der dækkes via fuldt integrerede netkomponenter, på ikkefrekvensrelaterede systembærende ydelser, hvis Forsyningstilsynet har meddelt fritagelse herfra, jf. § 29, eller på andre ydelser, som ikke er mulige at markedsgøre, og som ikke er ikkefrekvensrelaterede systembærende ydelser eller balanceringsydelser."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinets anskaffelse af energi og andre ydelser skal svare til behovet angivet i en begrundet behovsvurdering udarbejdet i medfør af § 30."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Energinet skal sikre en omkostningseffektiv tilvejebringelse af ydelser på lang sigt ved i videst mulig omfang at skabe rammer for transparente, ikke-diskriminerende og teknologineutrale markeder."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 29.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Forsyningstilsynet træffer afgørelse om, hvorvidt ikkefrekvensrelaterede systembærende ydelser kan undtages fra kravet om anvendelse af markedsbaserede metoder i § 28, stk. 1."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ikkefrekvensrelaterede systembærende ydelser kan undtages efter stk. 1, hvis Forsyningstilsynet vurderer, at en markedsbaseret anskaffelse af pågældende ydelse ikke er omkostningseffektiv."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Forsyningstilsynet træffer afgørelse på baggrund af en begrundet ansøgning fra Energinet, som påviser, at en markedsbaseret anskaffelse af pågældende ydelse ikke vil være omkostningseffektiv."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 30.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal udarbejde en begrundet behovsvurdering for det kommende kalenderår. Behovsvurderingen skal: indeholde det samlede forventede behov for energi og andre ydelser til opretholdelse af det fastsatte niveau for elforsyningssikkerhed, som dækkes af systemtariffen, angive behovet i MW eller anden fysisk enhed for hver enkelt ydelse, angive behovet for en nærmere bestemt tidsperiode og geografisk område, angive en definition af de tekniske krav for leveringen af de efterspurgte ydelser, og omfatte behov, der kan dækkes af Energinets egne anlæg."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "I tilfælde af, at det ikke er muligt at angive behovet i MW eller anden fysisk enhed for det kommende kalenderår, skal Energinet angive objektive og transparente kriterier, som ligger til grund for deres behov."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Behovsvurderingen skal offentliggøres senest 1. november hvert år."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Ved øgede behov som følge af uforudsete hændelser, skal Energinet hurtigst muligt opdatere behovsvurderingen."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Den seneste behovsvurdering skal være offentligt tilgængelig på Energinets hjemmeside."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 31.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet gennemfører en proces der sikrer, at virksomheder, der ønsker at levere en efterspurgt ydelse, opfylder de fastsatte krav for levering af ydelsen på leveringstidspunktet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet definerer rammer for anskaffelse af ydelser i en nærmere bestemt enhed, tidsrum og område med udgangspunkt i det samlede behov, jf. § 30."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Såfremt ingen eller kun én virksomhed kan tilbyde en efterspurgt ydelse, skal Energinet vurdere, om definitionen af rammerne for anskaffelse af ydelsen, jf. stk. 2, eller de fastsatte krav, jf. stk. 1, kan ændres, med henblik på at flere virksomheder kan tilbyde den efterspurgte ydelse i overensstemmelse med § 28, stk. 4."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 32.",
+          "sections": [
+            {
+              "section": "",
+              "text": "For ikkefrekvensrelaterede systembærende ydelser, som skal anskaffes via markedsbaserede metoder, fastsætter Energinet tekniske specifikationer og, hvor det er relevant, standardiserede markedsprodukter."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Tekniske specifikationer og standardiserede markedsprodukter skal omfatte alle relevante systembrugere og netvirksomheder."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal udarbejde de tekniske specifikationer og standardiserede markedsprodukter i tæt samarbejde med netvirksomheder og under åben og gennemsigtig inddragelse af alle markedsdeltagere og brugere af det sammenhængende elforsyningsnet. Energinet skal bl.a. offentliggøre de tekniske specifikationer og standardiserede markedsprodukter på Energinets hjemmeside og foretage en offentlig høring forud for oversendelse til Forsyningstilsynet med henblik på afgørelse efter stk. 5."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Energinet skal sende de tekniske specifikationer og standardiserede markedsprodukter til Forsyningstilsynet med henblik på afgørelse efter stk. 5. Energinet skal medsende en redegørelse for, hvilke ændringer høringen har givet anledning til samt hvilke ønsker fremsat under høringen der eventuelt ikke har givet anledning til ændringer."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Forsyningstilsynet træffer afgørelse om, hvorvidt der kan meddeles godkendelse af de tekniske specifikationer og standardiserede markedsprodukter."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Når Forsyningstilsynet har meddelt godkendelse efter stk. 5, skal de tekniske specifikationer og standardiserede markedsproduktioner offentliggøres af Energinet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 33.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Når der kun er én virksomhed, der tilbyder ydelser til opretholdelse af det fastsatte niveau for elforsyningssikkerhed, anvender Energinet regulerede priser til betaling for ydelser, jf. § 27 a, stk. 2, 2. pkt., i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet udarbejder en eller flere metoder til beregning af den regulerede pris. Udgangspunktet for metoden eller metoderne er følgende: Prisen skal så vidt muligt modsvare den betaling, der ville have været opstået ved konkurrence. Prisen skal så vidt muligt tage udgangspunkt i de historiske markedspriser for en sammenlignelig ydelse og tidsperiode. Betalingen bør ikke være lavere end de dokumenterbare omkostninger ved at levere ydelsen, hvilket bør fastsættes efter cost plus-metoden, jf. § 35."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet anmelder metoden for den regulerede pris til Forsyningstilsynet til godkendelse i overensstemmelse med § 73 a i lov om elforsyning."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 34.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet yder rimelig betaling for ydelser omfattet af § 27 c, stk. 2, i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet bør fastsætte betalingen efter metoden cost plus, jf. § 35."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet udarbejder en metode til fastsættelse af betalingen. Energinet anmelder metoden til Forsyningstilsynet til godkendelse i overensstemmelse med § 73 a i lov om elforsyning."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 35.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Cost plus bør som minimum omfatte følgende dokumenterbare omkostningselementer: omkostninger til brændsel og andre opstartsrelaterede omkostninger, indtægter og omkostninger ved salg af elektricitet og varme, omkostninger til drift og vedligehold, herunder direkte henførbare personaleomkostninger og afhjælpende foranstaltninger til at holde anlægget driftsklar med de ønskede betingelser, administrations- og fællesudgifter, og afskrivninger og rimelig forrentning af investeret kapital."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Virksomheder skal på forlangende fra Energinet dokumentere omkostninger ved revisorerklæring."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 36.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal hvert kvartal sende en rapport til Energistyrelsen, som begrunder og redegør for betalingen for tiltag efter § 27 c, stk. 2, i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Rapporten skal bl.a. redegøre for: en periode som dækker de forudgående 12 måneder, betalingen for energi og andre ydelser, herunder mængde og periode, og energi og andre ydelser leveret til Energinet uden markedsbaseret indkøb, herunder mængde og periode."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 37.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal offentliggøre behovsvurderingen 1. februar 2019 for året 2019. Herefter 1. november hvert år, som angivet i § 31."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet skal sende metoden for den regulerede pris, jf. §§ 33 og 34 til Forsyningstilsynet senest 1. juni 2019."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Indtil Forsyningstilsynet første gang har godkendt metoden i §§ 32 og 34 til fastsættelse af den regulerede pris, vil betalingen efter § 27 a, stk. 2 og § 27 c, stk. 2, i lov om elforsyning, fastsættes efter princippet cost plus, efter allerede godkendte metoder herfor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 10",
+      "title": "Redegørelse om elforsyningssikkerheden",
+      "paragraphs": [
+        {
+          "paragraph": "§ 38.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal årligt udarbejde en redegørelse om elforsyningssikkerheden med anbefalinger om det fremtidige niveau herfor, jf. § 27 a, stk. 3, i lov om elforsyning."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Redegørelsen skal indeholde: en statistisk opgørelse af elforsyningssikkerheden, som minimum opgjort som antal afbrudsminutter, en vurdering af den fremtidige elforsyningssikkerhed, herunder prognoser for effekttilstrækkelighed og afbrudsminutter i distributions- og transmissionsnettet, oplysninger om eventuelle nye foranstaltninger, der er nødvendige for at opretholde det fastlagte niveau for elforsyningssikkerhed samt et estimat af omkostninger forbundet hermed, og oplysninger om omkostninger forbundet med opretholdelse af elforsyningssikkerheden, herunder oplysninger om realiserede omkostninger til indkøb af systemydelser samt håndtering af kapacitetsbegrænsninger."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal på baggrund af de i redegørelsen foretagne analyser give en begrundet anbefaling til klima-, energi- og forsyningsministeren om, hvorvidt niveauet for elforsyningssikkerheden bør ændres."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Anbefalingen skal indeholde mulige tiltag til ændring af elforsyningssikkerheden ledsaget af en vurdering af de samfundsøkonomiske omkostninger og gevinster ved de anbefalede tiltag."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 39.",
+          "sections": [
+            {
+              "section": "",
+              "text": "For den statistiske opgørelse af elforsyningssikkerheden, jf. § 36, stk. 2, nr. 1, gælder følgende: Opgørelsen skal indeholde en fejl- og afbrudsstatistik. Input til statistikken bør baseres på eksisterende fejl- og afbrudsstatistik udarbejdet af Elselskabernes Fejl- og Afbrudsstatistik eller anden anerkendt fejl- og afbrudsstatistik. Statistikken skal rapportere tæt-på-hændelser og inkludere afbrud, der skyldes effektmangel. Afbrudsstatistikken fordeles efter kategori af den udløsende hændelse, herunder antallet af afbrudsminutter forårsaget af manglende effekt, og gengives for en periode på mindst 20 år."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Redegørelsen skal omfatte eller henvise til offentliggjorte timeserier for rådigheden af alle danske udlandsforbindelser."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 40.",
+          "sections": [
+            {
+              "section": "",
+              "text": "I vurderingen af den fremtidige elforsyningssikkerhed, jf. § 36, stk. 2, nr. 2, skal Energinet beskrive og vurdere den forventede udvikling i de kommende mindst 10 år for DK1 og DK2 for: tilgængelig produktionskapacitet i Danmark og de lande, Danmark er elmæssigt forbundet med, det danske behov for energi og andre ydelser, ud over produktionskapaciteten, rådighed af dansk produktionskapacitet ved planlagte og ikke-planlagte afbrydelser på transmissionsniveau samt ved skærpet drift og nøddrift, omfanget af fleksibelt elforbrug og ellagring i Danmark, udviklingen i elforbruget i Danmark, og nominel kapacitet og udetid for ledningerne i transmissionsnettet i Danmark og på forbindelser til udlandet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 41.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Vurderingen af den fremtidige elforsyningssikkerhed, jf. § 36, stk. 2, nr. 2, skal indeholde en prognose for effekttilstrækkelighed, som skal: udarbejdes for DK1 og DK2 for mindst 10 år frem i tiden, udarbejdes for hvert år, med mindre det kan begrundes, at effekttilstrækkeligheden ikke ændrer sig væsentligt fra et år til det næste, opgøres som EENS, EUE, LOLE og effektminutter, og udarbejdes på en stokastisk model, der som minimum eksplicit modellerer DK1, DK2, samt alle lande Danmark elmæssigt er forbundet med eller bliver forbundet med, hvis relevant opdelt i elprisområder, inden for en tidshorisont på 10 år."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Områder, der ikke modelleres eksplicit, men som er forbundet til områder, der modelleres eksplicit, tildeles en begrundet sandsynlighed for ikke at kunne levere ind i det modellerede område."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal udarbejde et antal følsomhedsanalyser, som belyser konsekvenser af usikre antagelser for forudsætninger, der ligger til grund for prognosen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 42.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Vurderingen af den fremtidige elforsyningssikkerhed, jf. § 36, stk. 2, nr. 2, skal indeholde en prognose for afbrudsminutter for de enkelte netvirksomheder for den del af nettet, der ikke ejes af Energinet. Prognosen baseres i fornødent omfang på oplysninger fra netvirksomhederne, jf. § 45, stk. 5."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Prognosen, som nævnt i stk. 1, skal: udarbejdes for hver netvirksomhed mindst 10 år frem i tiden, udarbejdes for DK1 og DK2, og udarbejdes for hvert år, med mindre det kan begrundes, at antallet af afbrudsminutter ikke ændrer sig væsentligt fra et år til det næste."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Hvor det ikke er muligt at fremskaffe data for enkelte netvirksomheder, jf. stk. 2, anvender netvirksomhederne i stedet skønnede data på baggrund af data fra sammenlignelige netvirksomheder. Netvirksomhederne specificerer skønnet og begrundelse herfor i hvert tilfælde."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 43.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal udarbejde relevante alternativer til prognosen for effekttilstrækkelighed, jf. § 41, som vil medføre et ændret niveau af elforsyningssikkerhed i forhold til det af ministeren fastlagte niveau, jf. § 47, stk. 5."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Alternativerne skal beskrive den forventede ændring i elforsyningssikkerheden og en vurdering af samfundsøkonomiske omkostninger og gevinster, herunder den forventede ændring i transmissionstariffen."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Omkostningerne, jf. stk. 2, angives relativt til prognosen nævnt i § 41."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "VOLL inddrages i værdisætning af ændret elforsyningssikkerhed, inklusiv metodebeskrivelse, under hensyntagen til usikkerheden heri."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 44.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Netvirksomhederne skal til brug for Energinets redegørelse udarbejde relevante alternativer til prognosen for afbrudsminutter, jf. § 42, som vil medføre et ændret niveau for afbrydelser i forhold til prognosen, jf. § 42."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Alternativerne skal beskrive den forventede ændring i antal afbrudsminutter og en vurdering af samfundsøkonomiske omkostninger og gevinster, herunder den forventede ændring i distributionstariffen."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Omkostningerne, jf. stk. 2, angives relativt til prognosen nævnt i § 42."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "VOLL inddrages i værdisætning af ændret elforsyningssikkerhed, inkl. metodebeskrivelse, under hensyntagen til usikkerheden heri."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 45.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Det forventede antal effektminutter fra effekttilstrækkelighed, jf. § 41, tillægges det forventede antal afbrudsminutter fra øvrige elafbrydelser, foranlediget af andre hændelser eksempelvis udfald i det kollektive elnet, jf. § 42, således at et samlet estimeret niveau af afbrudsminutter kan angives."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "I opgørelsen medtages ikke elafbrydelser som følge af tilsigtede hændelser, der forudsætter, at en aktør bevidst forsøger at afstedkomme elafbrydelser."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Hvis det af Energinet og netvirksomhederne estimerede antal afbrudsminutter væsentligt overstiger det af ministeren fastlagte niveau, jf. § 47, stk. 5, peger redegørelsen på virkemidler og tilknyttede omkostninger, der kan reducere det estimerede antal minutter til det fastlagte niveau."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Hvis det af ministeren fastlagte antal afbrudsminutter væsentligt overstiger det af Energinet og netvirksomhederne estimerede, peger redegørelsen på mulige besparelser, der kan bringe det estimerede antal minutter i overensstemmelse med det fastlagte niveau."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Til brug for opgørelsen af afbrudsminutter kan Energinet indhente oplysninger fra netvirksomheder om forventede ændringer i fremtidig hyppighed af afbrydelser i den del af elnettet, som ikke ejes af Energinet."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Omkostningerne, jf. stk. 3 og 4, belyses i forhold til prognosen nævnt i §§ 41 og 42."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 46.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Oplysninger om omkostninger forbundet med opretholdelse af elforsyningssikkerheden, herunder oplysninger om realiserede omkostninger til indkøb af systemydelser samt håndtering af kapacitetsbegrænsninger, jf. § 38, stk. 2, nr. 4, skal omfatte: omkostninger og begrundelser for afvist udetid efter godkendelse af udetidsplaner jf. § 27 b, stk. 1, i lov om elforsyning, og artikel 103, stk. 7 og artikel 22, stk. 2, i Kommissionens forordning om fastsættelse af retningslinjer for drift af elektricitetstransmissionssystemer, omkostninger og begrundelser for tiltag i situationer med skærpet drift og nøddrift jf. artikel 22, stk. 2, i Kommissionens forordning om fastsættelse af retningslinjer for drift af elektricitetstransmissionssystemer, omkostninger og begrundelser for ufrivilligt afkoblet forbrug og produktion jf. artikel 22, stk. 1, litra j og stk. 2, i Kommissionens forordning om fastsættelse af retningslinjer for drift af elektricitetstransmissionssystemer, øvrige oplysninger om afhjælpende tiltag, som rapporteres efter Kommissionens forordning om fastsættelse af retningslinjer for drift af elektricitetstransmissionssystemer artikel 22, stk. 2, og oplysninger som sendes til Energistyrelsen efter § 36."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Omkostningerne opgøres så vidt muligt både samfundsøkonomisk og selskabsøkonomisk."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal rapportere om omkostningen ved det samlede indkøb af energi og andre ydelser leveret til Energinet gennem markedsbaseret indkøb."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 47.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal sende redegørelsen i § 38 i 4-ugers offentlig høring hvert år senest den 15. september."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Redegørelsen i § 38 skal sendes til klima-, energi- og forsyningsministeren hvert år senest den 15. november. Energinet offentliggør herefter redegørelsen."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet fremsender samtidig med redegørelsen en beskrivelse af samtlige anvendte forudsætninger bag den i § 41 nævnte beregning, de i § 43 belyste alternativer og en beskrivelse af den anvendte stokastiske model."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Energinet fremsender samtidig med redegørelsen en beskrivelse af samtlige anvendte forudsætninger bag bidraget til afbrudsminutter fra distributionsnettet, jf. §§ 42, 44 og 45, stk. 5."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Klima-, energi- og forsyningsministeren fastlægger på baggrund af redegørelsen det ønskede niveau for elforsyningssikkerhed, jf. § 27 a i lov om elforsyning, og meddeler dette til Energinet. Det af ministeren fastsatte niveau udmeldes senest den 15. februar hvert år. Niveauet er et planlægningsmål og udmeldes som et antal afbrudsminutter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 11",
+      "title": "Balanceansvar",
+      "paragraphs": [
+        {
+          "paragraph": "§ 48.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Alle markedsdeltagere er som udgangspunkt balanceansvarlige i overensstemmelse med artikel 5, stk. 1, i Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 49.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Fritaget fra artikel 5, stk. 1, i Europa-Parlamentets og Rådets forordning om det indre marked for elektricitet, er balanceansvaret for elproducerende anlæg, som: er tilsluttet i egen forbrugsinstallation, anvender vedvarende energikilder, har en installeret elkapacitet på mindre end 400 kW, og som ikke modtager pristillæg, som nævnt i § 52 i lov om fremme af vedvarende energi."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Fritagelsen fra balanceansvaret for anlæg omfattet af stk. 1, gælder endvidere kun for anlæg: som er sat i drift inden den 1. januar 2020, og hvor anlægsejer siden anlæggets idriftsættelse ikke på noget tidspunkt selv har varetaget balanceansvaret for sit anlæg eller ikke på noget tidspunkt har uddelegeret balanceansvaret til en balanceansvarlig aktør efter eget valg."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 50.",
+          "sections": [
+            {
+              "section": "",
+              "text": "For anlæg omfattet af fritagelsen i § 49, gælder følgende for pågældende anlæg: Energinet varetager balanceansvaret og håndterer salg af elproduktion, anlægsejer kan ikke gøre krav på indtægter for salg af elproduktion, og anlægsejer pålægges ikke omkostninger i forbindelse med Energinets varetagelse af salg og balanceansvar."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energinet kan uddelegere balanceansvaret for anlæg omfattet af denne bestemmelse."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Når en anlægsejer vælger selv at varetage balanceansvaret eller uddelegerer balanceansvaret til en balanceansvarlig aktør efter eget valg, for anlæg omfattet af § 49, vil betingelsen for fritagelsen i § 49, stk. 2, nr. 2, ikke længere være opfyldt, og balanceansvaret for pågældende anlæg kan herefter ikke fritages efter § 49."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 51.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvis anlægsejer ikke overholder kravet om balanceansvar og derfor ikke selv varetager balanceansvaret eller ikke uddelegerer balanceansvaret til en balanceansvarlig aktør efter eget valg, og hvor anlægget ikke er fritaget efter § 49, finder denne bestemmelse anvendelse. Bestemmelsen gælder for anlæg som: er tilsluttet i egen forbrugsinstallation, anvender vedvarende energikilder, har en installeret elkapacitet på mindre end 400 kW, og som ikke modtager pristillæg, som nævnt i § 52 i lov om fremme af vedvarende energi."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "For anlæg omfattet af § 51, stk. 1, nr. 1-4, gælder følgende for pågældende anlæg: Energinet varetager balanceansvaret og håndterer salg af elproduktion, anlægsejer kan ikke gøre krav på indtægter for salg af elproduktion, og anlægsejer skal betale de nødvendige rimelige omkostninger, som Energinet afholder i forbindelse med varetagelsen af balanceansvaret."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet kan uddelegere balanceansvaret for anlæg omfattet af denne bestemmelse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 12",
+      "title": "Varetagelse af energilageraktiviteter",
+      "paragraphs": [
+        {
+          "paragraph": "§ 52.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet må ikke varetage energilageraktiviteter, herunder direkte eller indirekte udøve kontrol i selskaber, der varetager energilageraktiviteter, jf. dog §§ 53 og 54."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Når Forsyningstilsynet træffer afgørelse om godkendelse efter § 53 eller § 54, skal Forsyningstilsynet meddele dette til Europa-Kommissionen og til det europæiske agentur for samarbejde mellem energireguleringsmyndigheder sammen med de relevante oplysninger om anmodningen og begrundelsen for godkendelsen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 53.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Forsyningstilsynet kan på baggrund af en ansøgning fra Energinet træffe afgørelse om godkendelse af, at Energinet kan varetage energilageraktiviteter, hvis Forsyningstilsynet vurderer, at der er tale om et energilageranlæg, som er en fuldt integreret netkomponent."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Forsyningstilsynets afgørelse om godkendelse efter stk. 1 skal betinges af, at den fuldt integrerede netkomponent til enhver tid udelukkende anvendes til at sikre sikker og pålidelig drift af transmissionsnettet og det sammenhængende elforsyningssystem og på intet tidspunkt, hverken helt eller delvist, anvendes til balancering eller håndtering af kapacitetsbegrænsninger."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "§ 54, § 55 og § 56 finder ikke anvendelse på energilageranlæg godkendt efter denne bestemmelse."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 54.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Forsyningstilsynet kan på baggrund af en begrundet ansøgning fra Energinet træffe afgørelse om godkendelse af, at Energinet kan varetage energilageraktiviteter, hvis følgende betingelser alle er opfyldt: pågældende anlæg eller ikkefrekvensrelaterede systembærende ydelse, der frembringes af pågældende anlæg, er nødvendig, for at Energinet kan opfylde sine forpligtelser med henblik på at sikre en effektiv, pålidelig og sikker drift af transmissionsnettet eller det sammenhængende elforsyningssystem, pågældende anlæg ikke anvendes til at købe eller sælge elektricitet på elektricitetsmarkeder, Energinet har gennemført et åbent, gennemsigtigt og ikkediskriminerende udbud, hvorefter ingen aktør er blevet tildelt retten til at varetage energilageraktiviteter eller er i stand til at levere sådanne ydelser rettidigt og til en rimelig pris, og udbudsproceduren, herunder udbudsbetingelserne, har været forelagt for Forsyningstilsynet, med henblik på Forsyningstilsynets vurdering heraf."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Inden Forsyningstilsynet træffer afgørelse efter stk. 1, indhenter Forsyningstilsynet en udtalelse fra Energistyrelsen til brug for vurderingen af, om betingelsen i stk. 1, nr. 1, er opfyldt. Forsyningstilsynet er ikke bundet af Energistyrelsens udtalelse."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Forsyningstilsynets afgørelse om godkendelse efter stk. 1, skal betinges af, at pågældende energilageranlæg omfattet af godkendelsen, på intet tidspunkt hverken helt eller delvist anvendes til at købe eller sælge elektricitet på elektricitetsmarkeder."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "En ansøgning efter denne bestemmelse kan indgives samtidig med en ansøgning efter § 29 om fritagelse fra kravet om anvendelse af markedsbaserede metoder i § 28 for pågældende ikkefrekvensrelaterede systembærende ydelse."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 55.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Forsyningstilsynet skal med regelmæssige mellemrum og mindst hvert femte år afholde en offentlig høring vedrørende energilageranlæg, for hvilke Energinet varetager energilageraktiviteter, med henblik på at vurdere markedsaktørernes eventuelle tilgængelighed til og interesse i at investere i sådanne anlæg."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Hvis Forsyningstilsynet på baggrund af den offentlige høring vurderer, at andre aktører er i stand til at varetage energilageraktiviteter på en omkostningseffektiv måde, pålægger Forsyningstilsynet Energinet at udfase deres energilageraktiviteter inden for 18 måneder."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Ved pålæg om udfasning af Energinets energilageraktiviteter, må Energinet ikke foretage ny- eller reinvesteringer i aktiviteterne og skal have solgt eller skrottet sine energilageranlæg, der anvendes til varetagelsen af de energilageraktiviteter, som er genstand for pålægget, senest 18 måneder efter datoen for udstedelse af pålægget."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Ved pålæg om udfasning af Energinets energilagringsaktiviteter, modtager Energinet en rimelig kompensation. Forsyningstilsynet skal i materialet om offentlig høring i medfør af stk. 1, oplyse herom, således at det fremgår, at markedsparterne ikke vil være forpligtede til at overtage Energinets energilageranlæg."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 56.",
+          "sections": [
+            {
+              "section": "",
+              "text": "§ 55 finder ikke anvendelse på den sædvanlige afskrivningsperiode for nye batterilageranlæg, for hvilke Energinet har truffet en endelig investeringsbeslutning senest den 31. december 2023, forudsat at pågældende batterilageranlæg: senest den 31. december 2025 stationært er tilsluttet transmissionsnettet, udelukkende anvendes til reaktiv øjeblikkelig genetablering af elforsyningsnettets sikkerhed i nødsituationer, hvor sådan genetableringsforanstaltning starter med det samme og slutter, når den regelmæssige omfordeling kan løse problemet, og ikke anvendes til at købe eller sælge elektricitet på elektricitetsmarkederne, herunder til balancering."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 13",
+      "title": "Data om elsystemet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 57.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal sikre, at der offentliggøres retvisende data om andelen af vedvarende energikilder og indholdet af drivhusgasemissioner i elektricitetssystemet, som minimum for hvert budområde, så nøjagtigt som muligt og i tidsintervaller svarende til markedsafregningsintervallerne, dog højst en time."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Data skal struktureres i overensstemmelse med tilgængelige fælleseuropæiske standarder."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Data skal som minimum visualiseres på en hjemmeside, og skal gøres tilgængelig via en API, der sikrer interoperabilitet baseret på harmoniserede dataformater og standardiserede datasæt, så data kan anvendes på en ikkediskriminerende måde af systembrugere. Udstilling via API skal være baseret på tilgængelige relevante fælleseuropæiske standarder."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 58.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinet skal udarbejde de nødvendige måleforskrifter i henhold til § 8, med henblik på, at Energinet kan udarbejde en anonymiseret og aggregeret opgørelse af, hvor meget el der leveres til nettet for hvert af netvirksomhedernes netområder, fra egenproducenter og lokale sammenslutninger af netbrugere i henhold til elforsyningslovens § 73, stk. 1, 4. pkt."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Når måleforskrifterne i henhold til stk. 1 er godkendt af Forsyningstilsynet i henhold til § 8, stk. 2, 3. pkt., skal Energinet foretage den nævnte opgørelse, baseret på den tilgængelige målerdata i Datahub. Energinet skal samarbejde med netvirksomhederne om at sikre, at data er retvisende."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Energinet skal udstille data for opgørelsen i henhold til stk. 2, så den er tilgængelig via en API, der sikrer interoperabilitet baseret på harmoniserede dataformater og standardiserede datasæt, så data kan anvendes på en ikkediskriminerende måde af systembrugere. Udstilling via API skal være baseret på tilgængelige relevante fælleseuropæiske standarder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 14",
+      "title": "Delegation",
+      "paragraphs": [
+        {
+          "paragraph": "§ 59.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energistyrelsen udøver på klima-, energi- og forsyningsministerens vegne de beføjelser, som ministeren tillægges i medfør af § 4, stk. 8, i lov om Energinet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Energistyrelsen udøver på klima-, energi- og forsyningsministerens vegne de beføjelser, som ministeren tillægges i medfør af § 4, stk. 3-5, i lov om Energinet, for så vidt angår udbygninger og ændringer af transmissionsnet, hvor omkostningerne vurderes at være mindre end 150 mio. kr."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 15",
+      "title": "Offentliggørelse af Energinets forskrifter",
+      "paragraphs": [
+        {
+          "paragraph": "§ 60.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Energinets forskrifter efter §§ 7 og 8 kundgøres ikke i Lovtidende men på www.energinet.dk."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Høring over forslag til Energinets forskrifter og forslag til ændringer af Energinets forskrifter offentliggøres på www.energinet.dk."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Tidligere kundgjorte ændringer af Energinets forskrifter kan tilgås via www.energinet.dk. Det skal tydeligt fremgå, at der er tale om en tidligere udgave af Energinets forskrifter eller en tidligere ændring af Energinets forskrifter."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Når Energinets forskrifter er kundgjorte, påhviler det Energinet at drage omsorg for opbevaring af de kundgjorte forskrifter i overensstemmelse med arkivloven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 16",
+      "title": "Klage og ikrafttræden",
+      "paragraphs": [
+        {
+          "paragraph": "§ 61.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Afgørelser truffet af Energistyrelsen i medfør af § 59, stk. 2, i denne bekendtgørelse kan ikke påklages til klima-, energi- og forsyningsministeren, jf. bekendtgørelse om Energistyrelsens opgaver og beføjelser. Afgørelser efter § 59, stk. 2, kan påklages til Energiklagenævnet jf. § 89 i lov om elforsyning og § 66 i lov om fremme af vedvarende energi."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 62.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 21. maj 2025."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Bekendtgørelse nr. 1358 af 24. november 2023 om systemansvarlig virksomhed og anvendelse af eltransmissionsnettet m.v. ophæves."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

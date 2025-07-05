@@ -1,0 +1,561 @@
+{
+  "id": "2025_524",
+  "title": "Bekendtgørelse om bekæmpelse af salmonella i konsumægsproducerende høns og opdræt hertil",
+  "year": "2025",
+  "number": "524",
+  "status": "Valid",
+  "ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri",
+  "date_published": "2025-05-22",
+  "signatures": [
+    "P.D.V.\\nCharlotte Vilstrup Castle",
+    "Kiki Catrine Hallind Paulsen"
+  ],
+  "concerns": [
+    "Bekendtgørelse af lov om hold af dyr",
+    "Bekendtgørelse af lov om fødevarer"
+  ],
+  "structured_text": [
+    {
+      "chapter": "Kapitel 1",
+      "title": "Område og definitioner",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Denne bekendtgørelse fastsætter bestemmelser om bekæmpelse af salmonella i konsumægsproducerende høns og opdræt hertil."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Bekendtgørelsen omfatter alle typer af salmonella undtagen Salmonella Gallinarum, Salmonella Pullorum og Salmonella Arizonae, der er omfattet af reglerne om hønsetyfus."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Bekendtgørelsen omhandler endvidere krav til laboratorieundersøgelser og indberetning af laboratoriefund."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Bekendtgørelsen finder ikke anvendelse på konsumæg, som er lovligt fremstillet og markedsført i øvrige medlemslande i Den Europæiske Union og Tyrkiet, og på produkter, der er lovligt fremstillet i EFTA-stater, der deltager i EØS-aftalen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "I denne bekendtgørelse forstås ved: Antimikrobiel resistens: Visse arter af mikroorganismers evne til at overleve eller endog udvikle sig ved tilstedeværelse af en antimikrobiel agens i en given koncentration der normalt ville være tilstrækkelig til at hæmme samme art af mikroorganismers vækst eller dræbe dem. Besætning: En eller flere flokke af høns, der er registreret på et CHR-nummer, og som anvendes til samme formål og har samme operatør. Besætningsansvarlig: Den person, der i det Centrale Husdyrbrugsregister (CHR) er registreret som ejer, hvis der ikke er registreret en bruger af besætningen. CHR-nummer: Et unikt registreringsnummer, som en ejendom er tildelt i CHR. En flok: Alt fjerkræ med samme sundhedsstatus, der holdes i samme rum eller samme indelukke, og som udgør en enkelt epidemiologisk enhed, og som anvendes til samme formål. For fjerkræ i bursystemer omfatter dette alle dyr, der er fælles om en given luftmængde. Endelig forbruger: Den endelige forbruger af en fødevare, som ikke anvender varen som led i operationer eller aktiviteter i forbindelse med en fødevarevirksomhed. Et hus: Et rum eller et indelukke, hvori en flok er opstaldet og er adskilt fra andre flokke. Et husnummer:  Et specifikt nummer, som Danske Æg tildeler hvert hus på et CHR-nummer. Foder eller foderstoffer: Alle stoffer eller produkter, herunder tilsætningsstoffer, uanset de er uforarbejdede eller helt eller delvist forarbejdede, der er bestemt til anvendelse i foder til dyr. Høns: Dyr i alle aldre og begge køn af arten Gallus gallus. Konsumægsproducerende høns: En besætning, hvorfra der sælges eller på anden måde overdrages æg til konsum, herunder til produktindustri. Mistankeprøve: Prøve, der udtages for at be- eller afkræfte tilstedeværelsen af salmonella. Officielt udpeget laboratorium: Et laboratorium, der er udpeget af Fødevarestyrelsen som et officielt laboratorium i henhold til Europa-Parlamentets og Rådets forordning (EU) 2017/625 af 15. marts 2017 om offentlig kontrol og andre officielle aktiviteter med henblik på at sikre anvendelsen af fødevare- og foderlovgivningen og reglerne for dyresundhed og dyrevelfærd, plantesundhed og plantebeskyttelsesmidler. Opdræt: Kyllinger og hønniker bestemt til konsumægsproduktion, fra de er daggamle til de overflyttes til æglægningshus eller indgår i konsumægsproduktion som konsumægsproducerende høns. Påvist salmonella: Salmonella der er isoleret og verificeret på et officielt udpeget laboratorium. Salmonella af anden type: Salmonella af anden type end Salmonella Typhimurium inklusive varianterne Salmonella 4,12:i:- og Salmonella 4,5,12:i:-, Salmonella Enteritidis, Salmonella Virchow, Salmonella Infantis og Salmonella Hadar. Smittet med salmonella: Hvis der i en prøve fra en flok er påvist Salmonella Typhimurium inklusive varianterne Salmonella 4,12:i:- og Salmonella 4,5,12: i:-, Salmonella Enteritidis, Salmonella Virchow, Salmonella Infantis eller Salmonella Hadar, eller hvis der er påvist salmonella af anden type, og mistankeprøven er positiv for samme type salmonella."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 2",
+      "title": "Registrering, identifikation og ændringer",
+      "paragraphs": [
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal anmelde en besætning til registrering, med de i bilag 1 oplistede oplysninger, til Danske Æg og hos Fødevarestyrelsen samt til CHR."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den besætningsansvarlige skal sikre, at driften af besætningen ikke påbegyndes, før registreringerne i medfør af stk. 1, er fuldført, CHR-nummeret er tildelt, og den besætningsansvarlige har fået tildelt et entydigt et- eller tocifret husnummer til hvert hus fra Danske Æg."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Den besætningsansvarlige skal sikre, at der ved indgangen til hvert hus opsættes tydelig skiltning, hvoraf CHR-nummer samt det husnummer, der er tildelt i medfør af stk. 2, nr. 3, fremgår."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal underrette Danske Æg om ændringer i de oplysninger, der er nævnt i bilag 1, og om ophør eller bortforpagtning af den konsumægsproducerende besætning. Underretningen skal ske senest 7 dage efter ændringen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 3",
+      "title": "Oprindelse, omsætning og optegnelser",
+      "paragraphs": [
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige for en opdrætsproduktion til konsumægsproduktionen skal sikre, at hønsene enten stammer fra rugerier, som er godkendt i henhold til Kommissionens delegerede forordning (EU) 2019/2035 af 28. juni 2019 om supplerende regler til Europa-Parlamentets og Rådets forordning (EU) 2016/429, kommer fra samhandel med EU-lande, er indført fra tredjelande i henhold til Europa-Parlamentets og Rådets Forordning (EU) 2016/429 af 9. marts 2016 om overførbare dyresygdomme og om ændring og ophævelse af visse retsakter på området for dyresundhed, eller stammer fra en flok, der er testet efter prøveprogrammet i bilag 3 og fundet fri for salmonella."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal sikre, at hønsene i en besætning af konsumægsproducerende høns, enten stammer fra opdræt, der er registreret i medfør af § 5, stk. 1, og at de kun har haft kontakt med sådanne opdræt, kommer fra samhandel med EU-lande, er indført fra tredjelande i henhold til Europa-Parlamentets og Rådets Forordning (EU) 2016/429 af 9. marts 2016 om overførbare dyresygdomme og om ændring og ophævelse af visse retsakter på området for dyresundhed, eller stammer fra en flok, der er testet i overensstemmelse med prøveprogrammet i bilag 3 og fundet fri for salmonella."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Kravene i stk. 1 gælder ikke for besætninger med op til 30 høns over 16 uger, jf. § 7, stk. 3."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal oplyse forbrugeren om, at hønsene i en besætning af konsumægsproducerende høns er underkastet salmonellakontrol i overensstemmelse med denne bekendtgørelse, når der leveres æg direkte til den endelige forbruger eller lokale detailvirksomheder, der leverer direkte til den endelige forbruger, jf. § 6, stk. 1, nr. 5, i bekendtgørelse om autorisation og registrering af fødevarevirksomheder m.v."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Oplysningen efter stk. 1 skal ske ved skiltning. Skiltet, der årligt tilsendes fra Danske Æg, skal anbringes synligt på det sted, hvorfra æggene sælges på bedriften."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Uanset stk. 1 og 2 kan den besætningsansvarlige for en besætning med op til 30 høns over 16 uger til en kendt aftagerkreds frit omsætte æg, som ikke er underlagt salmonellakontrol, hvis den besætningsansvarlige oplyser modtageren om, at æggene ikke er omfattet af salmonellakontrol, og ikke annoncerer eller reklamerer med salg eller anden overdragelse af æg."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den ansvarlige for et ægpakkeri med fuld autorisation skal sikre, at æg leveret til ægpakkeriet kommer fra flokke, der er undersøgt for salmonella med negativt resultat i overensstemmelse bilag 2. Det seneste analyseresultat må ikke være mere end 16 dage gammelt beregnet fra prøvens analysedato, jf. dog stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den ansvarlige for et ægpakkeri med autorisation til begrænset, lokal omsætning i henhold til § 8, stk. 1, i bekendtgørelse om autorisation og registrering af fødevarevirksomheder m.v., skal ved levering af æg fra egen besætning sikre, at flokken er undersøgt for salmonella med negativt resultat efter bilag 2. Det seneste analyseresultat må ikke være mere end 70 dage gammelt beregnet fra prøvens analysedato."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Den ansvarlige for et ægpakkeri skal sikre, at ægpakkeriet ikke modtager æg fra flokke der ikke er testet for salmonella efter reglerne i bilag 2, eller som er mistænkt for at være smittet med salmonella eller er konstateret smittet med salmonella efter reglerne i denne bekendtgørelse."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal føre optegnelser over tilgang og afgang af høns fra hver flok. Optegnelsen skal omfatte følgende: Antallet af høns, der indsættes. Dato for indsætning af daggamle kyllinger. Navn og adresse på rugeriet eller besætningen, der har leveret kyllingerne. Dato for indsætning af hønniker i stalde til ægproduktion. Angivelse af adresse og CHR/CVR-nummer på leverandøren af hønnikerne samt ejendommen, hvor disse er blevet opdrættet. Hvis konsumægproduktionen og hønnikeopdrættet foregår på samme ejendom, skal det specifikke hus eller den specifikke lokalitet, hvori hønnikerne er opdrættet, angives. Antallet af høns, der afsættes, samt navn, adresse og evt. CHR-nummer på modtageren af de pågældende høns."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den besætningsansvarlige skal ugentligt føre optegnelser over flokkens æglægningsprocent."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Den besætningsansvarlige skal føre optegnelser over hver eneste afgang af æg med antal æg, dato for levering samt navn og adresse på modtageren. Hvis der leveres æg direkte til den endelige forbruger, er det dog tilstrækkeligt at føre optegnelser over antal leverede æg samt dato for levering."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Den besætningsansvarlige sikre, at optegnelserne nævnt i stk. 1, 2 og 3, opbevares i mindst 2 år, fra hønsene er indsat i besætningen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 4",
+      "title": "Forbud mod anvendelse af antimikrobielle stoffer og salmonellavaccination",
+      "paragraphs": [
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal sikre, at der ikke anvendes antimikrobielle stoffer til forebyggelse og bekæmpelse af salmonella hos konsumægsproducerende høns og opdræt hertil."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den besætningsansvarlige skal sikre, at der ikke anvendes vaccination til forebyggelse og bekæmpelse af salmonella hos konsumægsproducerende høns og opdræt hertil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 5",
+      "title": "",
+      "paragraphs": [
+        {
+          "paragraph": "§ 11.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal sikre, at flokke af høns, der er omfattet af denne bekendtgørelse, ved opstaldning holdes adskilt fra andre dyr, herunder andre arter af fjerkræ, og enhver smittefarlig kontakt skal forhindres."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved opstaldning forstås det sted, hvor dyrene sædvanligvis opholder sig, herunder hus og hønsegård."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Krav om adskillelse efter stk. 1 gælder ikke for vogterhunde, hvis den besætningsansvarlige sikrer, at hundene undersøges for salmonella tidligst 14 dage før indsættelse i hønseflokken, med negativt resultat, foderet til hundene er varmebehandlet og efterfølgende opbevaret, så risikoen for, at det kontamineres med salmonella minimeres, hundenes afføring fjernes fra indhegningen med jævne mellemrum, og hundene ikke er i kontakt med hønsene så længe hundene er i behandling med lægemidler, herunder pour-on præparater, samt i den efterfølgende periode, hvor rester af lægemidlet udskilles helt."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Den besætningsansvarlige skal sikre, at hundene holdes under opsyn, således de ikke indtager andet end det foder, der er anført i stk. 3, nr. 2, når hundene ikke opholder sig i indhegningen, hvor hønsene går."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 6",
+      "title": "Prøveudtagning og undersøgelse",
+      "paragraphs": [
+        {
+          "paragraph": "§ 12.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal sikre, at flokken er undersøgt for salmonella med et negativt resultat, i medfør af bilag 3, inden flokken må indgå i konsumægsproduktion, dette gælder når hønsene ikke stammer fra et godkendt rugeri i medfør af § 5, stk. 1, nr. 1, eller hønsene ikke stammer fra et registreret opdræt."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Kravene i stk. 1 gælder ikke for besætninger omfattet af § 7, stk. 3."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 13.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal sikre, at der fra hver flok udtages og indsendes materiale til undersøgelse for salmonella efter beskrivelsen i bilag 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Ved prøveudtagninger og indsendelser, der skal forestås af Fødevarestyrelsen, skal den besætningsansvarlige advisere Fødevarestyrelsen senest 14 dage før prøveudtagning."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 14.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal sikre, at materiale til undersøgelse for salmonella indsendes til et officielt udpeget laboratorium sammen med oplysninger om CHR-nummer og husnummer, hvis det vedrører flokke, hvor hønsene ikke stammer fra et godkendt rugeri eller et registreret opdræt, jf. § 12, den løbende kontrol, hvor materiale udtages fra hver flok, jf. § 13, stk. 1, eller prøver, som Fødevarestyrelsen udtager på ejendomme med konsumægsproducerende flokke, hvor der ikke er påvist salmonella, jf. § 27."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Hvis salmonellabakterier isoleres i materiale indsendt i henhold til stk. 1, eller i anden anledning, skal den besætningsansvarlige sikre, at salmonella-isolatet straks undersøges på et officielt udpeget laboratorium med henblik på verifikation og serotypning, og laboratoriet fremsender isolatet til Fødevarestyrelsen efter Fødevarestyrelsens anvisninger."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Den besætningsansvarlige skal endvidere sikre, at bakteriologiske fund samt positiv serologisk reaktion mod salmonella straks indberettes til Fødevarestyrelsen, det officielt udpegede laboratorium er informeret om at foretage resistensbestemmelse med de antimikrobielle stoffer, der fremgår af Kommissionens gennemførelsesafgørelse (EU) 2020/1729 af 17. november 2020 om overvågning og rapportering af antimikrobiel resistens hos zoonotiske og kommensale bakterier og om ophævelse af gennemførelsesafgørelse 2013/652/EU, og resultatet af resistensbestemmelsen straks indberettes til Fødevarestyrelsen."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Den besætningsansvarlige skal opbevare samtlige resultater af salmonellaundersøgelser i mindst 2 år fra resultatet foreligger."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Den besætningsansvarlige skal sikre, at der ved fund af kritisk resistent salmonella sker opfølgning efter reglerne i bekendtgørelsen om kritisk resistent salmonella hos fjerkræ, kvæg og grise."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 15.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige skal sikre, at både salmonellaundersøgelser og deres resultater, uanset om de er positive eller negative, overføres elektronisk til Fjerkrædatabasen efter Fødevarestyrelsens anvisninger. Overførslen skal ske snarest muligt efter prøveresultatet foreligger, dog senest 14 dage efter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 7",
+      "title": "Offentligt tilsyn",
+      "paragraphs": [
+        {
+          "paragraph": "§ 16.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Fødevarestyrelsen sætter en flok under offentligt tilsyn, hvis der isoleres salmonella i materiale indsendt i henhold til § 14, stk. 1, eller flokken mistænkes for at være smittet med salmonella, jf. § 22."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 17.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige for en flok under offentligt tilsyn skal sikre, at flokken holdes isoleret, høns fra flokken ikke sælges eller på anden måde overdrages til levebrug, høns fra flokken kun slagtes til konsum, hvis de slagtes på et fjerkræslagteri og efterfølgende varmebehandles på en virksomhed, der er autoriseret til at foretage varmebehandling af fjerkrækød, æg fra flokken kun anvendes til konsum, hvis de leveres direkte til en virksomhed, der er autoriseret til at fremstille varmebehandlede ægprodukter, høns ikke indsættes i flokken, den rutinemæssige prøveudtagning, jf. § 13, stk. 1 suspenderes, personer, der færdes mellem flokken og andre flokke, træffer foranstaltninger for at hindre smittespredning, der iværksættes en effektiv skadedyrsbekæmpelse, gødning, foder og lignende produkter behandles efter Fødevarestyrelsens anvisninger, redskaber, maskiner og lignende, der anvendes på flokkens opholdssteder, rengøres og desinficeres, inden de fjernes fra flokkens opholdssteder, der efter Fødevarestyrelsens anvisninger gennemføres en udredning af mulige smittekilder og eventuel spredning af smitten, samt at der sker underretning om resultatet af udredningen til Fødevarestyrelsen, og der straks gives meddelelse om det offentlige tilsyn til alle, der kommer i kontakt med flokken."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 18.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Fødevarestyrelsen underretter Danske Æg, når en flok sættes under offentligt tilsyn, med henblik på registrering i Fjerkrædatabasen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 8",
+      "title": "Mistanke om salmonella",
+      "paragraphs": [
+        {
+          "paragraph": "§ 19.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvis serotypning af salmonella påvist i materiale indsendt i henhold til § 14, stk. 1, påviser salmonella af anden type, anses flokken for at være mistænkt for smittet med salmonella af anden type."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Fødevarestyrelsen udtager og indsender herefter hurtigst muligt materiale til undersøgelse efter bilag 2 fra flokke, der anses for mistænkt som beskrevet i stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 20.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En flok, der anses som mistænkt efter § 19, stk. 1, anses som smittet med salmonella af anden type, hvis mistanken bekræftes ved laboratoriemæssig undersøgelse af det materiale, der er udtaget af Fødevarestyrelsen, jf. § 19, stk. 2."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 21.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvis mistanken om smitte med salmonella i en flok ikke kan bekræftes ved undersøgelse af det materiale, der er udtaget af Fødevarestyrelsen i henhold til § 19, stk. 2, udtager og indsender Fødevarestyrelsen snarest muligt en ny prøve til undersøgelse, dog tidligst 14 dage efter den første prøve. Hvis mistanken fortsat ikke kan bekræftes, anses flokken for at være fri for mistanke."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 22.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En flok anses som mistænkt for at være smittet med salmonella, hvis der findes positiv serologisk reaktion mod salmonella i materiale indsendt fra flokken, der isoleres salmonella i materiale indsendt i anden anledning end prøveudtagning efter § 13, stk. 1, eller § 27, eller der i en prøve udtaget af Fødevarestyrelsen efter § 19, stk. 2, § 20, § 23 eller § 24, stk. 2, påvises en anden serotype end den, der førte til prøveudtagningen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Fødevarestyrelsen kan anse enkelte eller samtlige flokke i besætningen som mistænkt for at være smittet med salmonella, hvis infektion med salmonella hos mennesker kan spores tilbage til æg fra besætningen eller et afgrænset antal flokke, eller flokken har leveret høns til eller modtaget høns fra en flok, som er smittet med salmonella."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 23.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Fødevarestyrelsen udtager og indsender materiale til undersøgelse, jf. bilag 2, kapitel 2, fra flokke, der er mistænkt i henhold til § 22."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Kan mistanken om smitte med salmonella i en flok ikke bekræftes ved undersøgelse af materiale indsendt efter stk. 1, udtager og indsender Fødevarestyrelsen snarest muligt nyt materiale til undersøgelse. Denne prøve udtages dog tidligst 14 dage efter, at prøven efter stk. 1 er udtaget."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 24.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En flok, der er mistænkt efter § 22, anses som smittet med salmonella, hvis mistanken bekræftes ved laboratoriemæssig undersøgelse af det materiale, der er udtaget af Fødevarestyrelsen, jf. § 23."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Kan mistanken ikke bekræftes efter undersøgelse af det materiale, der er udtaget af Fødevarestyrelsen i henhold til § 23, anses flokken for at være fri for mistanke."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 25.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Hvis en flok, der er mistænkt efter § 19, stk. 1, eller § 22, aflives og destrueres eller slagtes, uden at mistanken er afklaret, ophæves det offentlige tilsyn, når rengøring samt desinfektion, jf. § 29 er blevet godkendt af Fødevarestyrelsen på baggrund af visuel bedømmelse og svaberprøver udtaget af Fødevarestyrelsen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 9",
+      "title": "Flokke smittet med salmonella",
+      "paragraphs": [
+        {
+          "paragraph": "§ 26.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En flok anses som smittet med salmonella, når der i flokken konstateres Salmonella Typhimurium inklusive varianterne Salmonella 4,12:i:- og Salmonella 4,5,12:i:-, Salmonella Enteritidis, Salmonella Virchow, Salmonella Infantis og Salmonella Hadar, ved den i § 14, stk. 1 nævnte serotypning, flokken er fundet smittet med salmonella efter § 20 eller § 24, flokken tidligere har været under mistanke efter kapitel 8 vedrørende mistanke om salmonella, og der i prøver udtaget efter § 13, stk. 1 eller § 27 findes salmonella af samme serotype, eller der i prøver udtaget efter § 13, stk. 1, eller § 27 blev konstateret salmonella i den flok, som umiddelbart inden den nuværende flok opholdt sig i det eller de huse, hvor den nuværende flok opholder sig, og der ved den i § 14, stk. 1, nævnte serotypning konstateres salmonella af samme serotype i den nuværende flok, som blev konstateret i den tidligere flok. Der i prøver udtaget efter § 13, stk. 1 eller § 27 konstateres salmonella af anden type i en flok, hvor der ved den i § 14, stk. 1, nævnte serotypning tidligere er konstateret salmonella af samme serotype i en anden flok på ejendommen, og de to flokke har opholdt sig på ejendommen samtidig."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den besætningsansvarlige skal sikre, at æg fra en flok smittet med salmonella kun anvendes til konsum, hvis de leveres direkte til en virksomhed, der er autoriseret til at fremstille varmebehandlede ægprodukter."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Den besætningsvarlige skal sikre, at høns fra en flok smittet med salmonella kun slagtes til konsum, hvis de slagtes på et fjerkræslagteri og efterfølgende varmebehandles på en virksomhed, der er autoriseret til at foretage varmebehandling af fjerkrækød."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 27.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Når der er påvist salmonella uanset serotype i en flok, udtager Fødevarestyrelsen prøver på ejendommen i de konsumægsproducerende flokke, hvor der ikke er fundet salmonella, jf. bilag 2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 10",
+      "title": "Ophævelse af det offentlige tilsyn",
+      "paragraphs": [
+        {
+          "paragraph": "§ 28.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Fødevarestyrelsen ophæver det offentlige tilsyn, når mistanken ikke kan bekræftes, jf. § 21, § 24, stk. 2, eller en mistænkt flok er blevet sat ud uden at mistanken er blevet afklaret, og rengøring samt desinfektion, jf. § 29, er blevet godkendt af Fødevarestyrelsen på baggrund af visuel bedømmelse og svaberprøver udtaget af Fødevarestyrelsen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Fødevarestyrelsen underretter Danske Æg om ophævelsen af det offentlige tilsyn med henblik på registrering i Fjerkrædatabasen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 29.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige må først indsætte høns i bygninger, hvor en mistænkt flok har opholdt sig, efter at Fødevarestyrelsen har godkendt den i § 25, nævnte rengøring og desinfektion."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 30.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Fødevarestyrelsen ophæver det offentlige tilsyn, når den besætningsansvarlige har sikret, at flokken er aflivet eller slagtet, rengøring og desinfektion er udført i medfør af stk. 2, og godkendt af Fødevarestyrelsen, gødning fra den smittede flok med salmonella er behandlet efter Fødevarestyrelsens anvisning, og alt tilbageværende foder fra en flok smittet med salmonella er behandlet efter Fødevarestyrelsens anvisning."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Den besætningsansvarlige skal sikre, at alle rum, hvor flokken har opholdt sig, samt redskaber, maskiner og lignende snarest rengøres og desinficeres efter Fødevarestyrelsens anvisning."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Fødevarestyrelsen underretter Danske Æg om ophævelsen af det offentlige tilsyn med henblik på registrering i Fjerkrædatabasen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 11",
+      "title": "Egenkontrol",
+      "paragraphs": [
+        {
+          "paragraph": "§ 31.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Den besætningsansvarlige for konsumægsproducerende høns skal udarbejde og følge et egenkontrolprogram. Egenkontrolprogrammet skal være egnet til at forebygge introduktion af salmonella i produktionen, og effektivt fjerne eventuel introduceret salmonella fra produktionen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Fødevarestyrelsen gennemfører et årligt tilsyn i besætningen for at kontrollere, at kravene i egenkontrolprogrammet overholdes."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Undtaget fra kravene i stk. 1 og 2 er besætninger, hvorfra der alene leveres æg direkte til den endelige forbruger eller lokale detailvirksomheder, der leverer direkte til den endelige forbruger, jf. § 6, stk. 1, nr. 5, i bekendtgørelse om autorisation og registrering af fødevarevirksomheder m.v."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Undtaget fra kravene i stk. 1 er endvidere besætninger, der er omfattet af § 7, stk. 3, hvor der kun leveres æg direkte til en kendt aftagerkreds under visse betingelser."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 12",
+      "title": "Afholdelse af udgifter",
+      "paragraphs": [
+        {
+          "paragraph": "§ 32.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Alle udgifter, der afholdes i medfør af denne bekendtgørelse, er Fødevarestyrelsen uvedkommende."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 13",
+      "title": "Straffebestemmelser",
+      "paragraphs": [
+        {
+          "paragraph": "§ 33.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Med bøde straffes den, der overtræder § 3, stk. 1 eller 2, § 4, § 5, § 6, stk. 1, §§ 7-10, § 11, stk. 1 eller 3, § 12, stk. 1, § 13, § 14, stk.1-4, § 15, § 17, § 25, § 26, stk. 2 eller 3, § 29, § 30, stk. 1-3, eller § 31, stk. 1, eller undlader at sikre udtagelse og indsendelse af materiale i henhold til § 14."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Straffen kan stige til fængsel i indtil 2 år, hvis den ved handlingen eller undladelsen skete overtrædelse er begået med forsæt eller grov uagtsomhed, og der ved overtrædelsen er forvoldt skade på menneskers eller dyrs sundhed eller fremkaldt fare herfor, eller opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre, herunder besparelser."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 14",
+      "title": "Ikrafttræden m.v.",
+      "paragraphs": [
+        {
+          "paragraph": "§ 34.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 1. juli 2025."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Bekendtgørelse nr. 499 af 23. marts 2021 om bekæmpelse af salmonella i konsumægsproducerende høns og opdræt hertil ophæves."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

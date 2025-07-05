@@ -1,0 +1,213 @@
+{
+  "id": "2025_543",
+  "title": "Bekendtgørelse om indsendelse af prøver og andre oplysninger om Danmarks undergrund",
+  "year": "2025",
+  "number": "543",
+  "status": "Valid",
+  "ministry": "Klima-, Energi- og Forsyningsministeriet",
+  "date_published": "2025-05-26",
+  "signatures": [
+    "Peter Christian Baggesgaard Hansen",
+    "Anne Sofie Sandbech"
+  ],
+  "concerns": [
+    "Bekendtgørelse af lov om anvendelse af Danmarks undergrund"
+  ],
+  "structured_text": [
+    {
+      "chapter": "",
+      "title": "",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen finder anvendelse for rettighedshavers pligt til indsendelse af fysiske prøver og andre oplysninger om Danmarks undergrund, der tilvejebringes under udøvelse af enhver virksomhed omfattet af loven, til Energistyrelsen og GEUS."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaveren skal vederlagsfrit indsende fysiske prøver og oplysninger, som nævnt i §§ 3-15 til Energistyrelsen eller GEUS."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Alle prøver og oplysninger skal bære information om anvendte dybdereferencer, geodætiske referencer og for landdata tillige anvendt højdemodel."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Fysiske prøver skal indsendes til deponering hos GEUS, jf. dog stk. 4."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Energistyrelsen kan dispensere fra kravet om deponering af en fysisk prøve hos GEUS, hvis deponeringen ikke kan bidrage til opbygningen af den databank, som GEUS administrerer, vedrørende Danmarks undergrund."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal ved arbejder godkendt efter lovens § 28, stk. 1 og 3, senest hver 7. dag i tidsrummet for indsamlingen indsende fremdriftsrapporter til Energistyrelsen og GEUS indeholdende oplysninger om: Undersøgelsens planlagte omfang, herunder planlagte linier (km) eller arealer (km 2 ). Antal km eller km 2 undersøgt i den forudgående uge. Det totale antal km eller km 2 udført under indsamlingen på indsendelsestidspunktet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal indsende tolkningsrapporter og analyseresultater om geofysiske undersøgelser til Energistyrelsen og GEUS  senest 8 uger efter disse er udarbejdet."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal indsende oplysninger om senere bearbejdninger i form af f.eks. specielle processeringer eller reprocesseringer af data til GEUS senest 8 uger efter, at disse er udført."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for seismiske undersøgelser udover oplysninger omfattet af §§ 3-5 indsende følgende oplysninger til GEUS: Feltdata og tilhørende rå- og processerede navigationsdata. Skudspunktskort. Observers log. Dataindsamlingsrapporter. Distributed Acoustic Sensing og mikroseismiske undersøgelser for så vidt angår tolkning af første ankomster og amplituder. Processerede data, herunder seismiske hastighedsmodeller og checkshot data. Processeringsrapporter."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Oplysninger efter nr. 1-4 indsendes senest 6 måneder efter indsamlingen. Oplysninger efter nr. 5-7 indsendes senest 1 år efter indsamlingen."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for gravimetriske undersøgelser udover oplysninger omfattet af §§ 3-5 senest 6 måneder efter indsamlingen indsende følgende oplysninger til GEUS: Rådata, herunder målepunkter, måleparametre og line header information. Processerede data, herunder basestationkorrektion, terrænkorrektion, og støjfiltrering. Dataindsamlings- og processeringsrapporter, herunder visualisering af Free Air og Bouguer anomali."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for magnetiske undersøgelser udover oplysninger omfattet af §§ 3-5 senest 6 måneder efter indsamlingen indsende følgende oplysninger til GEUS: Rådata, herunder målepunkter, måleparametre og line header information. Processerede data, herunder basestationkorrektion, støjfiltrering, total grid, residual grid og ved gradiometrisk opsætning tillige analytisk grid. Dataindsamlings- og processeringsrapport."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for akustiske undersøgelser udover oplysninger omfattet af §§ 3-5 senest 6 måneder efter indsamlingen indsende følgende oplysninger til GEUS: Rådata og tilhørende navigationsdata herunder indsamlingslinier og navigationsfiler. Processerede data, herunder bevægelses- og tidevandskorrigerede, georefererede og rensede data. Dataindsamlings- og processeringsrapporter."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for elektroniske undersøgelser udover oplysninger omfattet af §§ 3-5 senest 6 måneder efter indsamlingen indsende følgende oplysninger til GEUS: Rådata. Processerede data. 2D indsamlingslinier eller 3D grid. Resistivitetsmodel (numerisk inversion). Dataindsamlings- og processeringsrapporter."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 11.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for geotekniske undersøgelser senest 6 måneder efter indsamlingen indsende til GEUS: Tryksonderingsdata. Kerner. Jordprøver. Dataindsamlings- og tolkningsrapporter."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 12.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for geokemiske undersøgelser senest 6 måneder efter indsamlingen indsende følgende oplysninger til GEUS: Et sæt af alle indsamlede prøver sammen med en oversigt over prøver, inklusive boringens eller prøvestedets koordinater, dybde for prøveudtag og dato for prøveudtagning. Alle analysedata med beskrivelse af analysemetoder og normer, herunder anvendte referencestandarder. Alle rapporter og øvrige fremstillinger af data af geokemisk relevans."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 13.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for boringer godkendt i henhold til lovens § 28, stk. 1 og 3 indsende prøver og oplysninger om udførte målinger og undersøgelser udført under boring eller monitering."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Rettighedshaver skal under borearbejdet indsende daglige rapporter indeholdende oplysninger om de senest 24 timers arbejde, som skal være Energistyrelsen og GEUS i hænde senest kl. 11.00. Rapporterne skal indeholde oplysningerne angivet i Bilag 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 14.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for boringer godkendt i henhold til lovens § 28, stk. 1 og 3 senest 6 måneder efter indsamlingen indsende følgende oplysninger til Energistyrelsen og GEUS: Retningsmåling (deviation survey). Afsluttende bore- og geologisk rapport (Final Well Report) med som minimum oplysninger angivet i Bilag 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Rettighedshaver skal efter dataindsamlingen, og senest 8 uger efter vurderingerne er udarbejdet, indsende tolkningsrapporter og analyseresultater til Energistyrelsen og GEUS."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 15.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Rettighedshaver skal for boringer godkendt i henhold til lovens § 28, stk. 1 og 3 senest 6 måneder efter indsamlingen indsende følgende oplysninger til GEUS: Udførte målinger i boringen i form af petrofysiske logs og caliper logs. Visuelle målinger i form af image logs. Seismiske målinger i boringen i form af Vertikal Seismisk Profil og lignende. Formationsstyrkemålinger. Temperaturmålinger. Tryk- og flowmålinger. Data og resultater af alle udførte analyser vedrørende boringen, herunder også fra formationsvæskeprøver. Undersøgelses- og dataindsamlingsrapporter m.v., herunder produktionstestrapporter."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Rettighedshaver skal for boringer i henhold til lovens § 28, stk. 1 og 3 senest 1 år fra indsamlingen indsende følgende prøver til GEUS: Borespåner i form af et sæt vaskede og tørrede prøver samt et sæt våde prøver, der udtages med samme intervaller som prøver indsamlet til rettighedshaverens eget brug. Borevæske i form af prøver udtaget for som minimum hver 300 meters borelængde. Sidevægskerner. Formationsvæskeprøver fra ukendte reservoirer. Kerner og kerneprøver samt kernebeskrivelser og kernefotos. Biostratigrafiske prøver, herunder palæontologiske og palynologiske præparater. Tyndslib."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 16.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Med bøde straffes den, der overtræder § 2, stk. 1 og 3."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 17.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 1. juli 2025."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Bekendtgørelse nr. 56 af 4. februar 2002 om indsendelse af prøver og andre oplysninger om Danmarks undergrund ophæves."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

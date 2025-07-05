@@ -1,0 +1,459 @@
+{
+  "id": "2025_788",
+  "title": "Bekendtgørelse om nemkonto",
+  "year": "2025",
+  "number": "788",
+  "status": "Valid",
+  "ministry": "Digitaliseringsministeriet",
+  "date_published": "2025-06-24",
+  "signatures": [
+    "Caroline Stage Olsen",
+    "Tanja Franck"
+  ],
+  "concerns": [
+    "Lov om nemkonto"
+  ],
+  "structured_text": [
+    {
+      "chapter": "Kapitel 1",
+      "title": "Anvendelsesområde og definitioner",
+      "paragraphs": [
+        {
+          "paragraph": "§ 1.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Kapitel 2 finder anvendelse på privatpersoners og juridiske enheders anvisning, ændring og sletning af nemkonti og ydelsesspecifikke konti og Digitaliseringsstyrelsens sletning af nemkonti og ydelsesspecifikke konti."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Kapitel 3 finder anvendelse på offentlige udbetaleres indberetning af privatpersoner og juridiske enheders anvisning, ændring og sletning af nemkonti og ydelsesspecifikke konti."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Kapitel 4 finder anvendelse på offentlige udbetaleres tilslutning til og anvendelse af nemkontosystemet."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Kapitel 5 finder anvendelse på Digitaliseringsstyrelsens tilrådighedsstillelse af nemkontosystemet for offentlige udbetalere."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 2.",
+          "sections": [
+            {
+              "section": "",
+              "text": "I denne bekendtgørelse forstås ved: Privatperson: En fysisk person, som defineret i § 1, nr. 3, i lov om nemkonto, og som er omfattet af § 2 i lov om nemkonto. Juridisk enhed: En virksomhed, som defineret i § 1, nr. 4, i lov om nemkonto, og som er omfattet af § 3 i lov om nemkonto. Offentlig udbetaler: En offentlig udbetaler, som defineret i § 8 i lov om nemkonto. Nemkonto: En konto, som defineret i § 1, nr. 1, i lov om nemkonto. Ydelsesspecifik konto: En konto, som defineret i § 1, nr. 6, i lov om nemkonto. Nemkontosystemet: Systemet, som defineret i § 1, nr. 2, i lov om nemkonto. Nemkontosupporten: De ydelser, Digitaliseringsstyrelsen stiller til rådighed til at yde vejledning og bistand til privatpersoner og juridiske enheder med bl.a. anvisning af konti som nemkonti, samt yde vejledning og assistance til offentlige udbetalere med bl.a. tilslutning til og brug af nemkontosystemet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 2",
+      "title": "Anvisning, ændring og sletning af konti i nemkontosystemet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 3.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Konti med en dansk eller internationalt anerkendt kontoidentifikation, der føres i følgende institutter, kan anvises som nemkonti eller ydelsesspecifikke konti: Dansk pengeinstitut, som defineret i § 5, stk. 1, nr. 1, i lov om nemkonto. Dansk betalings- eller e-pengeinstitut, som defineret i § 5, stk. 1, nr. 2, i lov om nemkonto. EU-/EØS-kreditinstitut, som defineret i § 5, stk. 1, nr. 3, i lov om nemkonto. EU-/EØS-betalingsinstitut eller EU-/EØS-e-pengeinstitut, som defineret i § 5, stk. 1, nr. 4, i lov om nemkonto. Færøsk eller grønlandsk pengeinstitut, som defineret i § 5, stk. 1, nr. 5, i lov om nemkonto. Færøsk betalings- eller e-pengeinstitut, som defineret i § 5, stk. 1, nr. 6, i lov om nemkonto. Tredjelandskreditinstitut, som defineret i § 5, stk. 1, nr. 7, i lov om nemkonto."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 4.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Privatpersoner kan anvise og ændre en konto som nemkonto på følgende måder: Ved at anmode det kontoførende institut om at indberette den ønskede konto, der føres i det pågældende institut, som nemkonto. Det er dog en forudsætning, at det pågældende kontoførende institut er tilsluttet ordningen om forpligtelser til offentlig tjeneste efter bekendtgørelse om ordningen om forpligtelser til offentlig tjeneste i relation til nemkontosystemet. Ved at indberette kontoen i nemkontosystemets selvbetjeningsløsning ved anvendelse af elektronisk identifikation (eID), som er accepteret af Digitaliseringsstyrelsen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Privatpersoner kan desuden anvise eller ændre en konto som nemkonto ved at anmode en kommune, nemkontosupporten eller en offentlig udbetaler, som privatpersonen ansøger om eller modtager betalinger fra, om at bistå hermed. Kommunen, nemkontosupporten eller den offentlige udbetaler kan dog henvise privatpersonen til at anvise kontoen som nemkonto efter stk. 1, nr. 1, hvis kontoen føres i et institut, som er tilsluttet ordningen om forpligtelser til offentlig tjeneste efter bekendtgørelse om ordningen om forpligtelser til offentlig tjeneste i relation til nemkontosystemet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Privatpersoner skal identificere sig ved anvisning og ændring af en konto som nemkonto."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Ved anvisning eller ændring af en konto som nemkonto efter en af anvisningsmåderne i stk. 1, nr. 2, eller stk. 2, skal privatpersonen aktivere den nye nemkonto efter aktiveringsprocessen i § 10, stk. 2, før kontoen registreres som aktiv i nemkontosystemet og dermed kan benyttes som nemkonto."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 5.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Privatpersoner kan slette en konto som nemkonto i nemkontosystemets selvbetjeningsløsning ved anvendelse af elektronisk identifikation (eID), som er accepteret af Digitaliseringsstyrelsen."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Privatpersoner, der ikke kan bruge selvbetjeningsløsningen efter stk. 1, kan i stedet anmode en kommune, nemkontosupporten eller en offentlig udbetaler, som privatpersonen modtager betalinger fra, om at få slettet en konto som nemkonto."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Privatpersoner skal identificere sig ved anmodninger efter stk. 2."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 6.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Juridiske enheder kan anvise og ændre en konto som nemkonto ved at anmode det kontoførende institut om at indberette den ønskede konto som nemkonto til nemkontosystemet. Det er dog en forudsætning, at det pågældende institut er tilsluttet ordningen om forpligtelser til offentlig tjeneste efter bekendtgørelse om ordningen om forpligtelser til offentlig tjeneste i relation til nemkontosystemet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Juridiske enheder kan desuden anvise eller ændre en konto som nemkonto ved at anmode nemkontosupporten eller en offentlig udbetaler, som den juridiske enhed ansøger om eller modtager betalinger fra, om at bistå hermed. Kommunen, nemkontosupporten eller den offentlige udbetaler kan dog henvise den juridiske enhed til at anvise kontoen som nemkonto efter stk. 1, hvis kontoen føres i et institut, som er tilsluttet ordningen om forpligtelser til offentlig tjeneste efter bekendtgørelse om ordningen om forpligtelser til offentlig tjeneste i relation til nemkontosystemet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Ved anvisning eller ændring af en konto som nemkonto efter stk. 2 skal den juridiske enhed aktivere den nye nemkonto efter aktiveringsprocessen i § 10, stk. 2, før kontoen registreres som aktiv i nemkontosystemet og dermed kan benyttes som nemkonto."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Juridiske enheder kan få slettet en konto som nemkonto ved at anmode nemkontosupporten eller en offentlig udbetaler, som den juridiske enhed modtager betalinger fra, om at bistå hermed."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Anmodninger efter stk. 1, 2 og 4 skal foretages af den eller de tegningsberettigede for den juridiske enhed. Den eller de tegningsberettigede skal identificere sig og skal desuden på forlangende dokumentere, at den eller de pågældende er tegningsberettiget for den juridiske enhed."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 7.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En privatperson kan anvise, ændre eller slette en konto som ydelsesspecifik konto ved at henvende sig til den offentlige udbetaler, der forestår udbetalinger af den pågældende ydelsesart til vedkommende, jf. dog § 9, stk. 3. Ved henvendelsen skal privatpersonen identificere sig. Den offentlige udbetaler fastsætter, hvilke ydelser der er omfattet af en ydelsesart, jf. § 11, stk. 1, 2. pkt., i lov om nemkonto."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En privatperson kan ændre eller slette en konto som ydelsesspecifik konto i nemkontosystemets selvbetjeningsløsning ved anvendelse af elektronisk identifikation (eID), som er accepteret af Digitaliseringsstyrelsen, jf. dog § 9."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Når en konto anvises eller ændres som ydelsesspecifik konto, skal privatpersonen aktivere kontoen efter aktiveringsprocessen i § 10, stk. 2, før kontoen registreres som aktiv i nemkontosystemet og dermed kan benyttes som ydelsesspecifik konto. Dette gælder dog ikke, hvis den ydelsesspecifikke konto er låst, jf. § 9, stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 8.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En juridisk enhed kan anvise og ændre en konto som ydelsesspecifik konto ved at henvende sig til den offentlige udbetaler, der forestår udbetalinger af den pågældende ydelsesart til vedkommende. Den offentlige udbetaler fastsætter, hvilke ydelser der er omfattet af en ydelsesart, jf. § 11, stk. 1, 2. pkt., i lov om nemkonto."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En juridisk enhed kan slette en ydelsesspecifik konto ved at henvende sig til den offentlige udbetaler, der udbetaler den pågældende ydelse, jf. dog § 9, stk. 3."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Anmodninger efter stk. 1 og 2 skal foretages af den eller de tegningsberettigede for den juridiske enhed. Den eller de tegningsberettigede skal identificere sig og skal desuden på forlangende dokumentere, at den eller de pågældende er tegningsberettiget for den juridiske enhed."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Er en ydelsesspecifik konto anvist eller ændret efter stk. 1, skal den juridiske enhed aktivere den ydelsesspecifikke konto efter aktiveringsprocessen i § 10, stk. 2, før kontoen registreres som aktiv i nemkontosystemet og dermed kan benyttes som ydelsesspecifik konto. Dette gælder dog ikke, hvis den ydelsesspecifikke konto er låst, jf. § 9, stk. 1."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 9.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En ydelsesspecifik konto kan låses af den offentlige udbetaler, jf. § 11, stk. 2-4, i lov om nemkonto, hvilket indebærer, at kontoen uanset §§ 7 og 8 kun kan ændres eller slettes af den pågældende offentlige udbetaler."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En privatperson, der har anmodet om at få en ydelsesspecifik konto låst efter § 11, stk. 2, i lov om nemkonto, kan anmode den offentlige udbetaler om, at den ydelsesspecifikke konto låses op, med henblik på at vedkommende selv kan ændre eller slette den ydelsesspecifikke konto ved brug af nemkontosystemets selvbetjeningsløsning efter § 7, stk. 2."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Er en ydelsesspecifik konto låst efter § 11, stk. 3, i lov om nemkonto, kan privatpersonen eller den juridiske enhed ikke selv beslutte at ændre eller slette den ydelsesspecifikke konto."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 10.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Når der anvises en konto som nemkonto efter § 4, stk. 1, nr. 1, eller § 6, stk. 1, vil nemkontoen blive registreret som aktiv i nemkontosystemet senest 2 bankdage efter, at instituttet har indberettet oplysninger om kontoen til nemkontosystemet."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Efter en konto er indberettet som nemkonto eller ydelsesspecifik konto i nemkontosystemet efter § 4, stk. 1, nr. 2, eller stk. 2, § 6, stk. 2, § 7, stk. 1 eller 2, eller § 8, stk. 1, skal der gennemføres en aktiveringsproces for, at kontoen kan blive registreret som aktiv nemkonto eller ydelsesspecifik konto i nemkontosystemet. Der sendes et fysisk aktiveringsbrev med instruktioner om, hvordan den pågældende konto aktiveres."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Ifølge § 6 i lov om nemkonto har anvisning, ændring eller sletning af en konto senest virkning for betalinger, der er til disposition på betalingsmodtagerens konto, den femte bankdag efter at kontoen er registreret som aktiv eller ophørt nemkonto eller ydelsesspecifik konto i nemkontosystemet. For betalinger til udenlandske konti kan seneste virkningstidspunkt dog være, senere end den femte bankdag efter at kontoen er registreret som aktiv eller ophørt, som følge af at den samlede ekspeditionstid for udenlandske betalinger kan være længere."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 11.",
+          "sections": [
+            {
+              "section": "",
+              "text": "På baggrund af registreringer i Det Centrale Personregister om en privatpersons død slettes vedkommendes nemkonto og eventuelle ydelsesspecifikke konti i nemkontosystemet senest 3 år efter registreringen af privatpersonens død."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "På baggrund af registreringer i Det Centrale Virksomhedsregister om konkursdekret om en juridisk enhed slettes enhedens nemkonto og eventuelle ydelsesspecifikke konti hurtigst muligt."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "På baggrund af oplysninger fra Det Centrale Virksomhedsregister eller oplysninger fra Skatteforvaltningens Erhvervssystem om en juridisk enheds ophør slettes enhedens nemkonto og eventuelle ydelsesspecifikke konti i nemkontosystemet senest 1 år efter registreringen af den juridiske enheds ophør."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "På baggrund af oplysninger fra en offentlig udbetalers betalingsafviklende institut, om at en konto er lukket, kan Digitaliseringsstyrelsen eller en aktør udpeget af Digitaliseringsstyrelsen slette kontoen som nemkonto eller ydelsesspecifik konto i nemkontosystemet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 3",
+      "title": "Offentlige udbetaleres og nemkontosupportens indberetninger af nemkonti og ydelsesspecifikke konti til nemkontosystemet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 12.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En offentlig udbetaler skal på anmodning fra en privatperson eller en juridisk enhed indberette anvisning, ændring og sletning af den pågældendes nemkonto eller ydelsesspecifikke konto til nemkontosystemet, hvis den pågældende ansøger om eller modtager betalinger fra den offentlig udbetaler, jf. dog stk. 5."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Uanset stk. 1, skal en kommune på anmodning af en privatperson også indberette anvisning, ændring og sletning af konti som nemkonti til nemkontosystemet, uagtet om privatpersonen modtager betalinger fra kommunen eller er bosiddende i kommunen, jf. dog stk. 5."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Nemkontosupporten skal på anmodning af en privatperson eller en juridisk enhed indberette anvisning, ændring og sletning af den pågældendes konto som nemkonto til nemkontosystemet, jf. dog stk. 5."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "En indberetning efter stk. 1-3 skal ske under iagttagelse af passende kontrolforanstaltninger."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Uanset stk. 1-3 kan en offentlig udbetaler og nemkontosupporten henvise en privatperson eller en juridisk enhed til at anvise eller ændre en konto som nemkonto ved at henvende sig til det institut, der fører den konto, der ønskes anvist som nemkonto, hvis det pågældende institut har tilsluttet sig ordningen om forpligtelser til offentlig tjeneste efter bekendtgørelse om ordningen om forpligtelser til offentlig tjeneste i relation til nemkontosystemet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 4",
+      "title": "Offentlige udbetaleres tilslutning til og anvendelse af nemkontosystemet",
+      "paragraphs": [
+        {
+          "paragraph": "§ 13.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Offentlige udbetaleres anvendelse af og tilslutning til nemkontosystemet skal ske efter tekniske standarder og politikker udstedt af Digitaliseringsstyrelsen, der sikrer, at anvendelse og tilslutning sker i henhold til den til enhver tid gældende EU-retlige regulering og i overensstemmelse med konkurrenceudsatte aftaler om nemkontosystemet. Information om tekniske standarder og politikker findes på www.nemkonto.dk."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 14.",
+          "sections": [
+            {
+              "section": "",
+              "text": "For at benytte de i §§ 19 og 20 tilgængeliggjorte funktionaliteter som offentlig udbetaler skal den offentlige udbetaler til enhver tid leve op til definitionen af en offentlig udbetaler, jf. § 8 i lov om nemkonto, samt kravene til at fungere som offentlig udbetaler, jf. §§ 12-15 i lov om nemkonto."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 15.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Offentlige udbetalere skal rette henvendelse til nemkontosupporten for tilslutning til nemkontosystemet, jf. § 22, med anmodning om tilslutning og igangsættelse af tilslutningsaktiviteter."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "En offentlig udbetalers tilslutning til nemkontosystemet, herunder etablering af de nødvendige brugerrettigheder til nemkontosystemet, sker særskilt for hvert af den offentlige udbetalers udbetalingssystemer efter nærmere aftale mellem Digitaliseringsstyrelsen, eller en aktør som Digitaliseringsstyrelsen udpeger, og den offentlige udbetaler."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "For udbetalingssystemer, der betjener flere offentlige udbetalere, kan tilslutningen af disse systemer ske ved nærmere aftale mellem Digitaliseringsstyrelsen, eller en aktør som Digitaliseringsstyrelsen udpeger, og de berørte offentlige udbetalere."
+            },
+            {
+              "section": "Stk. 4.",
+              "text": "Når tilslutning i henhold til stk. 1 og 2 er gennemført for alle den offentlige udbetalers udbetalingssystemer, anses den offentlige udbetaler for fuldt tilsluttet."
+            },
+            {
+              "section": "Stk. 5.",
+              "text": "Offentlige udbetalere er forpligtede til at foretage eventuelle systemtilpasninger af egne udbetalingssystemer, der er nødvendige for at kunne kommunikere med og anvende nemkontosystemet."
+            },
+            {
+              "section": "Stk. 6.",
+              "text": "Digitaliseringsstyrelsen kan i særlige tilfælde dispensere fra kravet om tilslutning af en offentlig udbetaler til nemkontosystemet i en tidsbegrænset periode."
+            },
+            {
+              "section": "Stk. 7.",
+              "text": "For offentlige udbetalere, der har indgået særskilt aftale med leverandøren af nemkontosystemet om tilslutning, kan denne aftale videreføres, indtil aftalen ophører ved overgangen til et nyt nemkontosystem."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 16.",
+          "sections": [
+            {
+              "section": "",
+              "text": "En offentlig udbetaler, der ikke længere er omfattet af § 8 i lov om nemkonto, skal rette henvendelse til nemkontosupporten med henblik på frakobling af egne udbetalingssystemer fra nemkontosystemet og fratagelse af rettigheder i relation til nemkontosystemet. Digitaliseringsstyrelsen skal vejlede om, hvordan frakoblingen foretages."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Omkostninger til frakobling af et udbetalingssystem fra nemkontosystemet afholdes af den offentlige udbetaler, jf. § 23, stk. 1 og 2."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 17.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Offentlige udbetalere kan af Digitaliseringsstyrelsen suspenderes eller frakobles fra nemkontosystemet, hvis der er risiko for, at deres anvendelse af nemkontosystemet kan medføre et sikkerhedsbrud eller en sikkerhedsrisiko for privatpersoner, juridiske enheder eller nemkontosystemet som helhed."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen skal give en rimelig og så vidt muligt 14 dages varsel til offentlige udbetalere, med henblik på at det i stk. 1 anførte forhold kan bringes til ophør. Hvis forholdet ikke bringes til ophør inden udgangen af Digitaliseringsstyrelsens varsel, skal Digitaliseringsstyrelsen sikre, at der sker en frakobling af den pågældende offentlige udbetaler fra nemkontosystemet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 5",
+      "title": "Tilrådighedsstillelse af nemkontosystemet for offentlige udbetalere",
+      "paragraphs": [
+        {
+          "paragraph": "§ 18.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen stiller nemkontosystemet til rådighed og muliggør tilslutning hertil for offentlige udbetalere, jf. § 15."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Digitaliseringsstyrelsen sikrer, at nemkontosystemet indeholder de i §§ 19 og 20 anførte funktionaliteter."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 19.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Nemkontosystemet skal indeholde funktionaliteter, der muliggør modtagelse af betalingsmeddelelser fra offentlige udbetalere, danner betalingsordrer på baggrund af oplysninger i de modtagne betalingsmeddelelser og oplysninger i nemkontosystemet dels om den offentlige udbetaler og dels om betalingsmodtagerens nemkonto eller eventuelle ydelsesspecifikke konto, hvis betalingsmeddelelsen ikke indeholder betalingsmodtagerens kontooplysninger, og sender den dannede betalingsordre til den offentlige udbetalers betalingsafviklende institut."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 20.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Nemkontosystemet skal indeholde funktionaliteter, der muliggør, at offentlige udbetalere kan varetage administration, forvaltning og forretningsmæssig konfiguration i relation til nemkontosystemet via en sagsbehandlergrænseflade samt en offentlige udbetalers eget udbetalingssystem, herunder indberetning af nemkonti og ydelsesspecifikke konti, administration af egne ydelser og ydelsesarter, bruger- og rettighedsstyring samt adgang til oplysninger om egne betalinger."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 21.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen skal sikre en effektiv drift af nemkontosystemet med en høj grad af tilgængelighed og korte svartider, der afspejler, at nemkontosystemet udgør forretnings- og samfundskritisk infrastruktur."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Når Digitaliseringsstyrelsen har kendskab til tekniske forhold, som kan forstyrre den stabile drift, skal Digitaliseringsstyrelsen informere herom, jf. de tekniske standarder og politikker, som udstedes i medfør af § 13."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 22.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Digitaliseringsstyrelsen skal stille teknisk support til rådighed for offentlige udbetaleres tilslutning til nemkontosystemet, jf. § 15, samt til den løbende integration til nemkontosystemet. Der ydes ikke teknisk support til den offentlige udbetalers aktiviteter forbundet med § 15, stk. 5."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Offentlige udbetalere kan henvende sig til nemkontosupporten vedrørende teknisk support."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Supporten skal ydes inden for almindelig kontortid, og henvendelser skal besvares inden for rimelig tid."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 23.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Vederlag for tilslutning og frakobling af en offentlig udbetalers udbetalingssystemer til nemkontosystemet, jf. §§ 15 og 16, afholdes af den offentlige udbetaler."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Offentlige udbetalere afholder selv udgifter til eventuelle systemtilpasninger i egne fagsystemer som følge af tilslutning til og frakobling fra nemkontosystemet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "Offentlige udbetaleres anvendelse af nemkontosystemets funktionaliteter og teknisk support er finansieret af staten."
+            }
+          ]
+        },
+        {
+          "paragraph": "§ 24.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Offentlige udbetalere skal hurtigst muligt underrette Digitaliseringsstyrelsen ved it-sikkerhedsbrud eller mistanke herom, jf. stk. 2."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Et it-sikkerhedsbrud er en hændelse, som negativt påvirker eller vurderes at ville kunne påvirke tilgængelighed, autenticiteten, integritet eller fortrolighed af data, informationssystemer, digitale netværk eller digitale tjenester, og derved udgør en sikkerhedsmæssig brist eller risiko for brist med konsekvenser for driften af nemkontosystemet."
+            },
+            {
+              "section": "Stk. 3.",
+              "text": "I forbindelse med generelle trusler eller angreb mod nemkontosystemet er offentlige udbetalere forpligtede til i rimeligt omfang at bidrage til fejlsøgning og håndtering, også selvom den offentlige udbetaler ikke er omfattet af den pågældende trussel eller et konkret angreb."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "Kapitel 6",
+      "title": "Ikrafttræden",
+      "paragraphs": [
+        {
+          "paragraph": "§ 25.",
+          "sections": [
+            {
+              "section": "",
+              "text": "Bekendtgørelsen træder i kraft den 1. juli 2025."
+            },
+            {
+              "section": "Stk. 2.",
+              "text": "Bekendtgørelse nr. 647 af 13. april 2021 om Nemkontoordningen ophæves."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

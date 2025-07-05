@@ -17,7 +17,7 @@ NS = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 LAW_URL_PATTERN = re.compile(
     r"^https://www\.retsinformation\.dk/eli/(lta|ltb|ltc)/\d{4}/\d+$"
 )
-USER_AGENT = "DanishLawScraper/0.1 (your.email@example.com)"
+USER_AGENT = "DanishLawScraper/0.1 (JK.email@thisistest.com)"
 
 # ─── Session with Retries ─────────────────────────────────────────────────────
 
@@ -73,7 +73,7 @@ def fetch_and_save_law_json(session, eli_url, save_dir):
         logging.info(f"Skipping non-valid law: {eli_url}")
         return False
 
-    # 提取基本 meta 信息
+    # Extract basic meta information
     year = xp('string(//*[local-name()="Meta"]/*[local-name()="Year"])').strip()
     num  = xp('string(//*[local-name()="Meta"]/*[local-name()="Number"])').strip()
 
@@ -90,12 +90,12 @@ def fetch_and_save_law_json(session, eli_url, save_dir):
         "structured_text": []
     }
 
-    # 查所有 Kapitel 节点
+    # Find all Kapitel nodes
     kap_nodes = xp('//*[local-name()="Kapitel"]')
     structured = []
 
     if kap_nodes:
-        # 有章节时，按章节遍历
+        # If chapters exist, iterate by chapter
         for kap in kap_nodes:
             chap_num = kap.xpath('string(*[local-name()="Explicatus"])').strip()
             chap_title = kap.xpath(
@@ -127,7 +127,7 @@ def fetch_and_save_law_json(session, eli_url, save_dir):
             structured.append(chap_obj)
 
     else:
-        # 无章节时，回退到单一“默认章”
+        # If there are no chapters, fall back to a single "default chapter"
         default_chap = {"chapter": "", "title": "", "paragraphs": []}
         for p in xp('//*[local-name()="Paragraf"]'):
             para_num = p.xpath('string(*[local-name()="Explicatus"])').strip()
@@ -149,7 +149,7 @@ def fetch_and_save_law_json(session, eli_url, save_dir):
 
     law["structured_text"] = structured
 
-    # 保存 JSON
+    # Save JSON
     os.makedirs(save_dir, exist_ok=True)
     path = os.path.join(save_dir, f"{law['id']}.json")
     with open(path, "w", encoding="utf-8") as f:
@@ -194,7 +194,7 @@ def main():
     law_urls = filter_law_urls(all_urls)
     logging.info(f"Filtered to {len(law_urls):,} law URLs")
 
-    for idx, url in enumerate(law_urls[:10]):
+    for idx, url in enumerate(law_urls[:500]):
         if args.limit and idx >= args.limit:
             break
         try:
