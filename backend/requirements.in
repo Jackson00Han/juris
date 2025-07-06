@@ -10,6 +10,7 @@ transformers
 fastapi
 pydantic
 uvicorn[standard]
+olamma
 
 # smolagents 从 GitHub
 smolagents @ git+https://github.com/huggingface/smolagents.git@main#egg=smolagents

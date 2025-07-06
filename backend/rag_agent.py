@@ -23,6 +23,8 @@ with open("config.yaml", encoding="utf8") as f:
 
 # Load vector index & metadata
 INDEX = faiss.read_index(cfg["index_path"])
+if hasattr(INDEX, 'nprobe'):
+    INDEX.nprobe = cfg["nprobe"]
 with open(cfg["meta_path"], encoding="utf8") as f:
     META = json.load(f)
 

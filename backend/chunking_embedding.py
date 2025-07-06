@@ -134,8 +134,13 @@ def main():
     dim = mat.shape[1]
     print(f"Embedding matrix shape: {mat.shape} (dim={dim})")
 
-    index = faiss.IndexFlatL2(dim)
+    # build IVF index instead of Flat
+    nlist = cfg['nlist']
+    quantizer = faiss.IndexFlatL2(dim)                       # the coarse quantizer
+    index = faiss.IndexIVFFlat(quantizer, dim, nlist, faiss.METRIC_L2)
+    index.train(mat)                                         # must train on your data
     index.add(mat)
+
     faiss.write_index(index, args.index_path)
     print(f"FAISS index written to {args.index_path}")
 
